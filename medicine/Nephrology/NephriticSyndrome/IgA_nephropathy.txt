@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T10:58:33+11:00
+
+====== IgA nephropathy ======
+
+==== aka. Berger's disease/ synpharyngitic GN ====
+{{./pasted_image002.png}}
+Def: 
+* ++common GN esp @developed countries, esp in 20-30s, inflamm response @failure to excrete IgA == ++collection @kidey == nephritis
+* @++IgA production esp in response @URTI/ tonsillitis, possibly @inherent abnormality in IgA structure. 
+* Systemic form is [[Rheumatology:Vasculitides:Henoch-SchonleinGN]] 
+* Has severe/ mild forms with variable prognosis, and can progress to CKD decades after insult/ %%rapid progression (as a form of rapidly progressive crescenteric GN). 5-10% chance of complete remission @severe Berger's.
+* 2x more @male, rare @blacks, ++common caucasian/ east asian
+* GPA
+
+Sx:
+* %asymptomatic "latent" (but +ve on biopsy)
+* usu <5 days after an esp URTI
+* episodic gross haematuria (followed by microhaematuria) {looks like brown urine} 40-50%, usu provoked @viral URTI
+* %loin pain
+* %HTN
+* peripheral edema
+
+Ix:
+* Urinalysis == microhaematuria/ %albumuria (<2g /day)/ glomerular RBCs + red cell cast formation. 
+* USS of kidney + cystoscopy to confrm source == rule out renal calc/ TCC
+* Renal biopsy confirms diagnosis 
+	* Immunofluoresnce + EM to show mesangial IgA dominant deposits. IgG codeposition == bad outcomes. 
+	* Glomerular deposition of C3 >90%. C1q absent. (suggestive of alternative pathway)
+	* %glomeular fibrin deposition (more common @HSP)
+* ANCA (GPA/ MPA association rule out)
+* ANA/ AMA/ anti-GBM antibodies
+
+Rx:
+
+
+Cx:
+* Recurs in transplant patients despite immunosuppression
+* CKD progression in most, often decades after insult
+* Worse outcomes in proteinuria >2g/day, HTN, male, hyperlipidaemia, age, familial disease, ++creatinine

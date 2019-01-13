@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T11:19:44+11:00
+
+====== Vasculitides ======
+
+Class:
+* Large vessel
+	* Takeyasu arteritis
+	* Temporal arteritis (GCA)
+* Medium vessel
+	* Buerger's disease (thromboangiitis obliterans)
+	* Kawasaki disease
+	* Polyarteritis nodosa
+* Small vesselHenoch-SchonleinGN
+	* Eosinophilic granulomatosis with polyangiitis
+	* HSP
+	* MPA
+	* GPA
+	* Behcet's syndrome
+	* Cutaneous vasculitis

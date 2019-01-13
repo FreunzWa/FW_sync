@@ -1,0 +1,85 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-06T15:39:19+11:00
+
+====== javascript ======
+
+high level interpreted language, similar paradigm/ features to python
+used in most web page applications, interactive web pages. majority of websites use it.
+all major web browsers have a dedicated javascript engine to execute javascript code.
+firt appeared in 1995
+most common use online is to give client side behaviour to html pages (becoming DHTML, dynamic html)
+js is also used in desktop and serverr programs, Node.js is the best known. 
+
+usu used with paradigms of functional programming or OOP
+
+===== Basics of javascript coding =====
+
+== ================== ==
+javascript code is contained within script tags of an HTML document and interact with the elements of an HTML page. can include javascript code from external javascript files. 
+To use external script, put the  name of the script file (*.js)in the src attribute of the script tag
+ <script src="myScript.js"></script> . external script do not contain script tags 
+to import several script file to one page, use several script tags, with separate srcs etc. can specify the scripts location with a web URL.
+commenting is with //, and /* */
+same naming rules with variables as other coding languages
+when adding a number and a string, will not return an error but will treat hte number as a string
+
+=== Basic syntax ===
+statement are separated by semicolons (allowing multiple statements in one line), will not give
+syntax error if forget semicolon and will still run.
+use var/ let to assign variables values
+keep under 80 characters each line, break after an operator
+group in code blocks with {code}
+camel case is preferred, i will use camel case for variable names but '_' separation for functions
+large numbers can be written with scientific notation (e)
+surround a tested true/false statment with (), and == for testing equality
+arrays with [], 0th element onwards
+objects are written with curly braces like a python dict, with the attributes in pairs separated by ':'
+
+use == to test that values are equal
+use === to test that the types and the values are qual
+
+
+=== variables ===
+define with var x;, or var x,y,z; or var x=2;
+can empty a variable by setting the value to undefined (not a string), type also undefined
+can set value o fvariable to null, type will be an object.
+
+* typeof (object or primitive data value), returns ththe type of the passed entity by fllowing the typeof command with an entity, eg typeof true returns boolean. can return the complex data type, of an array, other object, null object, function
+* can store methods as a property linked to a name
+* this keyword within methods
+* use the new keyword to create an instance of an object
+* object definition syntax:
+	* var object_name = {name:value pairs}
+
+=== HTML events ===
+can use HTML events (eg page is loaded, input field was changed, button was clicked) as a trigger
+for javascript code
+this can be qachieved by adding event handler attributes to HTML elemnts
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+here the onclick is the event, and the embedded javascript code is here in quotations, as a property of the HTML element. however, it is much more common to see events calling already defned functions in the script section
+
+=== objects ===
+objects are varaibles, but cntain many values, through name:value, encapsulated in {}.
+can call data from an object either with object.nameofvariable, or object["propertyName"]
+
+all elements of java code act as objects, except for null and undefined. even number literals can be used as object, however dot notation after a number literal raises syntax error @decimals use dot as well, need to use brackets around the number literal so it is evaluated first
+ 
+
+=== Logging/ displaying data in js ===
+innerHTML by writing to an HTMLe elemtn
+use document.write()  to write to the HTML output
+writing to an alert box (window.alert())
+console.log() to write to teh browser console
+
+=== innerHTML ===
+use document.getElementbyId(<id>).innerHTML to set the innerHTML attribute, which will change how the data is displayed. 
+
+=== document.write() ===
+more simplistic method, will simply append the specified text at the location within the document, however if use this after document fully loaded, then will delete all existing HTML. only use for testing.
+
+
+
+
+
+

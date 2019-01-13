@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T10:49:33+11:00
+
+====== NephriticSyndrome ======
+
+__Def__
+Inflammatory disease of kidney (nephritis) characterised @triad of hypertension, oliguria, haematuria.
+__Mx:__
+* @nephritis == disruption of BM == thin BM with pores == RBC and proteins can pass into the urine
+	* Also %proteinuria == %hydroalbuminaemia
+__Sx__:
+* Azotemia symptoms (@renal impairment)
+* Fluid overload
+* %blurred vision
+__Types__:
+* Younger
+	* [[+IgA ]][[+IgA nephropathy|nephropathy]] (most common)
+	* Post-Streptococcal Glomerulonephritis
+	* Hemolytic Uremic Syndrome
+	* Henoch Schonlein purpura
+	* Alport syndrome
+	* Thin basement membrane nephropathy
+	* Membranoproliferative GN
+* Adults:
+	* Goodpasture syndrome
+	* SLE nephritis
+	* Infective endocarditis
+	* Rapidly progressive GN (crescenteric)
+__Ix__:
+* UEC (renal impairment, azotemia, hyperkalaemia)
+* Dipstick + Urinalysis (RBC microscopy, haematuria, albuminuria)
+* Complement levels (reduced @complement mediated causes)
+* Kidney biopsy (esp for diagnosis of SLE, crescenteric)
+__Rx__:
+* Correction of electrolyte derangement
+* Treat fluid overload
+* Treat hypertension
+* Anti-inflamm ? 

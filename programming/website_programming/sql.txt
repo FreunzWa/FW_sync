@@ -1,0 +1,60 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-07T09:42:15+11:00
+
+====== sql ======
+
+server side language used for storing/ manipualting/ retrieving data in databases. sql is standard, but there are different versions, but all support the major commands
+"structured query language"
+
+to use sql in web site, need an RDBMS database program (eg SQL server, MySQL, MS Access)
+a server side scripting language (PHP)
+ html/ css to style and give structure to the page
+
+=== basic theory ===
+every table broken up into smaller entities called fields. a field is a column in a table which maintains specific infromation about every "record" in the table. records are rows, each an individual entry in the table.
+
+=== syntax ===
+sql keywords are not case sensitive
+semicolon at end ofc statements.
+
+=== most important SQL commands ===
+SELECT
+UPDATE
+DELETE
+INSERT INTO
+CREATE DATABASE
+ALTER DATABASE
+CREATE TABLE
+ALTER TABLE
+DROP TABLE
+CREATE INDEX
+DROP INDEX 
+
+=== SELECT statement ===
+select is used to select data from database... thereturned dat is stored in a result table, called hte result-set
+SELECT <list of field names to select data from> FROM <table_name>;
+the '*' character may be used to select all data from a givne table
+
+SELECT DISTINCT statment used to return only different values, avoiding duplicates.
+eg SELECT DISTINCT <fields> FROM <table name>;
+
+=== WHERE ===
+where clause is used to filter records, with a where clause will only extract records that fulfill a specified condition. used in select and other commands. 
+SELECT <field names> FROM <table name> WHERE <>condition:
+eg.
+SELECT * FROM Customers
+WHERE Country='Mexico';
+various comparison operators can be used with WHERE:
+= 			Equal
+<> 			Not equal. Note: In some versions of SQL this operator may be written as !=
+> 			Greater than
+< 			Less than
+>=		 	Greater than or equal
+<= 			Less than or equal
+BETWEEN 	Between a certain range
+LIKE 		Search for a pattern
+IN 			To specify multiple possible values for a column
+
+can also combine multiple clauses with boolean operators (AND, NOT, OR)
+syntax: WHERE  condition1 AND condition2 AND NOT condition3

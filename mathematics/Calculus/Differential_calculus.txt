@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T00:06:52+11:00
+
+====== Differential calculus ======
+
+Derivative of a function measures the sensitivity to change of the function value with resepect to a change in its argument. At a single point the derivative can be represented as the gradient line of a tangent at that point. "instantaneous rate of change"
+
+dy/dx - notation for a ratio between infinitesimal quantities (rate of change of y with respect to x).
+* this notation wias introduced by Leibniz in 1675
+* Lagrange's (prime) notation, derivative of f is denoted f'
+* Newton's notation was the dot notation {{./pasted_image004.png}},{{./pasted_image005.png}}, more common in physics/ differential equations
+
+==== First principles formula ====
+
+defined @calculate gradient between two points on a curve as the limit of differences as it approaches 0 will approach the gradient of the curve at that point. 
+gradient m of the tangent, where h is a value very close 0.
+{{./pasted_image001.png}}
+as h approaches 0, call this the derivative of the function f
+{{./pasted_image002.png}}
+for function f(a)=x^2, calculating the derivative using limits at a=3:
+{{./pasted_image003.png}}
+for a function to be differentiable it must be continuous
+
+
+==== higher order derivatives ====
+2nd derivative is the rate of change of the rate of change, in physics this can represent an object's acceleration. 

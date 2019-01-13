@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T00:03:54+11:00
+
+====== Calculus ======
+
+"calculus" latin for small stone
+study of continuous change. 
+branches:
+* differential calculus
+* integral calculus
+"Fundamental theorem of calculus"

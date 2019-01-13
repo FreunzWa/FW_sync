@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-06T15:38:50+11:00
+
+====== Programming ======
+
+Vocab
+* DOM (document object model), the way the structure of HTML/ XML files are interpreted, as a heirarchical tree with nodes.
+* DHTML, when the layout of HTML is changed client side with embedded javascript functionality.

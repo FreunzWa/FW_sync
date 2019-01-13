@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T11:47:23+11:00
+
+====== Boxplots ======
+
+{{./pasted_image.png}}
+
+Box and whisker plot. 
+outliers are depicted as individual points outside the whisker plots
+The maximum and minimum points are represented by the flat termination of the whiskers. However, the box plot can be defined to include only results within 1.5*QIR (or some other arbitrary value, but this is common), and all values outside this range are considered statistical outliers to the data. 
+
+
+==== Interpretation ====
+The spacings of the different components  of the box and whisker plot indicates the degree to which the data is dispersed/ skewed. 
+* IQR
+	* otherwise known as the midspread or the middle 50%, or more technically the H-spread is a measure of statistical dispersion
+	* Equal to the differ4ence between the 75th and 25th percentiles. (IQR = Q3-Q1), in the above boxplots the IQR is thus 50. Can be used to determine which data points are statistical outliers. 
+
+{{./pasted_image001.png}}

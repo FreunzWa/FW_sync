@@ -1,0 +1,182 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+
+
+
+Los verbos:
+====================
+to end, to be over: acabar (Yo acabo mis clases en junio.)
+to cry: llolar (Por qué lloras?)
+to commence: comenzar
+nationality: nacionalidad
+to watch: ver (Veamos una película esta noche.)
+to win/ to earn: ganar (Gané la lotería dos veces jugando con los mismos números.)
+to send: enviar (a)
+to promise: prometer [que] (Prometo que estaré siempre contigo.)
+to believe: creer [que / en] (Creo que podría estar enfermo.) (Creo en un ser superior.)
+to wonder: preguntarse (reflexive verb)
+to turn: girar
+to get: conseguir (Consiguió su licencia de conducir en junio.)
+to look for: buscar
+to grab, to take: coger
+to rain: llover
+to play/ practise: practicar (Practicar tenis es un ejercicio estupendo para el cuerpo entero.)
+to choose: elegir
+
+Los sustantivos:
+====================
+pillow: el cojin
+meeting: el encuentro (Este monumento celebra el encuentro de la cultura maya con la cultura azteca)
+phrase: la frase
+country: el país
+ship: el barco
+river: el río
+floor: el piso
+oven: el horno
+horse: el caballo
+piece: el pedazo
+buzz: el zumbido
+cow: la vaca
+mouth: la boca
+owl: el búho
+bird: el pájaro
+yesterday: ayer
+pig/ pork: el / la cerdo
+unit/ unity: la unidad (No podemos ganar las elecciones si no tenemos unidad.)
+scenery: el paisaje
+interview: la entrevista
+package: el paquete
+letter: la carta
+cow: la vaca
+mirror: el espejo
+hair: el pelo
+command: el mando
+to order, to send: mandar
+to meet: encontrarse, conocer
+thousand: mil
+subject: la materia
+right: la derecha
+straight: el derecho
+left: la izquierda
+swimming pool: la piscina
+above: arriba
+stairs: las escaleras
+safe, secure: seguro
+song: la canción
+
+Los adjectivos:
+====================
+common: común (Es un error común que el sushi siempre lleva pescado.) 
+dark: oscuro/ obscuro
+small: pequeno/ menudo (Partí el tomate en pedazos menudos.)
+fair, just: justo
+precious/ beautiful: precioso
+able: capaz (de) (Margarita es capaz de llegar a ser la alcalde del pueblo.)
+curious: curioso
+close: el cercano
+spicy: picante
+poor: pobre
+
+
+Las otras palabras:
+====================
+last night: anoche
+behind: atrás
+almost: casi (¿Qué hora es? - Casi las cinco.)
+you will know: sabrás
+back, behind: atrás
+within, inside: dentro
+outside, out: fuera
+in front: delante
+opposite: enfrente
+
+las frases utilizables/ las otras:
+====================
+I told you: Te lo dije
+you would say: dirías
+even though: aunque (Aunque está lloviendo, el paisaje está precioso.)
+we have already done X: ya hemos (verb) (subject)
+
+Practise sentences:
+====================
+Me voy a duchar después de regresar del gimnasio
+La madre les da una pelota grande.
+¿Por qué no giras a la izquierda?
+Estamos dentro del hotel.
+Yo hablé mucho en español.
+Viajé a Guatemala el mes pasado
+Tú bebiste mucho chocolate caliente.
+Estuve en la ciudad de Madrid.
+¿Fuiste a México el verano pasado?
+Estuve en California y fui a la playa.
+Conocí a María hace diez años. (i met maria 10 years ago)
+donde estuviste la semana pasada (where were you last week)
+¿Ya comiste? (have you already eaten?)
+El gato cerró la puerta de la nevera. (the cat closed the fridge door)
+Los perros escribieron dos cartas ayer. (the dogs wrote two letters yesterday)
+
+Esta vaca aprendió español en México.
+
+Review
+==========
+Direct object pronouns
+Indirect object pronouns
+Reflexive pronouns (se)
+	me, te,  nos, os
+polite and informal commands (go to the effort to change end letter for polite request)
+	polite
+		sigue ==> siga
+		gira ==> gire
+		mira ==> mire
+	conjugation rules
+Conjugation for past tense, for yo, tu, el, ella, ustedes
+Ago: usage of "hace" (eg hace un ano, means 1 year ago)
+
+=== past tense for regular verbs: ===
+
+viajar
+======
+yo viaje
+tu viaste
+nosotros viajamos
+el viajo
+ellos viajaron
+
+comer
+=====
+yo comí
+tu comíste
+nosotros comimos
+el 	comió
+ellos comieron
+
+vivir
+=====
+yo viví
+tu viviste
+nosotros vivimos
+el vivió
+ellos vivieron
+
+past tense for irregular verbs
+--------------------
+SER 
+yo fui
+tu fuiste
+el fue
+nosotros fuimos
+vosotros fuisteis
+ellos fueron
+
+IR
+yo fui
+tu fuiste
+el fue 
+ellos fueron
+
+ESTAR
+yo estuve
+tu estuviste
+
+HACER

@@ -1,0 +1,62 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T13:47:32+11:00
+
+====== Differentiation rules ======
+
+__Product rule:__
+
+For the functions f and g, the derivative of the function h(x) = f(x) g(x) with respect to x is
+{{./pasted_image.png}}
+Leibniz:
+{{./pasted_image001.png}}
+
+__Chain rule:__
+{{./pasted_image002.png}}, derivative with respect to x is:
+{{./pasted_image003.png}}
+
+__Power rule:__
+if {{./pasted_image004.png}}for any real number where r is not 0, then derivative of f(x) with respect to x is:
+{{./pasted_image005.png}} 
+if the base is e, then do no subtract 1 from the exponent
+for u^r, where u is a function of x,  f'(x) = r*u^(u-1)*u'
+
+__Logarithmic differentiation with base e__
+
+f(x) = log (x)
+f'(x) = 1/x
+
+f(x) = ln(u), where u is some function of x
+f'(x) = u' / u , where u' is the derivative of u
+
+__Logarithmic differentiation with bases other than e__
+
+u = f(x)
+y = log_b(u)
+
+dy/dx = log(_b(e))*(u'/u)
+
+__Circular function differentiation__
+differentiation of sine, cosine, tangent, cotangent, secant, cosecant
+and each of the inverse trigonometric functions
+
+d/dx (sin x) = cos x * x'
+d/dx (cos x) = -sin x * x'
+d/dx (tan x) = (sin x/ cos x)' = 1/ (cos^2 x)
+	{
+	(tanx)′=(sinxcosx)′=(sinx)′cosx−sinx(cosx)′cos2x=cosx⋅cosx−sinx⋅(−sinx)cos2x=cos2x+sin2xcos2x=1cos2x.
+	}
+	
+d/dx (cot x) = (1 / tan(x))'
+
+
+__Implicit differentiation__
+Find derivative of equation not in form of one independent term. 
+eg. xy = 1, find y'
+rewrite y as y(x), important to recognise as a function of x when do product rule. 
+x*y(x) = 1
+take derivatives of both sides
+
+d/dx(xy(x)) = d/dx(1)
+(1)y(x) + x*d/dx(y(x)) = 0 
+y + xy' = 0

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T00:12:06+11:00
+
+====== Glossary ======
+
+* Secant: from latin "secare: to cut", a secant line is a line that intersects a curve in at least 2 distinct points. 
+* Standard part function:
+	* standard part function is a function from limited finite hyperreal numbers to teh real numbers.
+	* standard part of x is sometimes referred to as the "shadow" 
+* Hyperreal number: 
+	* non-standard Reals (*R)
+	* a way of treating infintie and infinitesimal quantities
+	* Introduced @edwin hewitt in 1948
+* Weierstrass function	
+	* Continuous everywhere but differentiable nowhere, the functionis a fractal. 
+* Demand curve
+	* In economics teh graph that shows the relationship between supply and demand, an inverse function. 1/x
+* Independent vs dependent variable
+	* in the function f(x), the dependent variable is f (depends on the value of x), whilst x is independent (in can take any value in the domain and specifies the range for the function in the process [the set of output values])
+	* often written is y=x^2, but since this is a function, should write instead y(x)=x^2, as the value of y depends of the input x. 
+* L-estimator
+	An estimator which is an L-statistic
+	
+	examples
+		mean
+		median 
+		mode
+		quartile, IQR
+

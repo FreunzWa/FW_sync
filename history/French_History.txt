@@ -1,0 +1,183 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-25T20:16:39+11:00
+
+====== French History ======
+{{./pasted_image.png}}
+
+==== Major events ====
+987 : The capetian dynasty rule of France begins
+1180: Philip II is the First King of France
+1337-1453 : Hundred years war with great britain
+1756-1763: Seven Years war with GBR and allies, which France loses, reducing its holding of overseas colonies
+1789: Beginning of the French revolution
+1792: The first french republic is formed
+1793: Execution of Louis XVI and Marie Antoinette
+1803-1815: Napoleonic wars with the coatitions, ending with the battle of Waterloo - Napoleon exiled
+1804: Napoleon becomes emperor of France, ending the First French republic
+1814: First restoration
+1815: 2nd restoration
+1830: French revolution of 1830 overthrows the conservative house of bourbon, Louis Phillippe becomes the king of France
+1848: February Revolution finally overthrows the monarchy once and for all, the 2nd republic is formed.
+1851: End of the 2nd republic, napoleon 3 starts the 2nd empire
+1870: Beginning of the 3rd republic @loss of emperor Napoleon 3
+1914:  WWI start of French involvement
+1939: Start of French involvement in WW2
+1959: 5th republic, the president's powers are increased
+
+====================================================================================
+
+
+Timeline
+	gallic empire formation 260-274 @crisis of 3rd century, @battle of Chalons == Gallic Empire fell == state reintegrated into Roman Empire, including Gaul (present day France, which was occupied by celts)
+	* The Salian Franks were permitted to settle on the territory of Batavia, within Gaul. Salian Franks were a germanic people. 
+	
+	426
+		Clodio, first emperor of Salian Franks crowned king
+	448 
+		Clodio succeeded by Merovech, later succeded by Clovis
+	462
+		Visigothic kingdom, Euric king of Visigoths (region of SW France), declared indepenence from Romans
+	485
+		Alaric II succeeded Euric
+		
+	558
+		Chlothar I became sole king of Franks and reuinited Clovis' kingdom, when he died 3 years later the land was again divided between 4 sons.
+			Kingdoms: burgundy, Austrasia, Paris, Soissons
+	613
+		Chlothar became sole king of Franks
+	751
+		Pepin Short crowned king of franks, started carolingian dynasty
+	768
+		Charlemagne + carloman I were proclaimed kings of franks after Pepin Short's (father) death, each getting half
+	771
+		Carloman I died, Charlemagne (aka Charles the Great )got everything
+	800 
+		Charlemagne is crowned Roman Emperor
+	811
+		Treaty of Heligen signed between Charlemange and Danish King, establish boundary bewteen Denamrka nd Frankish Empire
+	843
+		Frankish empire again divided into 3 amonst Charlemagne's granchildren
+	879
+		Louis the stammerer dies == louis 3 king of West Francia, dies etc etc, then Charles the simple king, another son of louis the stammerer
+		
+	922
+			Clodio, first emperor of Salian Franks crowned king
+	448 
+			Clodio succeeded by Merovech, late
+		Charles overthrown, replaced by Robert I, who was then killed. replaced @louis IV, another son of Charles the Simple
+		
+	987-1328
+		House of Capet rules france (Capetian rule), essentially the beginning of the French Monarchy, though the title of King of France was not officially used until 1180
+		
+	1108
+		Louis VII ⇒ Philip II
+	1314
+		Louis X the headstrong ⇒ Phillip V
+	1415
+		Battle of Agincourt
+	1453
+		Battle of Castillon, last battle of Hundred Years' War, French have decisive victory, regianing all of british-held france. 
+	1562
+		Massacreof Vassy begins French wars of religion
+	1572
+		St. Bartholomew's day massacre of French protestants
+	1701-1714
+		War of Spanish Succession
+	   1723
+		  Louis XV became new king of France
+	1738
+		Treaty of Vienna ends the war of the Polish succession == France gains teh Duchy of Lorraine and Bar (contains present day netherlands, belgium, luxembourg, germany and France)
+		
+	1756-1763
+		Seven Years War, a conflict primarily between France, Great Britain and allies. Britain won the war == destruction of France's supremacy throughout Europe.
+			Treaty of Paris ended the 7 years war == severe reduction in France's colonial possessions
+	
+	1768
+		Treaty of Versailles, Republic of Genoa ceded Corsica to France
+	
+	1774
+		Louis XV dies, passing the throne to Louis XVI
+	1778
+		France assists the 13 American colonies in declaring independence from Great Britain in teh war of independence. The war is won and US gains independence, however this war was very  financially costly to 
+	1789
+		July 14th: Storming of the Bastille, the beginning of the French Revolution
+	1793
+		Louis XVI was executed by guillotine, the national convention had taken power few months eariler. 
+	1799
+		Napoleon overthrew the French Directory, replac ing with the French Consulate
+	1803
+		Louisiana purchase by Napoleon to fund military expansion and cede difficult to use territory in the US, and strengthen relationship with US.
+	1804
+		Napoleon declared emperor of the Senate
+	1805
+		Battle of Austerlitz, French victory breaks the third coalition between Austria, UK, Sweden and Russia
+	1807
+		War of Fourth Coalition, France wins, breaking the fourth coalition, Napeolonic wars continue
+	1809
+		War of 5th coalition, French victory
+	1814
+		First restoration
+	1815
+		Battle of Waterloo, Napoleon is defeated by the 7th coalition armies, ending the First French empire and the napoleonic wars, marks a beginning of peace throughout Europe
+		
+		2nd restoration, Louis XVII became king of france
+		
+		Napoleon exiled to Saint Helena
+	
+	1821
+		Napoleon dies
+		
+	1830
+		French revolution of 1830, the conservative house of bourbon is overthrown, and replaced byt he orleans monarchy, with Louis Phillippe becoming the King of France
+		
+	1831
+		First Canut revolt, worker uprising in the industrial revolution
+		
+	1848
+		  February revolution, french revolution of 1848, republican riots force Louis Phillippe to abdicate and flee to England, Napoleon III becomes the first president of the French Republic
+		No more monarchy after this in French History. 
+	1851
+		End of the 2nd french republic, Napoleon III becomes emperor, forming the 2nd french empire
+	1853-56
+		Crimean War, France and Britain declared war on Russia
+	1870-1894
+		third republic @loss of emperor Napoleon III, forcing his downfall and formation of the 3rd rebpublic. Napoleon III went into exile
+		New president: Adolphe Thiers, presidential elections continue from here in the French Republic. 
+	1887
+		Work begins on Eiffel tower
+	1889
+		Eiffel tower opened to the public
+	1904
+		Entente Cordiale was signed, forming the Anglo-Russian Entente of 1907 (GBR, France and russia) "The Triple Entente"
+	1914
+		Germany declares war on France
+	1939
+		France declared war on Germany in the 2nd WW
+	1959	
+		Beginning of the 5th republic, the presidents powers were greatly increased, in the 3rd and 4th republic the role was primarily a ceromonious one. 
+	1992
+		Maastricht Treaty marked the entrance of France into the EU
+	2002
+		The euro becomes the new official currency of france, replacing the previous franc
+	2010
+		Law banning facial covering @fear of terrorism
+	2013
+		Same sex marriage is legalised
+	2017
+		Emmanuel macron becomes the president of France. 
+
+
+
+
+
+
+
+
+
+
+Terms/ Glossary
+	Dauphin
+		The heir apparent to the throne of France, this title was abolished in 1791
+		
+

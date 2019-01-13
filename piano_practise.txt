@@ -1,0 +1,10 @@
+
+Scales
+	R
+		Major, Minor
+	L
+		Major, Minor
+	Both hands
+		Major scales
+
+

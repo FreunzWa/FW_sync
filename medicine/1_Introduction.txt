@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-17T20:23:24+11:00
+
+====== 1 Introduction ======
+
+This notebook contains a system-based approach to studying medicine. 
+Each system area explores constituent pathologies, with a clinical approach to each condition (diagnosis and treatment).
+
+The diagnostic components focus on tests (including blood tests, pathology, radiology and so forth) undertaken to confirm or exclude
+diagnoses. 
+
+

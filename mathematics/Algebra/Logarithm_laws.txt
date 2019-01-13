@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-25T09:43:48+11:00
+
+====== Logarithm laws ======
+
+
+
+==== Basic logarithm laws: ====
+
+log(a) + log(b) = log(ba)
+
+log(a)−log(b)=log(b/a​)
+
+n * log(a) = log(a^n)
+
+log_e(e) = 1
+
