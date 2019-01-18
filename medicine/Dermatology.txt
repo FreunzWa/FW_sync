@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-11-17T20:19:45+11:00
-
-====== Dermatology ======
-Created Saturday 17 November 2018
-
