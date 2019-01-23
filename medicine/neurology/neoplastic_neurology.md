@@ -14,30 +14,31 @@ chrondrosarcoma
 # Classification
     Neuroepithelial / Glial (50)
         Astrocytoma (44)
-            G1: pilocytic astrocytoma
+            *G1: pilocytic astrocytoma
             G2: Low grade astrocytoma
             G3: anaplastic astrocytoma
-            G4: GBM
-        Epdendymoma (3)
-        Medulloblastoma (3)
-        Oligodendroglioma (2)
-        Central Neurocytoma 
+            *G4: GBM
+        *Epdendymoma (3)
+        *Medulloblastoma (3)
+        *Oligodendroglioma (2)
+        *Central Neurocytoma 
+        *Ganglioglioma
         Choroid plexus tumors
-            G1: papilloma
+            G1: *papilloma
             G2: atypical papilloma
-            G3: carcinoma
-    Meningioma (15)
-        Meningeal hemangiopericytoma
-        Solitary fibrous tumor of dura
+            G3: *carcinoma
+    *Meningioma (15)
+        *Meningeal hemangiopericytoma
+        *Solitary fibrous tumor of dura
     Mets (15)
     Pituitary tumors (8)
-    Acoustic schwannoma (8)
-    primary CNS lymphoma (2.5)
+    *Acoustic schwannoma (8)
+    *primary CNS lymphoma (2.5)
     other
         chordoma
         pineal tumors
         germ cell tumors
-        haemangioblastoma
+        *haemangioblastoma
 
 # Classification based on Location
     intracranial
@@ -70,6 +71,10 @@ chrondrosarcoma
 # Meningioma
 - Classification
     + Grade 1 benign (70%)/ Grade 2 Atypical (30%)
+    + %multifocal process, %posterior cranial fossa
+- clinical
+    + rf
+        * irradiation, NF2
 - investigate
     + Radio: Features on CT and MRI(T1/2/T1C/DWI/SWI/ADC), C enhancement homogenously, %hyperdense/isodense otherwise, extra-axial, %hyperostosis
     + Radio Signs: dural tail, CSF cleft, white matter buckling, starbust/spokewheel pattern
@@ -334,6 +339,45 @@ chrondrosarcoma
     + radio
         * ++enhancing intraventricular tumors usu @trigone at level of lateral ventricles == invasion into brain parenchyma. heterogenous Gd, 25%calcification, necrosis/ cyst formation == htereogenous appearance. 
         * imaging of entire neuraxis @++seeding rate
+----------------------------------------------------
 
+# Schwannoma
+- basic
+    + benign tumors from Schwann cells (of the PNS), most common tumor of PNS/ posterior cranial fossa masses, ++affecting CN8
+    + ++@40-50s.
+    + location: spinal, cranial nerves (most commonly 8)
+- clinical
+    + RF: NF2 (more common in 20s, more common to have multiple schwannoma)
+    + presentation
+        * @mass effect/ dysfunction of the affected nerve\
+- treat
+    + surgery: total resection. @do not invade the nerve == possible total resection. 
+    + prognosis: recurrence unusual. almost never become malignant/ low CSF seeding rate == good prognosis. 
+- Investigate
+    + radio
+        * well demarctaed, mass effect w/o direct invasion @benign.
+        * cystic/ fatty degeneration common, %necrosis/ hemorrhage @large schwannoma. calcification rare. %boney changes adjaveent to tumor (adjacent bone remodelling w/ smooth corticated edges)
+-------------------------------------------------------------------------------
+
+# Non-malignant mass lesions
+    epidermoid cyst
+    colloid cyst
+    *rathke's cleft cyst
+
+# Colloid cyst
+- basics
+    + ++@3rd ventricle, benign epithelial lined cysts. ++%asymptomatic but %%can cause acute ++hydrocephalus. 99% at the foramen of Monro.
+    + usu diagnosed 30-40 yrs
+    + usu incidental finding, totally asymptomatic.
+- clinical
+    + presentation
+        * usu asymptomatic, @acute ventricular obstruction == profound hydrocephalus w/ thunderclap headache, %unconcious collapse.
+        * %subacute positional headaches.
+- investigate
+    + v. charactersitic. midline well demarcated lesion roof @3rd ventricle, hyperdense. %%%calcification.
+    + Gd not much, only around rim 
+- treat
+    + surgical: @symptomatic/ hydrocephalus == transcallosal approach/ endoscopically
+-------------------------------------------------------------------------------
 
 
