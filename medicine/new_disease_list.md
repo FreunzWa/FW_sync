@@ -4,6 +4,10 @@ Cowdens syndrome
 Lhermitte duclos disease
 von hippel lindau
 hemangioblastoma
-colloid
+colloid cyst - sudden death
 neurocytoma
 medulloblastoma
+
+
+
+syndrome of the trigone

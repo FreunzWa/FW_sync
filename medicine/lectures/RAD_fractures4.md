@@ -15,7 +15,7 @@
 
 # Case 2 (humeral head fracture + clavicular fracture)
 - shear fracture of the growth plate in the proximal humerus.
-- Salter harris types
+- Saltar harris types
     + 1: shear fracture of the growth plate (most common in teh proximal fmur in teh slipped upper femoral epiphysis - SUFE)
     + 5: fracgture line going through diaphysis and the growyht plate (poor otucomes)
 - with realingment of the growth plate growth outcomes are pretty good, but there is a limited time frame. SH 5 is the worst possible..
