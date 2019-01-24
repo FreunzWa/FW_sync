@@ -36,7 +36,6 @@
 - cortical depression @posterolateral head of humerus @antero-inferior dislocation == impaction against glenoid == humeral head fracture
 - diagnose @plain lateral and AP views
 
-
 # Bankart lesion (deformity)
 - humeral head dislocated == impaction @anterior glenoid labrum ridge == fracture. %accompanied with hill sachs 
 - https://en.wikipedia.org/wiki/Hill%E2%80%93Sachs_lesion#/media/File:Shoulder_dislocation_with_Bankart_and_Hill-Sachs_lesion,_before_and_after_reduction.jpg
