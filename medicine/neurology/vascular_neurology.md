@@ -7,10 +7,18 @@
 - pathophysiology
     + common cerebral vascular malformation w/ thrombosed vessels and surrounding hemosiderin deposition. 
     + unlike AVMs, no normal brain in interstices of the lesions.
+    + ++supratentorial
 - clinical
+    + rf
+        * RT, familial/ syndromes
     + presentation
         * usu sx @start 40-60 yrs, but ++%asymptomatic throughout life
         * mass effect/ focal neuro sx/ seizures @temporal location etc
+- investigate
+    + radio
+        * no enhancement on CT, but @large == region of hyperdensity %seen, %see evidence of recent hemorrhage/ edema
+        * MRI better, see "popcorn/ berry" w/ rim signal loss @hemosiderin deposition (SWI great for detecting)
+        * DSA: CVMs are angiographically occult, w/ no arteriovenous shunting
 
 
 # Cerebral arteriovenous malformations (CAVMs)

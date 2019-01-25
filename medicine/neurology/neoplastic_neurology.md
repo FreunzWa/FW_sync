@@ -12,10 +12,10 @@ craniopharyngioma
 chrondrosarcoma
 
 # Classification
-    Neuroepithelial / Glial (50)
+    Neuroepithelial / Glial "Glioma" (50)
         Astrocytoma (44)
             *G1: pilocytic astrocytoma
-            G2: Low grade astrocytoma
+            G2: Low grade astrocytoma (++diffuse astrocytoma)
             G3: anaplastic astrocytoma
             *G4: GBM
         *Epdendymoma (3)
@@ -129,7 +129,20 @@ chrondrosarcoma
         * T1: solid component ~isointense, w/ cystic component
         * T2: cystic omponent gives high signal, solid slightly hyperintense
         * T1C: vivid contrast enhancement, cyyst wall enhancement
------------------------------------------------------------------
+-----------------------------------------------------------
+
+# Diffuse astrocytoma (G2 astrocytoma, aka low grade infiltrative astrocytomas, prev known as "fibrillary astrocyatoma")
+- basics
+    + no identifiable border between tumor and brain tumor @macro specimen. not widespred throughout brain, just refers to poorly defined margins.
+    + classed molecularly @IDH mutation status
+- investigate
+    + genetic:  
+        * IDH mutation status (either wild type/ mutant sttus)
+- radio
+    + isodense/ hypodense regions w/ positive mass effect, MRI shows white matter distribution == expansion of the surrounding cortex
+    + ++%no enhancement, %see small ill defined areas of enhancement
+--------------------------------------------------------------------
+
 
 # Glioblastoma (G4 astrocytoma)
 - basics
