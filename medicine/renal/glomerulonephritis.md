@@ -1,6 +1,7 @@
 ###### Glomerulonephritis
 - basics
     + Triad: dysmorphic haematuria, oliguria, hypertension
+- medical
     + @destruction of BM == dysfunction/ leakage
     + @mesangial proliferation @repair attempt == oliguria == RAAS == hypertension 
 - clinical
@@ -39,7 +40,7 @@
 
 # IgA nephropathy
 - basics
-    + @++IgA == ++collection @kidney == complement mediated inflammatory nephritis == GN syndrome
+    + @++IgA == ++collection @kidney == complement mediated inflammatory nephritis == GN syndrome <5 days of URTI
 - clinical
     + presentation
         * %asymptomatic "latent" (but +ve on biopsy)

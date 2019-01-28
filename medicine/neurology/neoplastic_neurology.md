@@ -37,8 +37,10 @@ chrondrosarcoma
     other
         chordoma
         pineal tumors
+            pineocytoma
         germ cell tumors
         *haemangioblastoma
+        primary cerebral malignant melanoma
 
 # Classification based on Location
     intracranial
@@ -359,6 +361,59 @@ chrondrosarcoma
         * cystic/ fatty degeneration common, %necrosis/ hemorrhage @large schwannoma. calcification rare. %boney changes adjaveent to tumor (adjacent bone remodelling w/ smooth corticated edges)
 -------------------------------------------------------------------------------
 
+# Pineal tumors
+- basics
+    + ++differentials @++cell types in region == many different tumor types.
+    + cx include obstructive hydrocephalus @outlet obstruction cerebral aqueduct/ compression of tectal plate (==parinaud's syndrome)
+    + pineal germinoma is the most common (~50%)
+- class
+    + pineal parenchymal tumors (pineocytoma, papillary tumor, pineoblastoma, malignant melanoma)
+    + germ cell tumors (pineal germinoma, choriocarcinoma, embryonal carcinoma, yolk sac carcinoma)
+    + astrocytoma of pineal gland
+    + pineal mets
+    + pineal cyst (non malignant)
+    + 
+
+# Pineal germinoma
+- basics
+    + most common pineal gland tumor (~50%), and 80% of all intracranial germ cell tumors. germ cell tumors can occur elsewhere but have special predilection for pineal + suprasellar region.
+    + arise @totipotent primordial germ cells (same as germ cell tumors in gonads)
+    + ++%M (13:1)
+- medical
+    + 13%intraventricular/ leptomeningeal spread @time of diagnosis
+- clinical
+    + presentation
+        * @compression of tectal plate == parinaud's/ obstructive hydrocephalus 
+- investigate
+    + CSF
+        * %++ALP, %++HCG (human chorionic gonadotrophin), %++AFP
+    + radio
+        * CT: ++calcification than would be expected 
+        * MRI: vivid Gd enhancement. DWI restriction @++Cellular. usu homogenous, usu no hemorrhage/ necrosis. 
+- treat
+    + radiation == 85% survival
+
+# Pineal cyst
+- basics
+    + common (30% postmortem), usu found incidentally in young (5% of brain MRIs). usu asymptomatic. hard to distinguish from malignancy.
+    + usu <1cm. @larger == %parinaud's/ hydrocephalus sx
+- medical  
+    + cx
+        * %%%pineal apoplexy, sudden neurological deterioriation @hemorrhage into pineal cyst (or %pineal tumo/ CCM). severe headache, -=GCS. treat @surge excision
+- investigate
+    + radio:
+        * @weak BBB == avid contrast enhancement of the rim
+        * %rim calcification 
+        * internal cerebral vein elevation (opposed to infratentorial meningioma)
+
+-------------------------------
+
+#Other rare tumors
+- primary malignant melanoma
+    + 1% of melanomas, arises from melanocytes intrinsic to the brain parenchyma in leptomeninges
+
+-------------------------------------------------------------------------------
+
 # Non-malignant mass lesions
     epidermoid cyst
     colloid cyst
@@ -366,18 +421,20 @@ chrondrosarcoma
 
 # Colloid cyst
 - basics
-    + ++@3rd ventricle, benign epithelial lined cysts. ++%asymptomatic but %%can cause acute ++hydrocephalus. 99% at the foramen of Monro.
+    + ++@3rd ventricle, benign epithelial lined cysts. ++%asymptomatic but %%can cause acute ++hydrocephalus. 99% at the foramen of Monro, arise from lining of ventricles
     + usu diagnosed 30-40 yrs
     + usu incidental finding, totally asymptomatic.
 - clinical
     + presentation
         * usu asymptomatic, @acute ventricular obstruction == profound hydrocephalus w/ thunderclap headache, %unconcious collapse.
-        * %subacute positional headaches.
+        * %subacute positional headaches, pt finds comfortable posture
 - investigate
-    + v. charactersitic. midline well demarcated lesion roof @3rd ventricle, hyperdense. %%%calcification.
+    + v. charactersitic, midline well demarcated lesion roof @3rd ventricle, hyperdense. %%%calcification.
     + Gd not much, only around rim 
 - treat
-    + surgical: @symptomatic/ hydrocephalus == transcallosal approach/ endoscopically
+    + surgical: @symptomatic/ hydrocephalus == transcallosal approach/ endoscopically. indicated @++large/ symptomatic lesion
 -------------------------------------------------------------------------------
 
-
+# Intra-cranial Dermoid cyst
+- basics
+    + rare, 
