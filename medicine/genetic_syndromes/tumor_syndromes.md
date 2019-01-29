@@ -29,6 +29,34 @@
 --------------------------------------------------------
 
 # Neurofibromatosis (NF)
+    NF1 (most common)
+    NF2
+    Schwannomatosis
 
-
-
+# Neurofibromatosis type 1 (NF1)
+- basics
+    + AD disorder w/ full penetrance w/ variable expression @mosaicism. most common phakomatosis (neurocutaneous disorders)
+    + aka von Recklinghausen disease
+    + cutaneous neurofibromas, cafe-au-lait macules
+- medical   
+    + neurofibromin mutation NF1, == NF1 associated tumors
+    + 50%inherited familial cases, otherwise de novo mutations
+    + NF1 associated tumors - most common are the optic pathway gliomas.
+        * other: rhabdomyosacroma, GIT stromal tumors, glomus, MPNSTs
+- class
+    + systemic vs. segmental (@mosaicism)
+- clinical
+    + presentation (in usual order of appearance)
+        * 95% cafe-au-lait macules (flat pigmented congenital naevi). usu benign, but @>6 presnet == high risk of NF1. fade late in life.
+        * axillary/ inguinal freckling, regions of skin apposition. appears @3-5 years.
+        * lisch nodules (iris hamartomas) {95% <6 years old} 
+        * cutaneous neurofibromas (peripheral nerve sheath tumors comprised of Schwann cells, fibroblasts) {nodular/ plexiform when matted}
+        * NF1 associated tumors sx
+    + %child delayed/ premature puberty @optic chiasm glioma == hypothalamic involvement
+    + %scoliosis, osteoporosis, cognitive/ development abnormality
+    + %++seizures
+    + macrocephaly
+    + HTN from childhood
+- diagnosis
+    + clinical + imaging 2 or more of:(ONG/OPG, >6 cafe au lait spots, >2 neurofibromas + 1 plexiform NF, distinctive osseous lesions, >2 lisch nodules, axillary freckling, Fhx - CAFESPOT)
+    + 
