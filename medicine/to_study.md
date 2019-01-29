@@ -31,3 +31,8 @@ schwartzman reaciton in PG
 sheehan syndrome - ischaemic injury @pituitary expansion during pregnancy. 
 dermoid cyst
 churg-strauss
+
+legius syndrome
+CMMR-D syndrome
+
+noonan syndrome
