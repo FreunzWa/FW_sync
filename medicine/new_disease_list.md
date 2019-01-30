@@ -9,6 +9,7 @@ neurocytoma
 medulloblastoma
 Lyme disease
 
+babesiosis
 
 
 syndrome of the trigone

@@ -2,7 +2,6 @@
 
 # Cerebral cavernous venous malformations (CAVMs/ cavernous malformation)
 - Basics
-<<<<<<< HEAD
     + ?: cavernoma common, found throughout body.
 - investigate  
 
