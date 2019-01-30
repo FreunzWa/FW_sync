@@ -73,3 +73,6 @@ Glioblastoma (GBM)
     + SWI %show low intensity rim @blood product
     + DWI/ ADC shows moderate diffusion restriction
 ---------------------------------------------------
+
+# Intracranial aneurysms
+- thrombosis of aneurysm == loss of contrast enhancement, -=intraluminal filling. can see bands of T2 weighted signals suggesting previous episodes of layering of blood products
