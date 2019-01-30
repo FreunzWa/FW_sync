@@ -10,7 +10,14 @@ medulloblastoma
 Lyme disease
 
 babesiosis
-
+yaws - tropical cutaneous infection
+seborrheic dermatitis
+erythrasma
+herpes gestationis
+urticaria multiforme
+glucagonoma
+necrobiosis lipoidica
+toxocariasis
 
 syndrome of the trigone
 synovial chondromatosis
