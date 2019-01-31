@@ -25,9 +25,9 @@
         Cutaneous vaculitis
 ---------------------------
 
-# Henoch-Schonlein Purpura (HSP)
+# Henoch-Schonlein Purpura (HSP) - IgA Vasculitis (IgAV)
 - basics
-    + Iga mediated vasculitis affecting skin,  mucous membrane, kidneys.
+    + IgA mediated vasculitis affecting skin,  mucous membrane, kidneys.
     + 90% @children (most common vasculitis @3-15 yrs age group)
     + usu self resolving < few weeks, @33%recur == ++progress to CKD in adults
     + ++onset @winter @++URTIs, which is the trigger
@@ -43,6 +43,19 @@
             - scrotal pain 
     + rf
         * HLA associations, male
+- diagnose
+    + w/ skin biopsy of affected skin purpuric lesion. this is usually reserved for atypical rash or those with ++renal diseaese.
+- investigate
+    + biopsy of ++skin, %kindey to determine cause of renal impiarment if this is the maikn feature.
+    + bloods:
+        * normal clotting studies (APTT, PT normal)
+        * renal studies (urinalysis - %include presence of red/ white cells)
+- rx
+    + usu recover spontaneously unless severe diseaase (rare). usu cared for @ambulatory setting. oral hydration + symptomatic relief. elevate edematous areas.
+    + pain treatment (arthalgia and abdopminal pain), use NSAIDs/ paracetamol.
+    + GCs reserved for fulminant disease @SEs
+    + inpatient care @severe disease (eg w/ renal involvement, hypertension, changes in mental status, severe abdominal pain, severe joint involvement)
+- 
 --------------------------------
 
 # Behcet's syndrome (Silk Road disease)
@@ -111,7 +124,7 @@
         * CRP /ESR elevation
         * blood cultures to rule out infection
     + [biopsy] (need to take a deeper biopsy to sample medium sized vessels.)
-        * biopsy of any of the PAN skin lesions == shows fibrinoid necrosis in the medium vessel walls.
+        * biopsy of any of the PAN skin lesions == shows eosinophilic fibrinoid necrosis in the medium vessel walls.
         * biopsy of the purpuric skin lesion == identical to ANCA purpuric skin lesions     
         * %biopsy renal/ colon @lesion site
     + urinalysis
@@ -119,3 +132,4 @@
     + radio
         * mesenteric/ renal arteriography == (showing multiple aneurysm)
 ------------------------------------------------------------------------
+

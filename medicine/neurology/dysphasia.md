@@ -1,4 +1,4 @@
-###### Dysphasias
+###### Dysphasias/ Aphasia
 
 # Differentials
     Non-fluent
@@ -84,6 +84,7 @@
 - all features of global aphasia except repitition is spared
 - no spontaneous verbal speech but may repeat what has just been said. 
 - @give common phrase are sometimes able to finish of the sentence. 
+- echolalia
 
 # anomic aphasia
 - anomia occurs in most aphasia syndomres, but may in some cases be an isolated deficit. 

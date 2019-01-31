@@ -17,8 +17,9 @@ chrondrosarcoma
             *G1: pilocytic astrocytoma
             G2: Low grade astrocytoma (++diffuse astrocytoma)
             G3: anaplastic astrocytoma
-            *G4: GBM
+            *G4: GBM (most common type, accounts for 22% of all)
         *Epdendymoma (3)
+            Sub-ependymoma
         *Medulloblastoma (3)
         *Oligodendroglioma (2)
         *Central Neurocytoma 
@@ -155,6 +156,7 @@ chrondrosarcoma
     + histology: 3 variants recognised, giant cell glioblastoma, gliosarcoma, epithelioid glioblastoma
 - treat
     + biopsy and tumor debulking + adjuvant stupp
+    + surgical indicated @patient factors + primary tumor locations + patient pref. @no surgery == palliative whole brain irradiation
     + stupp protocol (radiotherapy + chemo with temozolomide)
     + followup: 12-24 hours MRI to see residual disease, then every 8-12 weeks after
 - investigate  
@@ -264,7 +266,7 @@ chrondrosarcoma
     + ?: rare intracranial slow growing glial tumor of young (mean age 5 yrs) arise @ependymal lining of ventricles of brain or @central canal of spinal cord. more common @young. most common @4th ventricle/ spinal cord (==++in the posterior cranial fossa arnd cerebellum infratentorially)
     + comprise 25% of tumors of spinal 
     + Classification
-        * Grade 1,2,(3 - Anaplastic)
+        * Grading: Low Grade (grades 1 and 2) vs. anaplastic ependymoma (high grade, grade 3)
 - clinical:
     + RF
         * prev SV40, but no causal link found
@@ -341,7 +343,7 @@ chrondrosarcoma
     + angio: show vascular blush @++vascular tumors.
 ----------------------------------------------------
 
-#Choroid plexus carcinoma
+#Choroid plexus carcinoma (CPC)
 - basics
     + uncommon malignant neoplasms from choroid plexus. G3 tumor. poor prognosis @++proliferative rate. de novo tumors. rare for malignant transformation of G1 choroid tumor. 
 - clinical
@@ -352,8 +354,17 @@ chrondrosarcoma
         * SV40 found in 50% of cases
 - investigate
     + radio
+        * usu v. difficult to differentiate from choroid plexus papilloma @both variably invade into the cerebral parenchyma
         * ++enhancing intraventricular tumors usu @trigone at level of lateral ventricles == invasion into brain parenchyma. heterogenous Gd, 25%calcification, necrosis/ cyst formation == htereogenous appearance. 
         * imaging of entire neuraxis @++seeding rate
+    + histology
+        * may provide distinction from CPP, however in some cases there is overlap even @histo analysis
+    + immunohistochemistry
+        * often required for final distinction between CPP and CPC
+- treat
+    + degree of surgical resection most important prognostic factor
+    + radiation therapy may extend life, but @young age == radiotherapy sometimes not an option
+    + chemotherapy == longer term survival but cannot prevent recurrence.
 ----------------------------------------------------
 
 # Schwannoma
@@ -372,6 +383,7 @@ chrondrosarcoma
     + radio
         * well demarctaed, mass effect w/o direct invasion @benign.
         * cystic/ fatty degeneration common, %necrosis/ hemorrhage @large schwannoma. calcification rare. %boney changes adjaveent to tumor (adjacent bone remodelling w/ smooth corticated edges)
+        * 
 -------------------------------------------------------------------------------
 
 # Pineal tumors
