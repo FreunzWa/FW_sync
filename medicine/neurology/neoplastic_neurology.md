@@ -330,7 +330,7 @@ chrondrosarcoma
         * DWI == shows more diffusion restriction than ependymoma
 -----------------------------------------------------------------
 
-# Choroid plexus papilloma
+# Choroid plexus papilloma (CPP)
 - basics
     + uncommon [[benign]] intraventricular tumor usu @paed, %adult. usu 4th ventricle in adults and lateral ventricle @paed (esp trigone).
     + G1 choroid plexus tumor.
