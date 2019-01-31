@@ -1,10 +1,12 @@
 ###### Title
 
 
-
+eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
 Cowdens syndrome
     Lhermitte duclos disease
 anaplasmosis
+
+varicocele - associationas and causes.
 
 Bannwarth syndrome
 syndrome of the trigone
@@ -14,6 +16,8 @@ cyclic neutropaenia
 lemierre's disease
 
 hyper IgD syndrome
+
+sweet syndrome
 picatricial phemphigoid
 MAGIC syndrome
 
@@ -33,11 +37,20 @@ schwartzman reaciton in PG
 sheehan syndrome - ischaemic injury @pituitary expansion during pregnancy. 
 dermoid cyst
 churg-strauss
+harlequin color change - benign condition characterised by erthythematous color chang eon half of baby, affecting 10%, more so low birth weight. 
+porphyria cutanea tarda
+scrotal calcinosis
 
+gout nodulosis
+
+uveoparotid fever (rare form of sarcoidosis)
 legius syndrome
 CMMR-D syndrome
 
 noonan syndrome
+
+gaucher's disease
+
 erythrodermic psoriasis 
 cutis marmorata
 

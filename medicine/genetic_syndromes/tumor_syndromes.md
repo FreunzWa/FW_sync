@@ -62,6 +62,8 @@
 - diagnosis
     + clinical + imaging 2 or more of:(ONG/OPG, >6 cafe au lait spots, >2 neurofibromas + 1 plexiform NF, distinctive osseous lesions, >2 lisch nodules, axillary freckling, Fhx - CAFESPOT)
     + genetic testing to confirm diagnosis (++SN)
+- Ddx/ 
+    + must not mistake Legius syndrome for NG1, which has cafe-au-lait spots, %have learning disabilities/ developmental delay
 
 # Neurofibromatosis type 2 (NF2)
 - basics

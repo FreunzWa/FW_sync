@@ -1,4 +1,4 @@
-###### Vasculitides
+[[######]] Vasculitides
 
 
 # Medical
@@ -15,14 +15,15 @@
         Buerger's disease (thromboangiitis obliterans)
         Kawasaki's disease
         Polyarteritis nodosa
-    Small vessel
-        Eosinophilic granulomatosis with polyangiitis
-        HSP
+    ANCA-associated (small vessel vasculitides)
+        Eosinophilic granulomatosis with polyangiitis (Churg-Strauss Syndrome)
         MPA
+        RLV (renal limited vasculitis)
         GPA
     Other
         Behcet's syndrome (can affect all, but most commonly small)
         Cutaneous vaculitis
+        HSP
 ---------------------------
 
 # Henoch-Schonlein Purpura (HSP) - IgA Vasculitis (IgAV)
@@ -131,5 +132,38 @@
         * @glomerular ischaemia (not inflammation) == mostly normal (minimal derangements). no Red cell casts.
     + radio
         * mesenteric/ renal arteriography == (showing multiple aneurysm)
-------------------------------------------------------------------------
+-----------------------------------------------------------
 
+### ANCA associated vasculitides (AAV)
+
+# Granulomatosis with polyangiitis
+- basics
+- clinical
+    + rf
+        * M=F
+        * ++@white people (~90%)
+    + presentation
+        * b symptoms
+        * arthalgias
+        * ~90% ENT sx rhinosinusitis, otitis media, earache, otorrhoea, persistent rhinorrhoea
+        * polychondritis (%causing sufficient cartilage destruction == saddle nose deformity)
+        * cough/ dyspnoea/ stridor/ wheezing/ haemoptysis/pleuritic pain @lung involement
+        * %renal insufficiency @GN (may develop GN later after diagnosis), %haematuria
+        * 50%cutaneous (livedo, purpura, urticaria, nodules, %%PG, %%sweet syndrome)
+        * neurological dysfx (CN, sensory, opthalmoplegia)
+- investigate
+    + bloods
+        * UEC + urinalysis (@renal involvement and GN)
+            - look for haematuria
+        * auto-Abs (ANCA) - ~90% SN, 
+            - ANA, Anti-GBM, Complement, hepatitis serologies (Behcet's), HIV
+        * LFTs
+        * ++CRP/ ESR
+        * FBE: normocytic, normochomic anaemia
+    + biopsy (confirm diagnosis)
+        * biopsy of affected tissue (skin, lung, kidney)
+    + radio
+        * CT chest indicated @any pulmonary sx. %reveals nodules/ lesions
+        * CT sinuses/ neck %indicated
+- treatment
+    + protocol: should begin even before biopsy confirmed
