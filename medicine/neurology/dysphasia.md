@@ -4,12 +4,12 @@
     Non-fluent
         Comprehending
             Broca's aphasia ('non-fluent aphasia')
-            Transcortical motor aphasia
+            Transcortical motor aphasia (damage to anterior superior frontal lobe of dominant hemisphere)
         Non-comprehending   
             Global aphasia
             Mixed transcortical aphasia
     Fluent
-        Comprehending
+        Comprehending (arcuate fasciculus)
             Conduction aphasia
             Anomic aphasia
         Non-comprehending
@@ -63,6 +63,7 @@
 # Conduction aphasia
 - fluent aphasia with impaired repitition, frequent paraphasic errors. patient keeps trying to correct errors.
 - may emerge during the context of recovering from Wernicke's diseaes
+- @damage to the arcuate fasciculus
 
 # Global aphasia
 - deficits in all language functions, patients are often mute, or only non word utterances. 
@@ -74,6 +75,7 @@
 - good comprehension and repitition
 - can occur as a primary deficit/ when recovering from broca's. 
 - thought to be afected @anterior cebral artery strokes
+- loss of executive frontal lboe function in relation to speech (eg narrative discourse)
 
 # Transcortical sensory aphasia
 - fluent aphasia w/ paraphasic errors, impaired comprehension
@@ -86,6 +88,14 @@
 - @give common phrase are sometimes able to finish of the sentence. 
 - echolalia
 
-# anomic aphasia
+# Anomic aphasia
 - anomia occurs in most aphasia syndomres, but may in some cases be an isolated deficit. 
+- mild fluent type of aphasia
 - in anomic aphasia, there is isolated anomia, speech has circumlocution (substitution of words and phrases), pauses, %paraphasic errors
+- damage to the left arcuate fasciculus causes anomic aphasia. usu @CVA/ brain tumor
+
+# Primary progressive aphasia
+- associated with neurodegenerative disease (FTD and AD).
+- 3 subtypes (non fluent, semantic, lopogenic)
+- similar features to other types of aphasia but comprise a syndrome, in the early stage usu just isolated language dysfunction but progresses to other cognitive defecits such as memory loss etc/ and MND etc.
+-
