@@ -1,5 +1,9 @@
 ###### Title
 
+MCI !
+howell evans syndrome
+Granuloma fissuratum 
+craniopharyngioma
 
 eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
 Cowdens syndrome
@@ -7,6 +11,7 @@ Cowdens syndrome
 anaplasmosis
 
 varicocele - associationas and causes.
+toxoplasmosis fundoscopy
 
 Bannwarth syndrome
 syndrome of the trigone
@@ -26,6 +31,9 @@ one and a half syndrome
 miller fisher syndrome
 
 hairy cell leukaeima
+
+kawasaki's disease
+- strawberry tongue
 
 
 mccune albright syndrome
@@ -103,3 +111,5 @@ malakoplakia
 chondrocalcinosis associated with pseudogout
 vibrio vulnificus syndrome - eating raw seafood
 skeletal fluorosis
+
+normal pressure hydrocephalus

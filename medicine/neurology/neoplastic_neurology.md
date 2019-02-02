@@ -10,6 +10,7 @@ dysembroplastic neuroepithelial tumor
 astrocytoma from septum pelludium
 craniopharyngioma
 chrondrosarcoma
+craniopharyngioma
 
 # Classification
     Neuroepithelial / Glial "Glioma" (50)
