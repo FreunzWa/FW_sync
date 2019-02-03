@@ -109,3 +109,15 @@
 - treat
     + symptomatic relief, managing the chronic pain w/ pharmacological therpay (opioids/ pregabalin).
     + %surgery, usu only indicated @spinal nerve compression, impingement of organs. the removal of these tumors is risky @damage to surrounding nervous structures.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Multiple endocrine neoplasia type 1
+- basics
+- medical
+    + associated tumors:
+        * gastrinoma (NET == ++gastric acid == ZES/ PUD)
+
+
+# Multiple endocrine neoplasia type 2
+- basics
+    + 

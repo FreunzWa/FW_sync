@@ -1,19 +1,23 @@
 ###### Title
 
 MCI !
-howell evans syndrome
 Granuloma fissuratum 
-craniopharyngioma
-
+nocardia asteroides CNS infection
+polychondritis
+obturator hernias
+sister mary joseph's nodule
+nodular lymphoid hyperplasia
+meckels diverticulum
+hirschsprungs disease
+cerebral cavernous malformation sydnrome
 eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
 Cowdens syndrome
     Lhermitte duclos disease
 anaplasmosis
-
+VIPoma
 varicocele - associationas and causes.
 toxoplasmosis fundoscopy
-
-Bannwarth syndrome
+sneddon syndrome
 syndrome of the trigone
 PFAPA syndrome
 cyclic neutropaenia
@@ -67,7 +71,7 @@ ludwig's angina - severe infectious process involving submental/ sublingual/ flo
 submmandibular areas
 
 read a little bit more about megacolon
-
+neurosyphilkis.-
 epiglottittis thumb sign - causative organism
 lipemia retinalis
 
@@ -112,4 +116,4 @@ chondrocalcinosis associated with pseudogout
 vibrio vulnificus syndrome - eating raw seafood
 skeletal fluorosis
 
-normal pressure hydrocephalus
+Diphyllobothrium latum

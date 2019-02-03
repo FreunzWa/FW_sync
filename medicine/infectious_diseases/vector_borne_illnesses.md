@@ -5,8 +5,13 @@
 
 # Lyme disease (aka borreliosis)
 - basics
-    + tick borne spirochete Borreliella w/ various species @country. 
+    + tick borne spirochete Borreliella burgdorferi w/ various species @country. transmitted @ixodes ticks only.
     + only transmitted @tick bite, no human-human
+    + generalised illness that starts with a local macular lesion, but can progress to involve nervous system/ cardiac
+    + at risk countries: North hemisphere temperate regions (Northern Africa, North Asian countries esp Japan, Northern Europe, UK, North America)
+- medical
+    + cx
+        * see neurology section for 'Nervous system lyme disease and Bannwarth syndrome etc.'
 - clinical
     + presentation (classical 3 phases)
         * early localised (<1/12 after bite)

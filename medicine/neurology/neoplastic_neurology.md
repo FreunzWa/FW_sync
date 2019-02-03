@@ -38,6 +38,7 @@ craniopharyngioma
     *primary CNS lymphoma (2.5)
     other
         chordoma
+        craniopharyngioma
         pineal tumors
             pineocytoma
         germ cell tumors
@@ -309,6 +310,30 @@ craniopharyngioma
         * large cystic mass lesion ++@posterior cranial fossa intracranial w/ vividly enhancing mural nodule with flow voids. mass effect, %hydrocephalus
 ----------------------------------------------------------------------------
 
+# Craniopharyngioma
+- basics
+    + rare slow growing mixed solid cystic tumors that arise from remnants of Rathke's pouch. (aka Rathke's pouch tumors). 1-3% of all brain tumors
+    + bimodal age (5-14, 50-75 years)
+- class
+    + adamantinomatous: (more common @children)
+    + papillary: (more common @adult peak)
+- medical
+    + arise @pituitary stalk in suprasellar region adjacent to optic chiasm
+    + histologically benign but life limiting
+    + contain cholesterol crystals in cystic component
+    + slow growing
+- clinical
+    + present
+        * visual: @adjacent to optic chiasm == pressure on OC == bitemporal hemianopia
+        * endocrine: @pituitary compression == some combination of hormones may be affected. @adult most commonly complain about erectile dysfunction, women may report amenorrhoea
+        * 50%headache (%meningeal irritatio/ hydrocephalus) +/- N/V
+- investigate
+- treat
+    + surgery: aim for complete resection. almost always attempt. alleviate mass symptoms and remove mass. approach depends on exact location (eg transphenoidal/ craniotomy) 
+    + RT:   treat patient with residual disease or subtotal resection
+    + cx: endocrine/ hypothalamic dysfunction (causing obesity. %exacerbation of vision
+-------------------------------------------------------------------------------
+
 # Medulloblastoma
 - basics
     + most common brain tumor @children (20%), usu midline 4th ventricle masses from cerebellum (75%vermis)== mass effect blocking CSF route == hydrocephalus. ++post cranial fossa tumor. 
@@ -440,7 +465,7 @@ craniopharyngioma
 
 -------------------------------------------------------------------------------
 
-# Non-malignant mass lesions
+# Non-malignant (benign) mass lesions
     epidermoid cyst
     colloid cyst
     *rathke's cleft cyst
@@ -460,6 +485,15 @@ craniopharyngioma
 - treat
     + surgical: @symptomatic/ hydrocephalus == transcallosal approach/ endoscopically. indicated @++large/ symptomatic lesion
 -------------------------------------------------------------------------------
+
+# Arachnoid cyst (aka leptomeningeal cyst)
+- basics
+    + often asymptomatic, benign collections of CSF within layers of the arachnoid membrane. CSF continuously secreted by arachnoid cells.
+    + progressive dilatation over time. 
+    + %%%@++size may compress nearby structures == %%%seizure, headache, focal neurological defecits, or @suprasellar area %cause non communicating hydrocephalus
+    + 50% arise @Sylvians fissure
+
+
 
 # Intra-cranial Dermoid cyst
 - basics

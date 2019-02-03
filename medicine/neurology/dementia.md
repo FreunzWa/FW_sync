@@ -11,6 +11,7 @@
         Pick's disease
         Huntington's disease
         Inherited metabolic disorders
+        Normal pressure hydrocephalus
 
 # Vascular dementia
 - basics
