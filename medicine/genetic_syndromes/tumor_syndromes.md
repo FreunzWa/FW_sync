@@ -111,13 +111,73 @@
     + %surgery, usu only indicated @spinal nerve compression, impingement of organs. the removal of these tumors is risky @damage to surrounding nervous structures.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Multiple endocrine neoplasia type 1
+# Multiple endocrine neoplasia type 1 (Wermer syndrome)
 - basics
+    + AD condition == ++risk of tumors of parathyroids, anterior pituitary, enteropancreatic endocrine cells (the 3 P's)
+    + but can be associated with other tumors as well
+    + diagnosed @at least 2 of the 3 primary MEN1 associated tumors
 - medical
-    + associated tumors:
-        * gastrinoma (NET == ++gastric acid == ZES/ PUD)
+    + primary associated tumors:
+        * parathyroid tumors (almost 100% penetrance by the age of 50, most common is simple hyperplasia rather than adenoma)
+        * pituitary adenomas (15-20%), most common is lactotrophic tumors, but all cell types may be affected
+        * pancreatic islet cell tumors (most malignant and life threatening type), 
+            - gastrinomas are the most common pancreatic tumor (==ZES/ PUD). however less malignant than sporadic gastrinomas
+            - insulinoma
+            - nonfunctioning pancreatic tumors
+    + other associated tumors (mostly gastrointestinal)
+        * lipoma
+        * angiofibromas
+        * carcinoid tumors (esp thymic)
+        * hepatic focal nodular hyperoplasia
+        * adrenal cortical lesions
+- clinical
+- diagnose
+    + 2+ of the 3 primary lesions associated with MEN1 muist be present. 
+    + or genetic diagnosis.
+    + or 1+ of the 3 primary when there is a first degree relative with MEN1
+- investigate
+    + screening @family member/ known MEN1
+        * screen for symptoms (clinical screening)
+        * serum calcium/ PTH/ prolactin to detect prolactinoma/ hyperpara
+        * may do early imaging for pancreatic neoplasia, but minimise rad exposure by using endoscopic USS thereafter.
 
-
-# Multiple endocrine neoplasia type 2
+# Multiple endocrine neoplasia type 2A (Sipple syndrome)
 - basics
-    + 
+    + AD disorder == bilateral pheos, primary hyperparathyroidism, MTC
+- medical
+    + associated primary tumors (MPP)
+        * medullary thyroid cancer (virutally 100% of cases)
+        * pheos (50%, often bilateral pheos)
+        * primary hyperparathyroidism (only in 20% of cases, and is usually fairly mild and may not produce symptoms)
+    + other assocaited conditions
+        * Hirschsprung disease (absence of ANS ganlgion cells == congenital megacolon)
+        * cutaneous lichen amyloidosis
+- treatment/ screening is similar to 2B (see below)
+
+
+# Multiple endocrine neoplasia type 2B ()
+- basics
+    + AD disorder == MTC, pheos (no hyperparathyroidism), mucosal neuromas
+    + patients also have a marfanoid body habitus
+- medical
+    + primary associated tumors (MMP + M)
+        * MTC (virtually all patients, more aggressive than MEN2A and secretes calcitonin)
+        * pheos (50%, usu develops after MTC)
+        * mucosal neuromas (esp of the lips and tongue)/ intestinal ganglioneuromas
+    + cx
+        * deaths in MEN2B 50% @cx related to MTC
+- clinical
+    + presentation
+        * sx of tumors/ endocrine syndromes
+        * marfanoid body hapitus
+- treat
+    + surgical: surgical removal of MTC is not curative. surgical removal of the thyroid may be indicated @early identification @neonatal period, or as soon as the condition is diagnosed. 
+- investigate
+    + genetic subtyping
+        * @suspicion/ Fhx == should have RET mutations determined == will risk stratify and prognosticate.
+    + aim for prophylaxis, screening for pheos/ MTC. (according to risk assoc with exact mutation == start earlier/ later)
+    + bloods
+        * screen with serum calcitonin (released @MTC)
+        * 24 jr plasma fractionated metanephrines (screening for pheos)
+    + urine
+        * 24 hr urine fractionated metanephrines (screening for pheos)
