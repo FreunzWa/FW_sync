@@ -134,3 +134,21 @@
         * %see previous hemorrhage/ surrounding vasogenic edema
 ---------------------------------------------------------------
 
+# Posterior circulation CVA syndromes
+- basics
+    + 20%ischaemic events involve posterior circulation (vertebrobasilar structures)
+- related neurological syndromes
+    + Gerstmann syndrome (left PCA stroke - dominant hemisphere)
+        * (RAAF) right-left disorientation, agraphia, acalculia, finger agnosia.
+            - get patient to point to R/L limbs, then your limbs
+            - get patient to write name
+            - get patient to do simple maths, addition etc.
+            - get patient to say what finger pointing to (index, ring, middle, etc.), do it with pt eyes closed, tap finger and get pt to say
+        * inferior parietal lobule of the dominant hemisphere, which is in the left PCA territory.
+    + Right PCA stroke (or non dominant hemishere)
+        * (DISC face)
+            - dressing apraxia
+            - insighting lacking into illness (anosagnosia)
+            - spatial neglect
+            - constructional apraxia (cannot copy pictures)
+            - prosopagnosia

@@ -65,6 +65,9 @@
 - may emerge during the context of recovering from Wernicke's diseaes
 - @damage to the arcuate fasciculus
 
+# Monoaphasia
+- patient keeps repeating the same word over and over again.
+
 # Global aphasia
 - deficits in all language functions, patients are often mute, or only non word utterances. 
 - expression and reception impaired. cannot follow commands. 
@@ -80,13 +83,13 @@
 # Transcortical sensory aphasia
 - fluent aphasia w/ paraphasic errors, impaired comprehension
 - similar to wernicke's
-- intact repitition (as opposed to wernicke's)
+- intact repitition (as opposed to wernicke's), which can cause echolalia 
 
 # Transcortical mixed aphasia
 - all features of global aphasia except repitition is spared
-- no spontaneous verbal speech but may repeat what has just been said. 
+- no spontaneous verbal speech but may repeat what has just been said, echolalia
 - @give common phrase are sometimes able to finish of the sentence. 
-- echolalia
+
 
 # Anomic aphasia
 - anomia occurs in most aphasia syndomres, but may in some cases be an isolated deficit. 
@@ -98,4 +101,3 @@
 - associated with neurodegenerative disease (FTD and AD).
 - 3 subtypes (non fluent, semantic, lopogenic)
 - similar features to other types of aphasia but comprise a syndrome, in the early stage usu just isolated language dysfunction but progresses to other cognitive defecits such as memory loss etc/ and MND etc.
--

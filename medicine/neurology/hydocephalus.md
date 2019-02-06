@@ -8,9 +8,6 @@
         meningitis
     Non-communicating (Obstructive)
 
-
-
-
 # Normal pressure hydrocephalus (NPH)
 - basics
     + pathologically increased ventricle size with normal opening pressures @LP.
@@ -25,7 +22,7 @@
     + 2ndary mx
         * intraventricular/ SAH
         * prior actue/ ongoing chronic meningtiis
-        * paget disease at skull base
+        * %%%paget disease at skull base
     + clinical manifestation mx
         * thought to be @periventircular white matter tract dysfunction ++those connected to forntal lobes
 - clinical

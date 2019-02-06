@@ -3,25 +3,23 @@
 MCI !
 howell evans syndrome
 Granuloma fissuratum 
-craniopharyngioma
 cholesterol crystals (both positve and negatie birefringence) associated with RA
 
 eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
 Cowdens syndrome
     Lhermitte duclos disease
 anaplasmosis
-
+Dolichoectasia of the basilar artery
+Gerstmann-Sträussler-Scheinker syndrome
 varicocele - associationas and causes.
 toxoplasmosis fundoscopy
-
+mirror syndrome
 Bannwarth syndrome
 syndrome of the trigone
 PFAPA syndrome
 cyclic neutropaenia
 
 lemierre's disease
-
-hyper IgD syndrome
 
 sweet syndrome
 picatricial phemphigoid666
@@ -68,10 +66,10 @@ ludwig's angina - severe infectious process involving submental/ sublingual/ flo
 submmandibular areas
 
 read a little bit more about megacolon
-
+Hirschsprung disease
 epiglottittis thumb sign - causative organism
 lipemia retinalis
-
+hyper IgM syndrome
 pneumomediastinum
 hemiballismus
 dermatomyositis
@@ -81,6 +79,7 @@ Hypophosphatasia
 supernumerary ribs - how common are they
 HL - hypercalcemia and suppressed parathyroid hormone levle
 erythema ab igne
+pyloric atresia (olive finding with projectile vomiting)
 neurocysteriosis
 osteogenesis imperfecta
 plasmacytoma
@@ -113,4 +112,5 @@ chondrocalcinosis associated with pseudogout
 vibrio vulnificus syndrome - eating raw seafood
 skeletal fluorosis
 
-normal pressure hydrocephalus
+ tumor necrosis factor receptor 1 associated periodic syndrome (TRAPS)
+ mevalonic aciduria
