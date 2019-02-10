@@ -18,14 +18,24 @@
         @AVM
         @aneurysmal (eg SAH)
 
+# Fischer scale
+- risk of vasospasm as predicted by imaging findings (diffusivity of blood/ thickness of blood on MRI /CTB)
 
-# Subarachnoid hemorrhage
+# Hunter and hess scoring system
+- based on clinical features assoc with SAH, predictor of survival
+- Grade 1: asymptomat/ minimal headache ^slight neck stiffness (70% survival)
+- Grade 2: moderate-severe headache, neck stiffness (60% survival)
+- Grade 3: drowsy, minimal neurological defecit (50%)
+- Grdae 4: stuporous, severe hemiparesis, %decerebrate rigidty (20%)
+- Grade 5: comatose, decerebrate rigidty, moribund (10%)
+
+# Subarachnoid hemorrhage (SAH)
 - basics
     + @berry aneurysmal rupture ++@COW bifurcations (PCOM/ ACOM/ MCA bifurcations)
 - medical
     + sources of hemorrhage
         * 85%ruptured berry 
-        * 10%perimesencephalic hemorrhage
+        * 10%perimesencephalic hemorrhage (non aneurysmal cause or vertebrobasilar aneurysm)
         * %%(AVM, cerebral amyloid angiopathy, ruptured mycotic an, pituitary apoplexy)
     + cx
         * vasospasm
@@ -40,7 +50,8 @@
         * 'thunderclap' headache, worst ever experienced. 50%instant, but may come on over minutes.
         * %seizures/ neck stiffness (usu only after hours @inflam reaction to big hemorrhage in SA space)
     + history
-        * 30-50%sentinel headache preceding SAH by up to 20 days
+        * 40%sentinel headache preceding SAH by up to 20 days
+        * often triggered @exercise/ strenous activity/ cocaine etc abuse
     + exam 
         * ocular
             - %retinal hemorrhages
@@ -51,44 +62,65 @@
             - ==> %MRI @CT -ve/ LP +ve
         * radio
             - CT: ++SN/SP esp <12 hours, @delay, SN ++falls. @small SAH == %occult. hyperattenuating material @SA space arnd COW or in Sylvian's. (see modified Fisher's scale for grading, predicts vasospasm)
-        * LP (better @late presentation @development of xantho)
-            - opening pressures
+        * LP (better @late presentation @development of xantho). @negative CTB but high clinical suspicion
+            - opening pressures will be elevated
             - red cell count (if no drop between 1st-3rd bottles == SAH diagnosed) but FN @bloody tap.
             - culture (pneumococcal meningitis %p/w thunderclap)
         * xanthochromia
             - 96% SN @ >12 hours after rupture/ headache.  %FP @truamatic tap w/ false xanthochromia @oxyhaemoglobin and delay before analysis.
             - spectrophotometry SN > visual inspection
-            
-# Perimesencephalic hemorrhage
+
+# Perimesencephalic non aneurysmal SAH PM-NASAH
 - basics
     + 10% the cause of SAH, blood collects in basal cisternae, anterior to pons/ midbrain. %involve proximal sylvian's
-    + either @venous bleed (non-aneurysmal) or vertebrobasilar aneurysm (==worse prognosis)
+    +  @venous bleed (non-aneurysmal) 
+-  medical
+    +  thought to be @either venous origin/ perforating vessel rupture, basilar artery wall haematoma. thoguht to be a low pressur ebleed due to low degree of haemorrhage
 - investigate
-    + radio
-        * CTA to search for aneurysm. @non-aneurysmal == better prognosis
+    + risk scoring:
+        * usu low Hunter and Hess scores
+     + radio
+        * CTA to rule out aneurysm of the vertebrobasilar system or COW. @non-aneurysmal == better prognosis
+        * often the cause of the bleed in PMNASAH is not elucidated even after imaging
+- presentation
+    + similar to SAH, but usu less severe
+    + sudden onset headache non-similar to previous events that is maximal pain at onset (SUM)
+    + %assoc N/V, meningismus, photophoiba
+    + no sentinel headache
+
+# Perimesencephalic aneurysmal SAH (vertebrobasilar aneurysm) PM-SAH
+- basics
+    + vertebrobasilar aneurysm (==worse prognosis), usu arising @posterior circulation (vertebrobasilar junction, SCA, PICA, PCA
 
 # Pituitary apoplexy
 - basics
     + @hemorrhagic necrosis of the pituitary == med emergency
     + ++underlying macroadenoma (~80%)
 - medical
-    + @pituitary dysfunction == endocrine derangements == %Addisonian crisis/ pan-hypopituitarism
+    + @pituitary dysfunction == endocrine derangements == %Addisonian crisis/ pan-hypopituitarism (endocrine emergency)
 - clinical
     + rf = rf for pituitary macroadenoma + HTN/ bleeding rf
         * treatment for prolactinoma (esp bromocriptine)
         * prior irradiation of macroadenoma
-        * Sheehan syndrome
+        * Sheehan syndrome (pit gland ischameia @excess blood loss == low perfusion ischaemia/ infarction)
         * htn/ anticoagulation
     + present
-        * sudden headache/ chiasmal field visual defect/ oculomotor palsies
+        * sudden headache/ chiasmal field visual defect @blood's mass effect on the chiasm/ oculomotor palsies/ diplopia
         * sx of endocrine derangements
+    + ddx
+        * differentiate from other acute causes of headache, importantly SAH
 - investigate
     + radio
         * enlargement of pit gland 85%with visible macro-hemorrhage. 
         * peripheral enhancement around non-enhancing necrotic center
         * %surroudning edema
-        * DWI == restricted diffusion in necrotic area
+        * DWI == restricted diffusion in necrotic area 
+- treat
+    + surgical decompression of the pitutitary %@progressive impairment of vision/ hypopituitarism
+    + %self limiting @blood resportion
 =======
+
+# Cerebral cavernous vascular malformations (CCVMs)
     + cavernoma/ cavernous hemangioma are previous terms, not used as much @these are not neoplastic lesions
     + usu single lesions, @multiple lesions suggest syndrome
 - pathophysiology

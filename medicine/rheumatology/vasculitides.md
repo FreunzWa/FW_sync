@@ -43,7 +43,7 @@
             - subcutaneous edema ++periorbital
             - scrotal pain 
     + rf
-        * HLA associations, male
+        * HLA associations, male, %may be triggers
 - diagnose
     + w/ skin biopsy of affected skin purpuric lesion. this is usually reserved for atypical rash or those with ++renal diseaese.
 - investigate
@@ -56,7 +56,7 @@
     + pain treatment (arthalgia and abdopminal pain), use NSAIDs/ paracetamol.
     + GCs reserved for fulminant disease @SEs
     + inpatient care @severe disease (eg w/ renal involvement, hypertension, changes in mental status, severe abdominal pain, severe joint involvement)
-- 
+ 
 --------------------------------
 
 # Behcet's syndrome (Silk Road disease)
@@ -175,3 +175,25 @@
 # MAGIC syndrome (mouth and genital ulcers with inflamed cartilage syndrome)
 - basics
     + cutaneous condition with features of Behcets and relapsing polychondritis. 
+-------------------------------------------------------------------------------
+
+# Kawasaki's disease (KD) prev called mucocutaneous lymph node syndrome
+- basics
+    + most common vasculitis @child, rare @adults. medium vessels. typically self limited within 2 weeks. %complications including cardiac/ vascular complications.  
+- clinical
+    + presentation
+        * ++%fever, non responsive to antipyretics
+        * 90%bilateral conjunctivitis, bulbar injection, w/ erythema sparing the limbus
+        * mucositis with strawberry tongue and red cracked lips
+        * cutaneous rash, polymorphous, perineal erythema and desquamation, targetoid lesions.
+        * %diffuse erythema on palms/ soles
+        * %cardiac manifestations including tachycafida, gallop sounds, muffled heart tones
+        * 10%arthritis, esp large joints
+- diagnosis
+- investigate
+    + acute phase reactants rise (ESR/ CRP, ferritin).
+    + FBC: %thrombocytosis, normocytic/ normochromic anaemia, %Hb low
+    + urine: %pyuria
+    + UEC: %hyponatremia
+------------------------
+
