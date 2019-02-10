@@ -29,3 +29,7 @@
     + location:
         * holocranial (affecting the entire head)
         * focal 
+
+# Pyramidal vs. Extra-pyramidal signs
+- pyramidal involves the corticobulbar and the corticospinal tract (motor symptoms @dysfunction, including paresis, dysreflexia)
+- extrapyramidal symptoms (drug induced pyramidal symptoms, movement disorders)

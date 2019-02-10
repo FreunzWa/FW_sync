@@ -15,10 +15,19 @@
 
 # Vascular dementia
 - basics
-    + 2nd most common form of dementia, @chronic vascular disease affecting brain == progressive white matter ischaemia
+    + 2nd most common form of dementia, @chronic vascular disease affecting brain == progressive white matter ischaemia. +/- history of stroke
+    + a form of vascular cognitive impairment
+    + may be @post-stroke dementia or long term vascular ischaemia
+- medical
+    + etiology
+        * ateriolosclerosis (most common) @hypertensoin == chronic narrowing/ stenosis of vessels @%charcot bouchard == small haemorrhages == chronic WMAI
+        * CAA - deposition of amyloid in small vessels in leptomeninges and cerebral cortex
+        * genetic condition swhich cause cerebrovascular disease
 - clinical
     + rf
-        * vascular disease/ atherosclerosis/ CVD/ DM/ HTN
+        * vascular disease/ atherosclerosis/ CVD/ DM/ HTN/ metabolic syndrome, smoking, CAD, AF, dyslipidaemia, low SE status, low cognitive reserve
+    + presentation
+        * Post-stroke dementia: stepwise cognitive decline following stroke, impairemnt of executive functions/ sparing of eepisodic memory.
 - investigate
     + radio
         * leukoaraiosis (diffuse white matter changes @small vessel disease). often incidental (++have them @age), but @accumulation == VaD.
@@ -55,7 +64,7 @@
         * exercise programs, occupational therapy 
 --------------------------------------------------
 
-# Behavioural variant Frontotemporal dementia (bvFTD)
+# Behavioural variant Frontotemporal dementia (bvFTD) - Pick's disease
 - basics
     + FTD is a group of clinically heterogenous neurodegen disorders w/ changes in psychosocial behaviour/ aphasia. %also develop concomitant motor syndrome (PD/  MND)
     + more common cause of early onset dementia. avg PC @50s
@@ -87,6 +96,7 @@
 # Primary progressive aphasia
 - basics
     + gradual development of aphasia w/ various defecits in language. PPA arises @subtype of FTD /AD when the language dominant hemisphere is the principle target. 
+    + unlike stroke aphasias it gradually gets worse and worse, and consists of a spectrum of different manifestations of aphasia.
     + early stages == isolated language defecits other cognitive domains are preserved, late stage == other
     + 3 subtypes
         * nonfluent PPA (FTD)
@@ -95,11 +105,15 @@
 - medical
     + cx/ progression
         * may progress to affect other cognitive domains, or develop into MND
+- treatment
+    + augmentative communication apps
+    + words to speech help @some cases
+    + whiteboard to draw word when cannot remember
 - clinical
     + all 3 domains
         * word finding
     + non-fluent PPA
-        * motor speech defecit, articulatory difficulty of actually pronouncing words, very effortful. (patient has problems pronouncing eg. caterpillar)
+        * motor speech defecit, articulatory difficulty of actually pronouncing words, very effortful. (patient has problems pronouncing eg. caterpillar). 
     + semantic variant PPA
         * impaired single word comprehensions and object naming (esp for low frequency items) in the early stages, progresses to complete comprehension defecit.
         * loss of semantic knowledge about objects, eg when drawing turtle forget the shell.
@@ -107,7 +121,18 @@
     + lopogenic PPA
         * impaired single word retrieval/ repetition with errors in speech/ naming.
         * spared object knowledge/ single word comprehension
-        * like non fluent usu has slow pace of speech, but not @articulation difficulties @apraxia like in non fluent, but rather difficulties @word finding.
+        * like non fluent usu has slow pace of speech, but not @articulation difficulties @apraxia like in non fluent, but rather difficulties @word finding (every day words like 'table'). reading may be impaired. understand the meanings of the words but cannot say the word. may choose incorrect words. may lose comprehension when people speak quickly.
 - investigate
     + radio
         * structural/ functional imaging show hypoperfusion /atrophy of frontal /temporal lobes in pattern specific to each variant
+-------------------------------------------------------------------------------
+
+# Gerstmann-Sträussler-Scheinker syndrome (GSS)
+- basics
+    + rare AD heritable human prion disease w/ complete penetrance. progressive degeneration of the cerebellum w/ varying degrees of dementia in midlife (40s) 
+- clinical
+    + presentation
+        * cerebellar degeneration == gait apraxia, discoordination, dysesthesia, hyporeflexia, proximal weakness of the legs
+- investigate
+    + CSF/ imaging is normal in GSS, however EEG may show slowing, but not as SN as is in CJD
+    + Genetic studies: most SP way @PRNP mutations @++cases are familial.  

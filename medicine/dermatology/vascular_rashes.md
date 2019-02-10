@@ -25,3 +25,17 @@
     + acne vulgaris, esp @adolescent
     + haber syndrome (mimicks rosacea)
     + pyoderma facial aka rosacea fulminans/ conglobata (much more severe version)
+
+# Livedo reticularis (LR)
+- cutaneous physical sign characterized by transient or persistent, blotchy, reddish-blue to purple, net-like cyanotic pattern w/ unbroken circles. @local cutaneous blood flow disturbance @variety of causes (including benign/ serious conditions)
+- can be a primary physiological dermatological condition, ++@females (when it is physiological it is called cutis marmorata)
+
+# Livedo racemosa (LRC)
+- persistent erythematous/ violaceous discoloration of skin w/ broken/ discontinuous / broken/ branched irregular pattern, either restricted to the limbs or diffuse. usu first sign o fsystemic vascular disorder. the pathologocial version of livedo reticularis, which can be a benign derangement in local blood flow.
+- main difference is 'broken' circles, may be more violaceous
+- always secondary to underlying pathology
+- medical
+    + causes:
+        * APS (25% get LRC)
+        * SLE-associated APS (70%)
+

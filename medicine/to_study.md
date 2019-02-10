@@ -1,7 +1,6 @@
 ###### Title
 
 MCI !
-howell evans syndrome
 Granuloma fissuratum 
 cholesterol crystals (both positve and negatie birefringence) associated with RA
 
@@ -20,7 +19,7 @@ PFAPA syndrome
 cyclic neutropaenia
 
 lemierre's disease
-
+Acrokeratosis paraneoplastica 
 sweet syndrome
 picatricial phemphigoid666
 MAGIC syndrome
@@ -89,7 +88,7 @@ hand foot and mouth disease - enteroviridae
 katayama fever
 acute pancreatitis - colon cutoff sign
 uremic frost associated with end stage renal disease
-
+fatal familial insomnia
 dexamethasone - cx of perofrated bowel
 extramedullary haemopoiesis - can be asscoiated with myelofibrosis
 lingua villosa nigra
@@ -114,3 +113,5 @@ skeletal fluorosis
 
  tumor necrosis factor receptor 1 associated periodic syndrome (TRAPS)
  mevalonic aciduria
+ HELLP syndrome
+ 

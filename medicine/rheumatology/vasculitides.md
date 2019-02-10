@@ -1,4 +1,4 @@
-[[######]] Vasculitides
+###### Vasculitides
 
 
 # Medical
@@ -138,6 +138,9 @@
 
 # Granulomatosis with polyangiitis
 - basics
+- medical
+    + associated conditions
+        * relapsing polychondritis %assoc
 - clinical
     + rf
         * M=F
@@ -146,7 +149,7 @@
         * b symptoms
         * arthalgias
         * ~90% ENT sx rhinosinusitis, otitis media, earache, otorrhoea, persistent rhinorrhoea
-        * polychondritis (%causing sufficient cartilage destruction == saddle nose deformity)
+        * relapsing polychondritis (%causing sufficient cartilage destruction == saddle nose deformity)
         * cough/ dyspnoea/ stridor/ wheezing/ haemoptysis/pleuritic pain @lung involement
         * %renal insufficiency @GN (may develop GN later after diagnosis), %haematuria
         * 50%cutaneous (livedo, purpura, urticaria, nodules, %%PG, %%sweet syndrome)
@@ -167,3 +170,8 @@
         * CT sinuses/ neck %indicated
 - treatment
     + protocol: should begin even before biopsy confirmed
+---------------------------------------------------------
+
+# MAGIC syndrome (mouth and genital ulcers with inflamed cartilage syndrome)
+- basics
+    + cutaneous condition with features of Behcets and relapsing polychondritis. 
