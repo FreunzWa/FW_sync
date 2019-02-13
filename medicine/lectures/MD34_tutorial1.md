@@ -193,4 +193,4 @@ functional reach
 sternal push (someone behind)
 shoulder tug (catch them in front)
 the exam is targetted, using histyr and chasing down differentials.
------------------------------------------------------------
+----------------------------------------------------------

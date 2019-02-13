@@ -3,7 +3,9 @@
 MCI !
 Granuloma fissuratum 
 cholesterol crystals (both positve and negatie birefringence) associated with RA
-
+multisystem proteinopathy
+multiple organ dysfunction sydnrome
+olivopontocerebellar atrophy
 eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
 Cowdens syndrome
     Lhermitte duclos disease
