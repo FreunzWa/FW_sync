@@ -25,7 +25,7 @@ Acrokeratosis paraneoplastica
 sweet syndrome
 picatricial phemphigoid666
 MAGIC syndrome
-
+TEN- severe drug related necrotic skin condition
 progressive supranuclear palsy (steele richardson olszewski syndrome)
 one and a half syndrome
 miller fisher syndrome
@@ -34,8 +34,12 @@ hairy cell leukaeima
 
 kawasaki's disease
 - strawberry tongue
-
-
+eczema herpeticum
+angioneurotic edema
+thyroid gastric cluster
+pityriasis rosea
+psoriasis - guttate psoriasis
+latex allergies
 mccune albright syndrome
 
 Neurovascular

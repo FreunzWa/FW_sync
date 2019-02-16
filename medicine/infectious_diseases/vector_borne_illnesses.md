@@ -1,7 +1,34 @@
 ###### Vector-borne illnesses
 
 # Tick borne illnesses
-    lyme disease
+    Lyme disease (borreliosis)
+    Anaplasmosis
+    Relapsing fever (different subtype of borreliosis)
+    Typhus
+    Rocky Mountain spotted fever
+    Helvetica spotted fever
+    Bartonella
+    Tularemia
+    Tick-borne meningoencephalitis
+    Powassan virus
+    Babesiosis
+    Cytauxzoonosis
+# Mosquito borne
+    Dengue
+    Zika
+    Chikungunya
+    Malaria
+    Filariasis
+    Tularemia
+    West nile virus
+    Dilofilariasis
+    Keystone virus
+    Japanese enchehalitis
+    Saint Louis enchephalitis
+    Venezuelan equine encephalitis
+    RRV
+    BFV
+    Bartonella
 
 # Lyme disease (aka borreliosis)
 - basics
@@ -51,3 +78,9 @@
 
 
 # Anaplasmosis
+
+# Chikungunya fever (CF)
+- basics
+    + mosquito born alphavirus == acute febrile polyarthralgia/ arthritis. 
+    + etymology == "stooped walk" @incapacitating arthalgia
+    + endemic west africa, 35-50% population have +ve antibodies to the CV in some areas
