@@ -145,6 +145,16 @@
     + intracranial cerebral vascular malformation of nidus of vessels between feeding artery and vein  
     + 4% of population, symptomatic in 12% in teh affected population
     + congenital/ dysregulation of VEGF
+    + 90%supratentorial
+    + account for 10%SAH, 1-2% of all storkes
+- medical
+    + mechanism
+        * @nidus exposed to ++high pressure arterial flow rate == ++development of aneurysm/ rupture
+    + etiology
+        * congenital, may be associated with conditions (hereditary hemorrhagic telnagiectasia, osler-weber-rendu syndrome).
+    + %assoc with spinal/ brainstem AVMs esp @HHT (multiple AVMs ++suggestive of HHT)
+- diagnosis
+    + CT/ MRi visualisation, followed by angiography to guide therapy.
 - classification
     + grading
         * 1: size, 2: deep, 3: proximity to important structures.
@@ -153,16 +163,21 @@
     + %calcification/ gliotic tissue
     + ++@supratentorial,66% superficial
     + 2% multiple AVMs
+- treat
+    + surgery: determine suitable/ safe @Spetzler-Martin grading system. 
+    + radio-intervention: esp done @lesions risk for surgical therapy based on location or @++risk of bleeding.
+    + stereotactic radiosurgery is increasingly explored as an option
 - clinical
     + presentation
-        * mass effect/ focal neurological sx/ raised ICP sx
-        * 20%seizures, %ischaemic events sx @vascular steal
+        * mass effect/ focal neurological sx/ raised ICP sx, headache
+        * 20%seizures (usu focal), %ischaemic events sx @vascular steal
+        * intracranial hemorrhage sx
 - investigate
-    + radio
-        * vasuclar nidus hyperdense @CT.
+    + radio (impression: flow voids esily visualised @T2)
+        * vascular nidus hyperdense @CT.
         * no mass effect until bleeding occurred
         * CTA == classic bag of worms appearance (total vacular territory becomes obvious)
-        * T2 shows flow voids
+        * T2 shows flow voids (thus the AVM looks hypointense @surrounding parenchyma, like a bunch of black worms)
         * %see previous hemorrhage/ surrounding vasogenic edema
 ---------------------------------------------------------------
 
@@ -174,7 +189,7 @@
         * (RAAF) right-left disorientation, agraphia, acalculia, finger agnosia.
             - get patient to point to R/L limbs, then your limbs
             - get patient to write name
-            - get patient to do simple maths, addition etc.
+            - get patient to do simple maths, serial 7s is the best test to use, standardized.
             - get patient to say what finger pointing to (index, ring, middle, etc.), do it with pt eyes closed, tap finger and get pt to say
         * inferior parietal lobule of the dominant hemisphere, which is in the left PCA territory.
     + Right PCA stroke (or non dominant hemishere)

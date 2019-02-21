@@ -1,5 +1,12 @@
 ###### Dysphasias/ Aphasia
 
+# Broad types
+    Receptive dysphasia - posterior (Wernicke's area)
+    Expressive dysphasia - anterior (Brocas's area)
+    Conductive dysphasia - (arcuate fasiculus)
+    Nominal dysphasia -  (dominant posterior temporoparietal area)
+
+
 # Differentials
     Non-fluent
         Comprehending
@@ -11,7 +18,7 @@
     Fluent
         Comprehending (arcuate fasciculus)
             Conduction aphasia
-            Anomic aphasia
+            Anomic/ Nominal aphasia
         Non-comprehending
             Transcortical sensory aphasia
             Wernicke's aphasia ('fluent aphasia')
@@ -23,11 +30,13 @@
     + transient abnormalities @seizure/ migraine/ TIA
     + progressive: neurodegenerative diseases (eg AD), CJD
 
+
 # Differentiating aphasia from other underlying causes
 - exclude
     + delirium
     + shizophrenia (may mimic a fluent aphasia)
     + dysarthria
+    + dysphonia (disease of vocal cords == ineffective, difficult speech)
     + apraxia of speech (motor disorder - can be difficult to distinguish frmo broca's)
 
 # Assessing fluency
@@ -94,8 +103,9 @@
 # Anomic aphasia
 - anomia occurs in most aphasia syndomres, but may in some cases be an isolated deficit. 
 - mild fluent type of aphasia
-- in anomic aphasia, there is isolated anomia, speech has circumlocution (substitution of words and phrases), pauses, %paraphasic errors
+- in anomic aphasia, there is isolated anomia, speech has circumlocution (substitution of words and phrases), pauses, %paraphasic errors @cannot think of certain words
 - damage to the left arcuate fasciculus causes anomic aphasia. usu @CVA/ brain tumor
+- difficulty in naming certain objects
 
 # Primary progressive aphasia
 - associated with neurodegenerative disease (FTD and AD).

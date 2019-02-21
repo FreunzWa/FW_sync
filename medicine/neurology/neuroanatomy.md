@@ -1,5 +1,10 @@
 ###### Neuroanatomy
 
+# Mamillary bodies
+- part of limbic system, @ends of anteerior arches of the fornix.
+- part of the Papez circuit
+- damaged @thiamine deficiency == WK syndrome == anterograde amnesia. 
+- also atrophied @AD, schizophrenia, heart failure
 
 # Ventricular system
 - lateral ventricles

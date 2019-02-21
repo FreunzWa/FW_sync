@@ -1,16 +1,28 @@
 ###### Title
 
 MCI !
+pseudobulbar palsy
+neuroleptic malignant syndrome
 Granuloma fissuratum 
 cholesterol crystals (both positve and negatie birefringence) associated with RA
+hyperammonaemic encephalopathy
 multisystem proteinopathy
+HHT; Osler-Weber-Rendu syndrome
 multiple organ dysfunction sydnrome
 olivopontocerebellar atrophy
 eosinophilic esophagitis - prominent esophageal ridges, biopsy shows eosinophilia.
+anterior spinal artery syndrome
+tabes dorsalis - neurosyphilis
 Cowdens syndrome
     Lhermitte duclos disease
 anaplasmosis
 Dolichoectasia of the basilar artery
+subacute combined degeneration
+central cord syndrome
+brown sequard syndrome
+beriberi
+vit b12 deficiency test, like MMA, homocysteeine
+atrophic gastritis
 Gerstmann-Sträussler-Scheinker syndrome
 varicocele - associationas and causes.
 toxoplasmosis fundoscopy
@@ -19,7 +31,7 @@ Bannwarth syndrome
 syndrome of the trigone
 PFAPA syndrome
 cyclic neutropaenia
-
+cyanocobalamin
 lemierre's disease
 Acrokeratosis paraneoplastica 
 sweet syndrome
@@ -31,7 +43,7 @@ one and a half syndrome
 miller fisher syndrome
 
 hairy cell leukaeima
-
+schilling test
 kawasaki's disease
 - strawberry tongue
 eczema herpeticum
@@ -41,11 +53,16 @@ pityriasis rosea
 psoriasis - guttate psoriasis
 latex allergies
 mccune albright syndrome
-
+microfilariasis
 Neurovascular
     vein of Galen aneurysm
 schwartzman reaciton in PG
-
+babesiosis
+anaplasmosis
+chagas disease
+west nile virus
+yellow feverd
+dengue-
 sheehan syndrome - ischaemic injury @pituitary expansion during pregnancy. 
 dermoid cyst
 churg-strauss
