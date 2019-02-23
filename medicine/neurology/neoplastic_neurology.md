@@ -14,11 +14,19 @@ craniopharyngioma
 
 # Classification
     Neuroepithelial / Glial "Glioma" (50)
-        Astrocytoma (44)
+        Astrocytoma (44) - Grading @WHO classification
             *G1: pilocytic astrocytoma
-            G2: Low grade astrocytoma (++diffuse astrocytoma)
-            G3: anaplastic astrocytoma
+                angiocentric astrocytoma
+                subpendymal giant cell astrocytoma
+            G2: Low grade astrocytoma (diffuse astrocytoma)
+                Gemistocytic astrocytoma
+                chordoid glioma of the 3rd ventricle
+                oligoastrocytoma
+                pilomyxoid astrocytoma
+                pleomorphic xanthoastrocytoma
+            G3: Anaplastic astrocytoma
             *G4: GBM (most common type, accounts for 22% of all)
+                diffuse midline glioma (diffuse intrinsic pontine gliomas)
         *Epdendymoma (3)
             Sub-ependymoma
         *Medulloblastoma (3)
@@ -136,10 +144,11 @@ craniopharyngioma
         * T1C: vivid contrast enhancement, cyyst wall enhancement
 -----------------------------------------------------------
 
-# Diffuse astrocytoma (G2 astrocytoma, aka low grade infiltrative astrocytomas, prev known as "fibrillary astrocyatoma")
+# Diffuse astrocytoma (G2 astrocytoma, aka low grade infiltrative astrocytomas, prev known as "fibrillary astrocytoma")
 - basics
-    + no identifiable border between tumor and brain tumor @macro specimen. not widespred throughout brain, just refers to poorly defined margins.
+    + no identifiable border between tumor and brain tumor @macro specimen (however may appear well demarc @imaging studies). not widespred throughout brain, just refers to poorly defined margins.
     + classed molecularly @IDH mutation status
+    + includes prev recognised protoplasmic and fibrillary astrocytoma, which are now not recognised.
 - investigate
     + genetic:  
         * IDH mutation status (either wild type/ mutant sttus)
@@ -148,6 +157,11 @@ craniopharyngioma
     + ++%no enhancement, %see small ill defined areas of enhancement
 --------------------------------------------------------------------
 
+# Gemistocytic astrocytoma
+- basics
+    + low grade astrocytoma (Grade 2), but worse prognosis than other low grade WHO II tumors. no specific imaging features
+    + have ++gemistocyte population . usu frontal lobe location.
+--------------------------------------------------------------------------------------------------------------
 
 # Glioblastoma (G4 astrocytoma)
 - basics

@@ -1,6 +1,7 @@
 ###### Title
 
 MCI !
+whipple's disease - Tropheryma whipplei
 pseudobulbar palsy
 neuroleptic malignant syndrome
 Granuloma fissuratum 
