@@ -47,7 +47,7 @@
         * female, age, APOE4 carrier, smoker, Fhx
     + severity @former cognitive reserve in premorbid fx
 - investigate
-    + diagnose @clinical syndrome +/- histological confirmation (rarely done). neuroimaging to increase confidence in diagnosis.
+    + diagnose @clinical syndrome +/- histological confirmation (rarely done). neuroimaging to increase confidence in diagnosis. 
     + CSF (may aid in diagnosis) 
         * beta-amyloid, total tau, hyperphosphorylated tau
     + radio
@@ -55,7 +55,7 @@
         * FDG-PET shows hypoactive in affected regions
 - treat
     + pharma
-        * cholinesterase inhibitors (donepezil, rivastigmine, galantamine), %improve memory in the early stages, but does not change progression 
+        * cholinesterase inhibitors (donepezil, rivastigmine, galantamine), %improve memory in the early stages, but does not change progression, only provides moderate symptomatic relief in some with AD
         * NMDA antagonists (eg memantine) @block pathological over-stimulation of NMDA receptors 
         * antioxidants - Vitamin E, selegiline (MOAi)
         * medications for behavioural sx: antidepressants, anxiolytics, antiparkinsonism, sedatives(anticonvulsants)

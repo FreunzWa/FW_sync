@@ -3,6 +3,8 @@
 MCI !
 whipple's disease - Tropheryma whipplei
 pseudobulbar palsy
+mcardles diseas (myophosphyralse deficiency)
+antisynthetase syndrome
 neuroleptic malignant syndrome
 Granuloma fissuratum 
 cholesterol crystals (both positve and negatie birefringence) associated with RA
@@ -110,6 +112,7 @@ pendred sydnrome
 nummular eczema
 hand foot and mouth disease - enteroviridae
 katayama fever
+melanosis coli
 acute pancreatitis - colon cutoff sign
 uremic frost associated with end stage renal disease
 fatal familial insomnia

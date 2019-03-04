@@ -101,6 +101,7 @@
 
 
 # Anomic aphasia
+- when individual has trouble recalling specific words, usu nouns and verbs
 - anomia occurs in most aphasia syndomres, but may in some cases be an isolated deficit. 
 - mild fluent type of aphasia
 - in anomic aphasia, there is isolated anomia, speech has circumlocution (substitution of words and phrases), pauses, %paraphasic errors @cannot think of certain words
@@ -111,3 +112,13 @@
 - associated with neurodegenerative disease (FTD and AD).
 - 3 subtypes (non fluent, semantic, lopogenic)
 - similar features to other types of aphasia but comprise a syndrome, in the early stage usu just isolated language dysfunction but progresses to other cognitive defecits such as memory loss etc/ and MND etc.
+- types:
+    + lopogenic aphasia (associated with AD) - rarest and least well defined. 
+        * impaired single word retrieval/ repetition with errors in speech/ naming.
+        * spared object knowledge/ single word comprehension
+        * like non fluent usu has slow pace of speech, but not @articulation difficulties @apraxia like in non fluent, but rather difficulties @word finding (every day words like 'table'). reading may be impaired. understand the meanings of the words but cannot say the word. may choose incorrect words. may lose comprehension when people speak quickly.
+        * thought to be @atrophy of the temporal lobe and inferior parietal lobule.
+    + non fluent (associated with FTD)
+        * @apraxia/ articulation difficulties
+    + semantic (associated with FTD)
+        * loss of contextual understanding about objects

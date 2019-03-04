@@ -16,8 +16,21 @@
         * adipose
             - lipolysis
 - b2 receptors
-
-
+    + GPCR associated w/ adenylate cyclase == ++cAMP == L-type Calcium channel activation. classic FoF response activation.
+    + functions
+        * smooth muscle relaxation
+            - GI tract (inhibit digestion)/ bronchi (++respiration)/ detrusor muscle of the bladder (inhibit micturition)/ uterus/ seminal tract
+        * blood vessel dilation (++perfusion to skeletal muscles)
+        * striated muscle ++contractility (skeletal muscle ++contraction/ motility)
+        * pancreas (++insulin and glucagon secretion == ++uptake of glucose by skeletal muscle)
+        * ++glycogenolysis (++glucose available)
+        * ++tremor
+- b3 receptors
+    + located mainly @adipose and skeletal muscle
+    + also located @gall bladder, urinary bladder
+    + functions
+        * adipose: ++lipolysis
+        * skeletal: ++thermogenesis
 
 
 

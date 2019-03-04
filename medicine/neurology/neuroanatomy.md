@@ -38,3 +38,30 @@
 - related pathology
     + @masses in this region == parinaud syndrome or obstructive hydrocephalus
 
+
+
+
+### Spinal cord anatomy
+
+# DCML
+- posterior column, contains tactile, vibration, proprioceptive information 
+- white matter fasciculi decussate at the medulla, so in the spinal cord up until the level of the medulla contains ipsilateral information
+- nerve pathway
+    + 1st order neuron innervates sensory detector == enters spinal cord through dorsal sensory rami == synapses with 2nd order neuron in dorsal horn whose axon travels up the posterior column == decussates at the medulla @arcute fibres, the gracile fibres becoming ventral, cuneate dorsal == synapses @thalami VPLN with 3rd order neurons == projections through the posterior arm of the internal capsule to cortical processing areas. (++parietal cortex based primary somatosensory cortex)
+    + trigeminal nerve fibres also join teh fasiculus, these fibres synpase at the VPMN nucleus of the thalamus instead
+- fasciculi
+    + cuneate fasciculus (cervical/ thoracic levels), above T6
+        * lateral to gracile, forms at higher levels
+    + gracile fasciculus (sacral/ lumbar levels), below T6
+        * medical to cuneate
+
+
+# Corticospinal tract
+- white matter tract, ++originating @primary motor cortex (B4), supplementary motor areas, cingulate gyrus. 
+- nerve pathway
+    + cortical areas == posterior limb opf internal capsule == through cerebral crus at the base of the midbrain == form pyramid shapes @anterior medulla. 90% fibres decussate @medulla (to form the lateral corticospinal tract), whilst 10% fibres do not decussate and stay anterior. upper motor nerurons leave fasciculi @level, synapse with LMN nucleus in the ventral horns w/ interneuron (inhibitory). 
+- divisions
+    + lateral corticospinal tract
+        * controls movement of the limbs
+    + anterior corticospinal tract (10% of fibres, close to midline, anterior)
+        * controls trunk muscles, for postural control etc.

@@ -94,15 +94,16 @@
 
 # Pituitary apoplexy
 - basics
-    + @hemorrhagic necrosis of the pituitary == med emergency
-    + ++underlying macroadenoma (~80%)
+    + @hemorrhagic necrosis of the pituitary == med emergency. %non hemorrhagic etiology causing necrosis.
+    + ++underlying macroadenoma (~80%), or other pituitary abn
 - medical
-    + @pituitary dysfunction == endocrine derangements == %Addisonian crisis/ pan-hypopituitarism (endocrine emergency)
+    + cx
+        * @pituitary dysfunction == endocrine derangements == %Addisonian crisis/ pan-hypopituitarism (endocrine emergency)
 - clinical
     + rf = rf for pituitary macroadenoma + HTN/ bleeding rf
         * treatment for prolactinoma (esp bromocriptine)
         * prior irradiation of macroadenoma
-        * Sheehan syndrome (pit gland ischameia @excess blood loss == low perfusion ischaemia/ infarction)
+        * Sheehan syndrome (pit gland ischameia @excess blood loss == low perfusion ischaemia/ infarction), a cx of childbirth
         * htn/ anticoagulation
     + present
         * sudden headache/ chiasmal field visual defect @blood's mass effect on the chiasm/ oculomotor palsies/ diplopia
@@ -117,7 +118,7 @@
         * DWI == restricted diffusion in necrotic area 
 - treat
     + surgical decompression of the pitutitary %@progressive impairment of vision/ hypopituitarism
-    + %self limiting @blood resportion
+    + %%self limiting @blood resportion if small, but otherwise usu causes death.
 =======
 
 # Cerebral cavernous vascular malformations (CCVMs)
@@ -199,3 +200,12 @@
             - spatial neglect
             - constructional apraxia (cannot copy pictures)
             - prosopagnosia
+
+---------------------------------------------------------------
+
+
+### Cerebral Vascular syndromes
+    Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome)
+
+# Hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu syndrome) HHT/OWR
+- see genetic syndromes, cerebral vasculature involved in 10% of cases of HHT
