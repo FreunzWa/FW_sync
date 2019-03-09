@@ -66,3 +66,30 @@ Ongoing treatment/ assessment of mental illness.
     + over 65 years old / have an age related illness
     + live in residential age care facility
     + mood/ mental disturbances
+
+Allied health professionals
+-------------------------------------------------------------------------------
+
+# Dietitians
+- specialised dietary advice for pt with medical conditions (diabetes, heart failure, metabolic syndrome, cancer, food allergies/ intolerances)
+- assist with determining if a patient is taking adequate nuttrition and provide supplements @needed (eg in people with -=appetite/ psych condition)
+- work closely with speech therapists @develop specialised diets for people with dysphagia (eg w/ neurological condition eg post stroke)
+
+# Music therapists
+- improve patients quality of life, esp in palliative/ terminal care setting (receptive music therapy). may improve mood, decrease stress/ pain/ anxiety level
+- legacy work: allow the patient to take part in singing/ producing music (active music therapy)
+
+# Pastoral care
+- 
+
+# Occupational therapists
+
+# Pysiotherapists
+
+# Psychologists
+
+# Social workers
+- financial support, eg. submit applications for disability support packages
+
+# Speech pathologist
+- fluoroscopic swallowing assessment to detect dysphagia/ aspiration

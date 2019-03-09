@@ -11,7 +11,7 @@
         * hypotension/ hypoglycaemia @low cortisol
         * confusion /psychoses/ delirium/ slurred speech
         * lethargy
-        * hyponatremia @salt wasting @loss MC  effect ^hyperkalemia, hypercalcemia
+        * hyponatremia @salt wasting @loss MC  effect ^hyperkalemia + MA, hypercalcemia
         * seizures/ fever
 - medical
     + etiologies
@@ -71,3 +71,63 @@
     + long term 
         * @pt with Graves disease should use radioactive ablation/ surgery (ablation better tolerated @risk of recurrence @surgery)
         * surgery better @large goitre
+
+
+# Serotonin syndrome (SS)
+- basics
+    + emergency @++serotonin in the CNS. 
+    + classically described as triad of mental status changes, autonomic hyperactivity, neuromuscular abn.
+    + usu caused @medication use, interactions between drugs, overdose, MDMA
+    + most commonly @SSRIs, MDMA, MAOi
+    + must distinguish from mild side effects associated with SSRI use which may produce milder clinical findings but still showing a serotonin excess. pt may still benefit from taking the drug @side effects tolerable.
+    + has various cx which can be life threatening.
+- clinical features
+    + mental status changes (anxiety, agitaiton, disoritentation)
+    + autonomic (diaphoresis, flushing, hypertehrmia, hypertension, vomiting, diarrhoea)
+    + neuromuscular (muscle rigidty, tremor, myoclonus, hyperreflexia, upgoing plantar reflex bil)
+    + history points
+        * take detailed medication history (recent chagnes to dose, use routine, OTCs, illicit substances)
+        * develops within 24 hrs
+- medical
+    + mx
+        * hytperthermia @increased muscular activity/rigidity can cuase severe hyperpyrexia
+    + ++@medications causing ++serotonin activitiy
+        * MDMA
+            - causes increased serotonin released from synapse
+        * MAOi
+            - decreased MAO mediated breakdown of monoamines == ++serotonin production. MAOis are irreversible @irreversible bind to MAO
+            - MAOis have so many drug reactions. 
+            - have worse outcomes if these are the cause of serotonin syndrome
+        * SSRIs
+    + complications
+        * DIC, rhabdo, metabolic acidoiss, seizures, AKI/ renal failure
+- diagnosis
+    + clinically
+    + differentials
+        * neuroleptic malignant sydnrome (often misdiagnosed)
+            - takes longer to develop, days to weeks.
+            - neuromuscular features are opposite, sluggishness as opposed to hyperreflexia and rigidity.
+        * anticholinergic toxicity
+        * malignnat hyperpyrexia
+            - anaesthetic exxposure
+        * meningitis/ encephalitis
+- rx
+    + principles of rx
+        * discontinue all serotonin afgents
+        * normalise vital signs (treat hyertension, hyperthermia)
+        * sedation with benzos
+        * administration of sertononin antagonists
+        * ongoing assessment if can reintroduce serotoninergic agents
+    + most patients fine @discontinue serotonin meds and give benzos + supportive care
+    + @more severe features eg. autonomic instability/ severe hypertension == may require sertonin antagonists. 
+    + @life threaetening eg body temp >41, may require muscular relaxation and intubation
+    + important to determine drug cause, MAOis last the longest, others usu resolve <24 hrs.
+    + treatment of features:
+        * hypertension/ tachycardia
+            - nitroprusside/ esmolol to bring BP down
+        * @hypotensin, esp caused @MAOis
+            - vasopressors (NAdr)
+        * hyperthermia
+            - @>41.1 require ikmmediate paralysis, sedation, intubation w/ RSI, ICU
+        * antidote: 
+            - Cyproheptadine used @first line therapy fails. 12 mg initially, 2mg every 2 hours until clinical repsonse. only oral, but can give @NGT.

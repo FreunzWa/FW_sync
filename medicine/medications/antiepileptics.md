@@ -5,7 +5,7 @@
     + BPAD (manic/ mixed episodes), epilepsy, prevent migraines (@other treatments failed)
 - SEs
     + common {NV, ++appetite/ weight gain, tremor, hair thinning, drowsiness, ++liver ATs, menstrual irregularities, reduced BMD@long term use}
-    + rare {hepatic failure, pancreatitis usu in first 6 mnths, neutropaenia, EPSEs, hyperammonaemic encephalopathy}
+    + rare {hepatic failure, acute pancreatitis usu in first 6 mnths of therapy, neutropaenia, EPSEs, hyperammonaemic encephalopathy}
 - considerations
     + CI @hypersensitivity, pancreatic dysfx, porphyria, urea cycle disorders, hepatic failure, children @hepatotoxic, pregnancy @teratogenic
     + @also on carbamazepine, phenytoin, phenobarbital, topiramate == %++risk of hyperammonaemic encephalopathy

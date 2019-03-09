@@ -1,10 +1,14 @@
 ###### Dementia
+- dementia is a terminal illness. 
 
 # Classification
     Alzheimer's disease (60-80% of all dementias)
     Vascular dementia
-    Dementia with lewy bodies (Parkinson's dementia)
+    Dementia with lewy bodies/ Parkinson disease dementia
     Fronto-temporal dementia
+        bvFTD
+        semantic PPA
+        non fluent PPA
 
     Less common
         Creutzfeldt-Jakob disease
@@ -67,7 +71,8 @@
 # Behavioural variant Frontotemporal dementia (bvFTD) - Pick's disease
 - basics
     + FTD is a group of clinically heterogenous neurodegen disorders w/ changes in psychosocial behaviour/ aphasia. %also develop concomitant motor syndrome (PD/  MND)
-    + more common cause of early onset dementia. avg PC @50s
+    + more common cause of early onset dementia. avg PC @50s. 
+    + terminal illness. prognosis related to rapidity of decline
     + FTD covers 3 main distinct clinical presentation (2 of the 3 types of PPA are @FTD)
         * behavioural variant FTD
         * semantic progressive aphasia
@@ -136,3 +141,64 @@
 - investigate
     + CSF/ imaging is normal in GSS, however EEG may show slowing, but not as SN as is in CJD
     + Genetic studies: most SP way @PRNP mutations @++cases are familial.  
+--------------------------------------------------------------------------- 
+
+# Dementia with Lewy Bodies
+- basics
+    + pathological hallmark of eosinophilic intracellular inclusions called Lew Bodies (of alpha synuclein) in deep cortical layers throughout the brain
+    + important to correctly diagnose DLB @treatment options are specific to DLB as ooposed to other typeds of demdentia.
+    + distinguish from Parkinsons disease dementia, which is when dementia occurs in setting of well establisheed parkinsonism, while DLB dementia signs usu precede onset of parkinsonism or develop coincidentally.
+- diagnosis
+    + diagnosis requires:
+        * dementia (esp following domains)
+            - attention
+            - executive function
+            - visuospatial function
+        * two other core clinical features of DLB (usu appear early and persist). one core clincial feature and 1 supporting feature is suggestive of probable DLB
+            - cognitive fluctuations (in 60-80%)
+                + episodic, a differential is stroke/ seizure. people blank out with staring episodes/ become confused or behave bizzarely, %with motor features, %excessively somnolent
+            - visual hallucinations (in 2/3)
+                + may precede parkinsonism
+                + most useful clinical feature to distinguish from AD (in which hallucinations are v rare)
+                + eg people/ animals, abstract colors/ shapes, from brief corner of eye to very complex hallucaintions. 
+            - rapid eye movement sleep behaviour disorder\
+                + sleep related vocalisation or motor behaviours during REM that coirrelates with dream mentation. usu short in duration. %sleep related injuries. 
+            - parkinsonism (70-90%)
+                + usu sx are milder, but %as severe as idiopathic PD
+                + esp brady/ akinesia/ limb rigidity + gait disorder. 
+                + %%tremor, and more mild.
+        * supporting features
+            - amelioration of sx with antipsychotics
+            - low Dopamine transporter uptake in PET/ SPECT
+            - repeated falls
+            - hypersomnia
+            - autononomic dysfx
+            - halluciations in other modalities
+            - delusiosn
+            - anxiety/ depression
+- clinical
+    + presentation
+        * dementia (progressive cognitive decline, of sufficient magnitude to interfere with normal social and occupational function), eg impairments to exec function, attention, visuoperceptual ability.
+            - usu presents first with loss to attention and executive/ visuospatial function rather than memory loss. (care must be taken to distinguish attention defecit from memory loss)
+            - early signs: -=job performance, failing to see stop signs or other cars eetc.
+        * autonomic dysfunction (orthosattic hypotention, urinary incontinence or retention, constipation and other GI sx). >%@PD, but <%@MSA
+        * hypersomnia (daytime somnolence)
+- investigation
+    + cognitive testing
+        * MMSE/ RUDAS/ MOCA tests that may be affected
+            - clock drwawing (visuospatial and attention)
+            - WORLD backwards (attention)
+            - serial sevens (attention)
+            - overlapping pentagonss (visuospatial)
+- rx
+    + by feature
+        * dementia
+            - cholinesterase inhibitors, limited evidence. (rivastigmine, donepezil, galantamine, memantine)
+        * sleep behaviour disorder
+            - most patient respond to melatonin or clonazepam
+            - set up bedtime environment to be as safe as possible
+        * treat urinary incontinence/ retendtion.
+        * psychoses
+            - antipsychotics
+        * parkinsonism
+            - treatemnt with levodopa, but generally less successful than idiopathic PD

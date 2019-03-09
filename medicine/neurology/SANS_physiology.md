@@ -47,3 +47,38 @@ chronic detrimental effects:
 * inflammatory mediator (ROS, ICAMs, VCAMs, proinflammatory effect on leukocytes)
 * ++cellular proliferation of vessels == ?atherogenesis
 * may contribute to insulin resistance
+
+
+# Muscarinic receptors
+- M1 receptors (CNS)
+    + functions
+        * CNS
+            - slow after depolarising potentials in neurons
+        * ANS
+            - EPSP in autonomic ganglia
+        * GI
+            - ++exocrine secretions (salivary glands adn stomach)
+- M2 receptors (cardiac)
+    + functions
+        * cardiac (dominates over sympathetic activity)
+            - -=HR
+            - -=contractility of atria
+            - -=conduction velocity of AV node
+- M3 receptors (lung, all over body)
+    + functions
+        * respiratory
+            - bronchoconstriction
+        * GI
+            - ++exocrine secretions (salivary glands adn stomach)
+            - emesis
+        * eye
+            - accomodation
+            - lacrimation
+        * vascular
+            - ++intarcellular calcium in vascular endothelium
+            - vasodilation @+=synthesis of Nitric Oxide
+- M4 receptors (CNS)
+    + CNS
+        * decreased locomotion
+- M5 receptors (CNS)
+    + in CNS

@@ -1,7 +1,10 @@
 ###### Palliative care
 
+# Terminology & New concepts
+- breakthrough pain: occurs when comfort provided by background long release pain management on opioids is exceeded. may be severe but usually in the same location/ mechanism as chronic pain. may occur @stress/ anxiety/ coughing/ other physical exertion. high prevalence in people with cancer/ chemotherapy. 
+
 # Overarching principles
-- def: improvies QOL for patients and family who face life threatening illness by providing pain and symptom relief, spiritual and psychological support from point of diagnosis to the end of life and bereavement.
+- def: improvies QOL for patients and family who face life eatening illness by providing pain and symptom relief, spiritual and psychological support from point of diagnosis to the end of life and bereavement.
 - pall care functions:
     + relief from pain and other distressing sx (nausea, constipation, delirium, agitation, other mental status changes)
     + attempts to make family/ individual comfortable with the dying process
@@ -45,3 +48,4 @@
         * pharmacological sedation (given @any existing SC pump available, best prophylactically)
             - neuroleptics: phenobarbitone
             - benzodiazepines: midazolam
+

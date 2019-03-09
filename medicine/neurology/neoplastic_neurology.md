@@ -12,46 +12,257 @@ craniopharyngioma
 chrondrosarcoma
 craniopharyngioma
 
-# Classification
-    Neuroepithelial / Glial "Glioma" (50)
-        Astrocytoma (44) - Grading @WHO classification
-            *G1: pilocytic astrocytoma
-                angiocentric astrocytoma
-                subpendymal giant cell astrocytoma
-            G2: Low grade astrocytoma (diffuse astrocytoma)
-                Gemistocytic astrocytoma
-                chordoid glioma of the 3rd ventricle
-                oligoastrocytoma
-                pilomyxoid astrocytoma
-                pleomorphic xanthoastrocytoma
-            G3: Anaplastic astrocytoma
-            *G4: GBM (most common type, accounts for 22% of all)
-                diffuse midline glioma (diffuse intrinsic pontine gliomas)
-        *Epdendymoma (3)
-            Sub-ependymoma
-        *Medulloblastoma (3)
-        *Oligodendroglioma (2)
-        *Central Neurocytoma 
-        *Ganglioglioma
-        Choroid plexus tumors
-            G1: *papilloma
-            G2: atypical papilloma
-            G3: *carcinoma
-    *Meningioma (15)
-        *Meningeal hemangiopericytoma
-        *Solitary fibrous tumor of dura
-    Mets (15)
-    Pituitary tumors (8)
-    *Acoustic schwannoma (8)
-    *primary CNS lymphoma (2.5)
-    other
-        chordoma
-        craniopharyngioma
-        pineal tumors
-            pineocytoma
-        germ cell tumors
-        *haemangioblastoma
-        primary cerebral malignant melanoma
+# Classification (as per WHO classification as of 2016)
+    Diffuse astrocytic and oligodendroglial tumors
+        WHO Grade II
+            diffuse astrocytoma 
+                IDH-mutant: gemistocytic astrocytoma
+        WHO Grade III
+            Anaplastic astrocytoma
+            Anaplastic oligoastrocytoma
+            Anaplastic oligodendroglioma
+        WHO Grade IV
+            Glioblastoma
+                Giant cell glioblastoma
+                Gliosarcoma
+                Epithelioid glioblastoma
+            Diffuse midline glioma
+
+    Other astrocytic tumors
+        WHO grade I
+            pilocytic astrocytoma 9421/11 - WHO grade I
+            subependymal giant cell astrocytoma 9384/1 - WHO grade I
+             
+        WHO grade II
+            pilomyxoid astrocytoma 9425/3 
+            pleomorphic xanthoastrocytoma 9424/3 - WHO grade II
+             
+        WHO grade III
+            anaplastic pleomorphic xanthoastrocytoma 9424/3 - WHO grade III
+
+    Ependymal tumors
+        WHO grade I
+            subependymoma - 9383/1
+            myxopapillary ependymoma - 9394/1
+             
+        WHO grade II
+            ependymoma - 9391/3
+                papillary ependymoma
+                clear cell ependymoma
+                tanycytic ependymoma
+                RELA fusion-positive - 9396/3 *
+                 
+        WHO grade III
+            anaplastic ependymoma - 9392/3
+
+Other gliomas
+
+    WHO grade I
+        angiocentric glioma - 9431/1
+        ​
+    WHO grade II
+        chordoid glioma of the third ventricle - 9444/1
+         
+    WHO grade not yet assigned
+        astroblastoma - 9430/3
+
+Choroid plexus tumors
+
+    WHO grade I
+        choroid plexus papilloma - 9390/0
+        ​
+    WHO grade II
+        atypical choroid plexus papilloma - 9390/1
+         
+    WHO grade III
+        choroid plexus carcinoma - 9390/3
+
+Neuronal and mixed neuronal-glial tumors
+
+    WHO grade I
+        desmoplastic infantile astrocytoma and ganglioglioma - 9412/1
+        dysembryoplastic neuroepithelial tumor (DNET) - 9413/0
+        dysplastic gangliocytoma of the cerebellum - (Lhermitte-Duclos) - 9493/0
+        gangliocytoma - 9492/0
+            multinodular and vacuolating neuronal tumors (MVNT) - uncertain class assignment 4,5 
+        ganglioglioma - 9505/1
+        papillary glioneuronal tumor - 9509/1
+        paraganglioma of the filum terminale - 8680/1
+        rosette-forming glioneuronal tumor of the fourth ventricle - 9509/1
+         
+    WHO grade II
+        central neurocytoma - 9506/1
+        extraventricular neurocytoma - 9506/1
+        cerebellar liponeurocytoma - 9506/1
+         
+    WHO grade III
+        anaplastic ganglioglioma - 9505/3
+         
+    WHO grade unknown
+        diffuse leptomeningeal glioneuronal tumor - no IDC-O code *
+
+Tumors of the pineal region
+
+    WHO grade I
+        pineocytoma - 9361/1
+        ​
+    WHO grade II or III
+        pineal parenchymal tumor of intermediate differentiation - 9362/3
+        papillary tumor of the pineal region - 9395/3
+         
+    WHO grade IV
+        pineoblastoma - 9362/3
+
+Embryonal tumors
+
+    WHO grade IV
+        medulloblastoma
+            genetically defined 
+                WNT-activated - 9475/3 *
+                SHH-activated & TP53-mutant - 9476/3
+                medulloblastoma SHH-activated & TP53-wildtype - 9471/3
+                group 3 - 9477/3
+                group 4 - 9477/3
+            histologically defined
+                classic - 9470/3
+                desmoplastic/nodular - 9471/3
+                extensive nodularity - 9471/3
+                large cell/anaplastic - 9470/3
+                NOS - 9470/3
+    CNS neuroblastoma 9500/3
+    CNS ganglioneuroblastoma 9490/3
+    embryonal tumors with multilayered rosettes - 9478/3 * 
+        C19MC-altered
+        NOS
+    medulloepithelioma 9501/3
+    atypical teratoid / rhabdoid tumor 9508/3
+    CNS embryonal tumor with rhabdoid features 8508/3 
+    CNS embryonal tumor, NOS 9473/3
+
+Tumors of cranial and paraspinal nerves
+
+    WHO grade I
+        schwannoma (neurilemoma, neurinoma) - 9560/0
+            cellular schwannoma
+            plexiform schwannoma
+            melanotic schwannoma- 9560/1
+        neurofibroma - 9540/0
+            atypical neurofibroma - 9540/0
+            plexiform neurofibroma - 9550/0
+        perineurioma 9571/0
+        ​
+    WHO grade II, III or IV
+        malignant peripheral nerve sheath tumor (MPNST) - 9540/3 
+            epithelioid
+            with perineural differentiation
+
+Tumors of meningothelial cells
+
+    WHO grade I
+        meningioma - 9530/0
+        meningothelial meningioma - 9531/0
+        fibrous meningioma - 9532/0
+        microcystic meningioma - 9530/0
+        psammomatous meningioma - 9533/0
+        angiomatous meningioma - 9534/0
+        secretory meningioma  - 9530/0
+        metaplastic meningioma  - 9530/0
+        lymphoplasmacyte-rich meningioma - 9530/0
+    WHO grade II
+        atypical meningioma - 9539/1
+        clear cell meningioma - 9538/1
+        chordoid meningioma - 9538/1
+         
+    WHO grade III
+        anaplastic meningioma (malignant) - 9530/3
+        papillary meningioma - 9538/3
+        rhabdoid meningioma - 9538/3
+         
+
+Mesenchymal, non-meningothelial tumors
+
+    WHO grade I, II or III
+        solitary fibrous tumor of the dura/hemangiopericytoma - 8815/0 /1 /3
+         
+    WHO grade I
+        angiolipoma - 8861/0
+        chondroma - 9220/0
+        desmoid-type fibromatosis - 8821/1
+        hemangioblastoma - 9161/1
+        hemangioma - 9120/0
+        hibernoma - 8880/0
+        leiomyoma - 8890/0
+        lipoma - 8850/0
+        myofibroblastoma - 8825/0
+        osteochondroma - 9210/0
+        osteoma 9180/0
+        rhabdomyoma - 8900/0
+         
+    WHO grade III
+        epithelioid hemangioendothelioma - 9133/3
+        angiosarcoma - 9120/3
+        chondrosarcoma - 9220/3
+        Ewing sarcoma / PNET - 9364/3
+        fibrosarcoma - 8810/3
+        Kaposi sarcoma - 9140/3
+        leiomyosarcoma - 8890/3
+        liposarcoma (intracranial) - 8850/3
+        osteosarcoma - 9180/3
+        rhabdomyosarcoma - 8900/3
+        undifferentiated pleomorphic sarcoma / malignant fibrous histiocytoma - 8830/3
+
+Melanocytic lesions
+
+    primary melanocytic tumors of the CNS
+        meningeal melanocytosis - 8728/0
+        meningeal melanocytoma - 8728/1
+        meningeal melanomatosis - 8728/3
+        meningeal melanoma - 8720/3
+
+Lymphomas
+
+    diffuse large B-cell lymphoma of the CNS - 9680/3
+    immunodeficiency-associated CNS lymphomas
+        AIDS-related diffuse large B-cell lymphoma
+        EBV-positive diffuse large B-cell lymphoma, NOS
+        lymphomatoid granulomatosis - 9766/1
+    intravascular large B-cell lymphoma - 9712/3
+    Low-grade B-cell lymphomas of the CNS
+    T-cell and NK/T-cell lymphomas of the CNS
+    anaplastic large cell lymphoma
+        ALK-positive - 9714/3
+        ALK-negative - 9702/3
+    MALT lymphoma of the dura - 9699/3
+
+Histiocytic tumors
+
+    Erdheim-Chester disease - 9750/1
+    histiocytic sarcoma - 9755/3
+    juvenile xanthogranuloma
+    Langerhans cell histiocytosis - 9751/3
+    Rosai-Dorfman disease
+
+Germ cell tumors
+
+    choriocarcinoma - 9100/3
+    embryonal carcinoma - 9070/3
+    germinoma - 9064/3
+    mixed germ cell tumors - 9085/3
+    teratoma
+        mature - 9080/0
+        immature - 9080/3
+        with malignant transformation - 9084/3
+    yolk sac tumor - 9071/3
+
+Tumors of the sellar region
+
+    WHO grade I
+        craniopharyngioma - 9350/1
+            adamantinomatous  - 9351/1
+            papillary - 9352/1
+        granular cell tumor - 9582/0
+        pituicytoma - 9432/1
+        spindle cell oncocytoma - 8291/0
 
 # Classification based on Location
     intracranial
@@ -80,7 +291,6 @@ craniopharyngioma
 
 
 ------------------------
-
 # Meningioma
 - Classification
     + Grade 1 benign (70%)/ Grade 2 Atypical (30%)
@@ -260,6 +470,7 @@ craniopharyngioma
 
 # Central Neurocytoma
 - basics
+    + WHO grade II tumor
     + intraventricular neuroepithelial tumors, usu arise @septum pellucidum
     + ++@young  adults (20-40yrs 70%)
     + %assoc with sudden death @acute ventricular obstruction
@@ -361,6 +572,7 @@ craniopharyngioma
     + adjuvant RT 
     + adjuvant chemo
     + prognosis: ++determined @degree of surgical excision + presence of CSF metastases. 40% CSF seeding @diagnosis.
+        * also depends on teh molecular prognostic paramaters, such as p53, NT receptors etc.
 - investigate
     + molecular studies
         * 4 classification exist, the subtype greatly influences prognosis. and c-erbB-2 expression.
@@ -368,6 +580,7 @@ craniopharyngioma
         * 75%vermis tumors == protrude into 4th ventricle through roof == into brainstem. effacement of basal cistern. usu ++enhancement.
         * image whole neuraxis with contrast to find drop mets + leptomeningeal spread.
         * DWI == shows more diffusion restriction than ependymoma
+        * typically @non disseminated disease == relatively high rate of survival.
 -----------------------------------------------------------------
 
 # Choroid plexus papilloma (CPP)
@@ -378,7 +591,7 @@ craniopharyngioma
     + surgical resection curative in most cases
     + prognosis good @-=rate of CSF seeding.
 - investigate
-    + 4th ventricle @adult, lateral @paed. appears as solid intraventricular vascular tumor with vivid frond-like enhancement. 25%speckled calcficiations. lobular, cauliflower like appearance. 
+    + 4th ventricle @adult, lateral @paed. appears as solid intraventricular vascular tumor with vivid frond-like enhancement with contrast. 25%speckled calcficiations. lobular, cauliflower like appearance. 
     + @heterogenous enhancement == suspect choroid plexus carcinoma
     + angio: show vascular blush @++vascular tumors.
 ----------------------------------------------------
@@ -471,6 +684,23 @@ craniopharyngioma
         * %rim calcification 
         * internal cerebral vein elevation (opposed to infratentorial meningioma)
 
+# Atypical teratoid / rhabdoid tumor (ATRT)
+- basics
+    + germline tumor, most common malignant tumor age <1 years or less. 1-2% of all paed brain tumors
+    + highly malignant/ invasive, poor prognosis. 
+    + WHO Grade IV tumor (embyronal subtype)
+- medical
+    + most common supratentorial, %spinal
+    + prognosis
+        * @no standardized treatment regimen for ATRT == 1 yr survival <50  %. also determined @molecular subtype.
+        * large determinant of outcomes is degree of surgical removal (as limited by surrounding important structures)
+- clinical
+    + rf
+        * slight male preponderance
+        * 
+
+
+
 -------------------------------
 
 #Other rare tumors
@@ -507,8 +737,9 @@ craniopharyngioma
     + %%%@++size may compress nearby structures == %%%seizure, headache, focal neurological defecits, or @suprasellar area %cause non communicating hydrocephalus
     + 50% arise @Sylvians fissure
 
-
-
 # Intra-cranial Dermoid cyst
 - basics
     + rare, 
+
+
+

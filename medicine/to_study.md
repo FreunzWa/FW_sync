@@ -7,7 +7,12 @@ mcardles diseas (myophosphyralse deficiency)
 antisynthetase syndrome
 neuroleptic malignant syndrome
 Granuloma fissuratum 
+/Willis Ekbom disease
+tamsulosin
 cholesterol crystals (both positve and negatie birefringence) associated with RA
+migraines - menstruallyt related, pure menses etc..
+juvenile idiopathic arthritis
+functional neurological symptom disorder
 hyperammonaemic encephalopathy
 multisystem proteinopathy
 HHT; Osler-Weber-Rendu syndrome
@@ -21,6 +26,9 @@ Cowdens syndrome
 anaplasmosis
 Dolichoectasia of the basilar artery
 subacute combined degeneration
+tubular adenoma polyp
+thoracic outlet syndrome due to extra cervical rib
+flumazenil
 central cord syndrome
 brown sequard syndrome
 beriberi

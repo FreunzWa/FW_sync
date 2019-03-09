@@ -7,6 +7,8 @@
         Multiple system atrophy
         Corticobasal syndrome
         Progressive supranuclear palsy
+    Cerebral palsy
+        Spastic, Athetoid, Ataxic
 
 
 # Multiple system atrophy (MSA)
@@ -64,3 +66,52 @@
         * CBS (look for apraxia)
     + dementia with lew bodies
     + late onset Friedreich's ataxia
+
+
+# Cerebral Palsy (CP)
+- basics
+    + heterogenous group of conditions w/ permanent non progressive motor dysfunction == affects tone, posture/ movement. 
+    + @damage to develoiping fetal/ infantile brain
+    + usu pw rigidity/ hypotonicitiy, defecits with vision, dysphagia, tremors, hearing, speaking, postural and gait abn, %cognitive issues/ seizures. 
+    + avg diagnosed at 18-24 months.
+- clinical
+    + rf
+        * being a twin
+        * preterm birth
+        * pregnancy exposure to toxoplasmosis/ rubella/ methymerfcury/ difficult delivery/ head trauma during first few years.
+        * 2% thought to be genetic
+        * low birth weight, 
+    + presentation
+        * neurobehavioural signs
+            - excessive docility or irritabiltity.
+            - poor feeding
+            - baby sleeps poorly, vomits freqeuently. 
+            - poor visual attention
+        * milestones
+            - delay in sitting, walking, delayed hand preference
+        * developmental reflexes
+            - delay in disappearance of a developmental reflex (tonic neck, gallant, tonic labyrinthine)
+        * neurological
+            - abn tone (increase/ decreased/ or %normal)
+- medical
+    + associated conditions
+        * chronic pain (50-75%)
+        * intellectual disability (50%)
+        * epilepsy (25-40%)
+        * bvladder control, visual impairment, hearing impairments
+- classification
+    + main classes (can usually categorise at arnd 24 mnths)
+        * spastic CP (hypertonicity of muscles @UMN like syndrome)
+            - %symmetric/ asymmetric.
+            - hypertonia, hyperreflexia, clonus, extensor plantar reponses
+            - impaired fine motor functio, slow effortful voluntary movements
+            - subcategories (spastic diplegia, hemiplegia, quadriplegia)
+        * ataxic CP (poor coordination, gait issues)
+            - slow, jerky, explosive speech
+            - ataxic CP is rare. 
+        * athetoid CP (writhing movements)
+            - presence of involuntary movements
+            - choreoathetosis, dystonia
+    + however CP may evolve overtime, and have feature from different classes
+    + use the  gross motor fucntion classification system
+- 
