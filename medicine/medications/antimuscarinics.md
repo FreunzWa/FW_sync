@@ -27,3 +27,12 @@
 - brands
     + Ultibro (INH), Robinul (inj)
 - dosage
+
+
+# In the treatment of overactive bladder syndrome
+- basics
+    + may be @originally obstructive cause == bladder irritation. then can potentially be complicated by overflow incontinence/ OAB incontinence
+- examples
+    + tolteridone, oxybutynin, darifenacin, solifenacin, fesoterodine, trospium
+- ses
+    + standard anticholinergic side effects (dry mouth, tachycardia, blurred vision @lack of ciliary accomodation, drowsiness, constipation)

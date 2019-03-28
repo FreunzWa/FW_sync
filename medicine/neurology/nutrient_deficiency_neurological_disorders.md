@@ -2,20 +2,21 @@
 
 # Wernicke encephalopathy
 - basics
-    + common acute neurological encephalopathy @thiamine (B1) deficiency
+    + common acute neurological encephalopathy @thiamine (vitB1) deficiency
     + classic triad of oculomotor dysfx, gait ataxia, encephalopathic sx
-    + late stage == korsakoff syndrome (id @presence of aterograde/ retrograde amnesia). %WE episode may be subclinical and KS may develop.
+    + late stage == korsakoff syndrome (id @presence of aterograde/ retrograde amnesia). %WE episode may be subclinical and KS may develop. KS can have permanent implications for cognition
     + ++@AUD. 
 - clinical
     + presentation 
         * triad
             - encephalopathy
                 + profound disoritentation/ apathy/ inattention. impaired cognition, memory
-            - oculomotor dysfunction 
+            - oculomotor dysfunction (variable findings)
                 + ++%nystagmus esp @horizontal gaze, lateral rectus palsy, conjugate gaze palsies (@lesions to CN3/6/8 nuclei). usu a combination of abn
             - gait ataxia
                 + wide base gait, slow short spaced steps. likely @vestibular/ cerebellar dysfunction
         * %also associated with featurees of alcohol withdrawal
+            - aggression/ agitation
         * %associated with:
             - peripheral neuropathy with paraesthesia and weakness
             - %%hypothermia

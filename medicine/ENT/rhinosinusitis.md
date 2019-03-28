@@ -1,7 +1,5 @@
 ###### Nasal sinus conditions
 
-minitrephine
-
 phantosmia - no odorants present, pt smells something (usu horrible, faecal smell, disabling)
 nasal polyps 99%benign
 
@@ -29,16 +27,21 @@ nasal polyps 99%benign
 
 # Sinusitis (correct term actually rhinosinusitis)
 - basics
-    + inflamm response involving the mucous membranes of hte nasal cavity and paranasal sinuses
-    + CRS - sx present for at least 12 weeks.
+    + symptomatic inflamm involving the mucous membranes of the nasal cavity and paranasal sinuses
+    + term of rhinosinusitis is preferred @the inflammation ++%occurs with inflammation of the nasal mucosa
 - medical
     + categories
-        * acute (<4 weeks)
-        * chronic (>12 weeks)
+        * ARS (<4 weeks) - acute 
+        * CRS (>12 weeks) - chronic
     + etiology
-        * viral URTI (1-2% wil develop sinusitis)
-        * bacterial infections (%after initial viral infection)
+        * ++@viral URTI
+            - 1-2% of viral URTIs == ARS
+        * 2%@bacterial infections (++%after initial viral infection) {ABRS}
             - esp strep pneumo, h influenzae, moraxella, staph aureus
+        }   
+    + natural history
+        * AVRS: self resolving within 7-10 days.
+        * ABRS: %self limited, but higher risk of CRS/ collection/ asbcess formation
     + complications
         * pre-septal inflammation, orbital cellulitis, orbital abscess, cavernous sinus thrombosis. meningitis, brain abscess, CST, mucocele formation 
 - clinical
@@ -70,11 +73,49 @@ nasal polyps 99%benign
         * plain film not used. 
     + allergen testing (skin prick or blood test), immunology assessment (eg @hx of unusual infections/ pneumonia)
 
+# Acute viral rhinosinusitis (AVRS)
+- basics
+    + distinguish from ABRS, @does not improve within 10 days == more likely to have ABRS (thus should be managed as ABRS)
+    + treatment is supportive @no treatments exist to hasten clinical course.
+- medical
+    + natural history
+        * usu self resolving
+        * may not resolve <10 days, but should improve within this time. 
+- clinical
+- treatment
+    + pharmacological symptom relief
+        * fever/ systemic features - antipyretic/ analgesia (NSAIDs/ paracetamol)
+        * intranasal glucocorticoids @obstruction (nasonex spray - mometasone liquid)
+        * saline irrigation for obstruction
+
+# Acute bacterial rhinosinusitis (ABRS)
+- basics
+- treatment
+    + Abx algorithm
+        * Pen allergy
+            - Ceph allergy
+                + Doxycycline
+                + 3rd generation cephalosporin
+            - No ceph allergy
+                + Doxycycline
+        * No Pen allergy
+            - Severe? (eg poor outcome predicted or RF for resistant strain)
+                + High dose Augmentin extended release
+            - Mild-moderate
+                + Amoxicillin/ Augmentin
+    + Abx should be given and the patient must respond or else confirmation of the diagnosis should be sought.
+
+
+
+
+-------------------------------------------------
+
 # Allergic rhinitis
 - investigate
     + determine allergen
 - treat
     + environmental modification, de-sensitisation through allergist
+    + intranasal GCs (mometasone)
 
 # Nasal polyps
 - treat

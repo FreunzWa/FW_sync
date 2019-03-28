@@ -2,6 +2,55 @@
     Calcineurin inhibitors
         Ciclosporin
         Tacrolimus
+    Antimetabolites
+        Azathioprine
+    DMARDs
+        Sulfasalazine
+
+### DMARDs (disese modifying anti-rheumatic drug)
+-----------------------------------------------------------
+
+# Hydroxychloroquine
+- mx
+    + -=inflammation
+- indications
+    + (malaria, but chloroquine is better)
+    + RA, discoid and systemic LE
+    + Juvenile idiopathic arthritis
+- ses
+    + common: ocular (blurred vision, corneal edema, opacification), NVD, anorexia, abdominal cramps, rash, itch, dizziness
+    + rare: hyperpigmentation, aplastic anaeamia, seizures, severe hypoglycaemia, cardiac conduction disordersz
+- considerations
+    + carefuly with driving/ heavy machinery @commonly affects vision, dizziness. 
+- brands
+    + Plaquenil, Hequinel
+- dosage
+    + RA: 400-600 mg daily 1-3 months then continue @minimum effective dose. up to 800 mg for SLE.
+
+# Methotrexate (immunomodulatory)
+- mx
+    + suppresses inflammation, perhaps @folic acid antagonist but perhaps another mechanism
+- indications
+    + Rheumatoid arthritis
+    + Juvenile idiopathic arthritis
+    + also an antineoplastic
+    + severe disabling psoriasis, Chron's disease
+- ses
+    + common: GI sx (NVD), mouther ulceration, cytopaenias, malaise, reversible alopecia, ATs, photosensitivity
+    + rare: SJS/ TEN, PF
+    + may cause reactivation of hepB/C or activation of TB
+- considerations
+    + Hepatotoxic (monitor ATs), pulmonotoxic (PF), BM toxicity (monitor FBE). usu monitor once /2-4 weeks initially.
+    + CI @Bone Marrow disease (@will worsen), chronic infection/ or repeated infection (eg untreated HepB/C, untreated TB)
+    + CI @GFR <10. Reduced dose @impaired GFR
+    + PregX
+    + combine with folic acid == -=ulceration/ NVD
+    + limit alcohol consumption @alcohol == ++GI sx
+- brand
+    + Trexject, Methoblastin
+- dose
+    + 1/ week same day. max25-30mg. SC/IM/PO
+
 
 # Sulfasalazine
 - mx
@@ -21,6 +70,15 @@
     + pyralin
 - dosage
     + RA: 500mg daily initially, increase daily dose by 500mg daily up to maximum of 3g daily. use divided doses @this level. 
+
+# Methotrexate (MTX)
+- notes
+    + DMARD and chemotherapy agent, prev known as 
+- mx
+    + 
+
+### Calcineurin inhibitors
+----------------------------------------------------------------
 
 # Ciclosporin
 - mx

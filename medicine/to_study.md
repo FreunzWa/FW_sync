@@ -1,5 +1,6 @@
 ###### Title
 
+norwood procedure
 MCI !
 whipple's disease - Tropheryma whipplei
 pseudobulbar palsy
@@ -7,8 +8,7 @@ mcardles diseas (myophosphyralse deficiency)
 antisynthetase syndrome
 neuroleptic malignant syndrome
 Granuloma fissuratum 
-/Willis Ekbom disease
-tamsulosin
+Willis Ekbom disease
 cholesterol crystals (both positve and negatie birefringence) associated with RA
 migraines - menstruallyt related, pure menses etc..
 juvenile idiopathic arthritis

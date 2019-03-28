@@ -18,7 +18,7 @@
     + kallikrein %produced == potent flushing
     + %prostaglandins produced == stimulate intestinal motility == diarrhoea
     + carcinoid heart disease: plaque formation @5HT == fibroblast activation on valvular surface, papillary muscles, endocardium. usu affect right heart. 
-    + the carcinoid syndrome is usu only seen @primary midgut tumors (jejunoileal, appendiceal, ascending colon). @foregut and hindgut carcinoid tumors lack DOPA decarboxylase, cannot convert 5-hydroxytryptophan into 5-hydroxytyramine (aka serotonin). however @also produce prostaglandin etc can still cause carcinoid syndrome.
+    + the carcinoid syndrome is usu only seen @primary midgut tumors (jejunoileal, appendiceal, ascending colon). @foregut and hindgut carcinoid tumors lack DOPA decarboxylase, cannot convert 5-hydroxytryptophan into 5-hydroxytryptamine (aka serotonin). however @also produce prostaglandin etc can still cause carcinoid syndrome.
 - clinical
     + rf
     + presentation

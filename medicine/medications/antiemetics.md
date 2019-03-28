@@ -36,6 +36,8 @@
     + cancer chemotherapy NV
         * prevent: IV 8-12 mg. max 8 @>75 years before, or 16-24 mg oral 1-2 hrs before chemo.
         * maintenance: PO 8mg ev 12 hrs for up to 5/7 after cycle.
+    + PRN nausea
+        * 4-8 mg wafer
     + radiotherapy NV
         * PO 8mg ev 12 hrs up to 5/7
     + @hepatic failure

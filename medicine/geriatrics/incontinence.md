@@ -1,24 +1,48 @@
 ###### Urinary Incontinence (UI)
-- basics
-    + define: 'any involuntary loss of urine'
-    + very underreported, 30-50% do not present @fear/ embarrass/ ill informed expectations abt process of ageing
-- types of incontinence:
-    + Storage Issue
-        * 'urge' incontinence (tank issue)
-            - detrusor overactivity/ nervous issue
-        * 'stress' incontinence (tap issue)
-            - reduced sphincter function (eg nervous, physical issue). cause urine expulsion @++abdominal pressure. 
-    + Voiding issue
-        * 'overflow' incontinence (urine builds up and eventually overflows)
-            - detrusor underactivity (chronic overfilling, %temporarily after pelvic surgery @handling, diabetes)
-            - bladder outflow obstruction
-    + 'mixed' UI, most common features of stress and urge (usu sphincter weakness is the underlying cause)
-    + 'functional' incontinence (impaired cognition, mobility, dexterity, psych)
-    + 'sensory' factors (@hypersensitivty or poor sensation)
-    + 'continuous' incontinence (fistula or ectopic ureter)
-- complications
-    + increases risk of falls/ fractures @rush to get to toilet (esp in urge incontinence)
-------------------------------------------------------------------------------------------
+---------------------------------------
+
+define: 'any involuntary loss of urine'
+very under-reported by patients @stigma
+
+---------------------------------------
+
+# Approach 
+*Organic*
+- anatomical approach (organic incontinence)
+    + bladder
+        * overactive detrusor (urgency incontinence)
+        * underactive detrusor (overflow incontinence)
+    + bladder outlet
+        * outlet laxity (stress incontinence)
+        * outlet resistance (overflow incontinence)
+        * new outlet (continuous incontinence)
+*Inorganic*
+- practical causes of incontinence (non-organic)
+    + immobility (functional incontinence)
+
+# Classification
+- 'urge' incontinence
+    + DOA (detrusor over-activity)
+        * medications (cholinergics)
+        * irritation of trigone (UTI, calculi, malignancy)
+- 'stress' incontinence
+    + @weakness of the pelvic floor eg @vaginal tear
+- 'overflow' incontinence
+    + DUA (detrusor under-activity)
+        * medications (anti-cholinergics)
+    + urinary obstruction
+        * eg @BPH/ malignancy/ severe constipation
+- 'continuous' incontinence
+    + due to fistula or ectopic ureter
+- 'functional' incontinence
+    + due to impaired cognition, poor mobility, delirium
+
+# Medical aspects
+- complications: 
+    + independent risk factor for falls @rushing to bathroom/ getting up at night
+- 
+
+-----------------------------------------------------------
 
 ###### Approach to undifferentiated patient with UI
 # History
@@ -26,15 +50,7 @@
     + storage
         * frequency, urgency, nocturia, sensation of needing to go
     + voiding
-        * weak stream, incomplete emptying, strain
-- etiology (DIAPERS) - some common causes1
-    + delirium (inquire as to memory)
-    + infection (urge incontinence), idiopathic 
-    + atrophic urethritis/ vaginitis (post menopausal women)
-    + psyche disorder/ pharmaceuticals (laxatives, anticholingergics, antidepressants - Diabetes insipidus)
-    + excess urine output
-    + restricted mobility
-    + stool retention/ stones  
+        * weak stream, incomplete emptying, strain 
 - Phx
     + obstectrics history (how many children, C-section or vaginaldelivery w/ tears)
     + surgical history (esp any pelvic surgeries)
@@ -75,10 +91,11 @@
 - post void residual volume (catheter)
 - urodynamics (flow rate studies)
     + PVR
-- urinary tract ultrasound (check for urinary retention)
+- urinary tract ultrasound (check for urinary retention w/ features of PVR high, renal damge)
 - bloods
     + PSA
     + HbA1c/ fasting glucose level
+    + UEC
 - CT-IVP (use for suspect ectopic ureter)
 
 # Management
@@ -117,7 +134,7 @@
 - environmental factors (inaccessibility of toilets)
 
 # Medications which contribute to UI
-- ACEi (cough exacerbates UI, esp stress)
+- ACEi (cough exacerbates stress UI)
 - anticholinergics (cause urinary retention, but fix DOA)
 - Cholinesterase inhibitors (++DOA == urge)
 - diuretics (polyuria)
@@ -137,21 +154,13 @@
     + pelvic floor (esp @hx of pelvic wall tears/ men with soon to have TURP /post TURP)
     + effective in stress/ urgency/ mixed UI
 
-2nd line (pharmacological)
-- review all medications (scrutinise existing which may be contributing)
-- anticholingergics
-    + side effects
-        * cognitive decline @++old, urinary retention, anti-SLUDGE
-        * oxybutynin, tolterodine, solifenacin, darifenacin
-- alpha-blockers (prazocin, tamalucin)
-    + esp @men with bladder outlet obstruction
-
 ------------------------------------------------------------------------
 
-###### Types of Urinary Incontinence based on function and management thereof
-# Urge incontinence/ OAB syndrome
+###### UI types
+
+# 'Urge' incontinence/ OAB syndrome
 + basics
-    * w/ experience to void immediately preceding or accompanied by involuntary loss of urine
+    * w/ sensation of needing to void immediately preceding or accompanying an involuntary loss of urine
 + clinical
     * rf
         - more common @older women
@@ -162,18 +171,19 @@
         - DOA (detrusor over-activity)/ OAB
             + idiopathic is most common (increases with age)
             + irritation (UTI, malingnancy, calculi)
+            + cholinergics (eg. donepezil, a relatively common medication used in this age group)
+            + neurogenic bladder (eg @stroke, parkinsons, MS)
         - other
             + may develop 2nd to stress incontinence @unpleasant sensation of urine through urethra (in this case is mixed incontinence)
             + %urethral atrophy causing irritation urethritis
 + treat
-    * 1st line: 
+    * non pharmacological: 
         - continence aids, pads, pelvic floor exercises usu recommended @ may decrease hyperreactivity, decreased caffeine consumption, weight loss, -=alcohol consumption, bladder training
         - OT referral for in-home bathroom assessment, eg hand rails.
-    * 2nd line:
-        - treat vaginal atrophy @present with estrogen local (or trials)
-        - anti-muscarinics
-            + works by decreasing detrusor activation
-            + on the PBS
+    * pharmacological:
+        - treat vaginal atrophy @estrogen local (or trials)
+        - anti-cholinergics
+            + works by causing detrusor relaxation
             + eg (oxybutynin, darifenacin, fesoterodine, solifenacin, tolterodine, trospium)
             + start with low dose, and titrate up monitoring side effects. 
             + side effects
@@ -196,9 +206,9 @@
 
 # Stress incontinence
 + invol leakage of urine @increases with intra-abdominal pressure. 
-+ ++@female, peak incidence 45-49. the most common type @younger women.
++ ++@female, peak incidence 45-49. the most common type @younger women esp @vaginal tears.
 + presentation: 
-    * loss of urine @certain movements/ coughing/ valsalva. usu not nocturia. 
+    * loss of urine @certain movements/ coughing/ valsalva/ sneeze. usu not nocturia. 
 + etiologies
     * detrusor urethral dyssenergia (@spinal cord damage or disorders)
     * urethral hypermobility @weakened pelvic floor == urethral sphincter fails to close against ant. vaginal wall == @increase with intra-abdominal pressure, urine loss.
@@ -217,6 +227,7 @@
         - age, occurs 5-10% in older adults severely.
         - peripheral neuropathy (eg @diabetes, vitB12 def, alcoholism)
         - fibrosis of the detrusor
+        - neurogenic bladder
     * outflow obstruction
         - external compression of urethra (eg malingnacy, prostate mass)
         - prolapse of pelvic structures

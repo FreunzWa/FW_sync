@@ -4,6 +4,10 @@
 - basics
     + common chronic disorder of central face flushing, telangiectasia, phymatous skin changes, %ocular involvement w/ conjunctival injection/ irritation
     + epi (++@lightly pigmented skin w/ phototypes 1-2 most affected, ++@>30 years old)
+    + ++malar region, w/ %forehead involvement
+    + may have rosacea pustules present
+- classification
+    + rosacea fulminans (aka pyoderma faciale, much more severe, purulent facial plaques. ++@young female)
 - medical
     + thought @inflammatory reaction @UV + microorganisms on the face w/ immune dysfunction. 
     + triggers: hot food/ sun exposure, spicy, exercise, stress
@@ -12,14 +16,21 @@
         * white male over 30
         * smoking, obesity, alcohol, Fhx
     + presentation
-        * centrofacial erythema (esp nose, medial cheeks)
+        * centrofacial erythema (esp nose, medial cheeks, forehead, telangiectasia)
         * phymatous changes (thickend skin, irregular contours esp nose) "rhinophyma"
-        * papules/ pustules looks like acne vulgaris, but no comedones!
+        * papules/ pustules looks like acne vulgaris, but no comedones! 
         * flushing symptom, facial swelling
         * telangiectasia
         * ocular features >50%. lid margin telangiectasia, conjunctival injection in interpalpebral region, chalazia, conjunctivities
         * burning/ stinging sensations
         * dry skin
+- investigations
+    + dermatoscopy for closer examination
+- treatment
+    + ivermectin
+        * antiparasitic agent with antiinflammatory effects
+    + brimonidine
+    + metronidazole
 
 - ddx
     + acne vulgaris, esp @adolescent

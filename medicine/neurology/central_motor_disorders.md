@@ -10,6 +10,13 @@
     Cerebral palsy
         Spastic, Athetoid, Ataxic
 
+# Idiopathic parkinsons disease
+- clinical
+    + presentation
+        * characterised @shuffling narrow based gait, rigidity (cog wheel or lead pipe), resting pill rolling tremor, bradykinesia
+    + rf 
+        * occupational (welding @Mn exposure)
+
 
 # Multiple system atrophy (MSA)
 - basics
