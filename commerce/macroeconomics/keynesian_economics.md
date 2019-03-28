@@ -7,8 +7,8 @@
 # The General theory of employment, interest, money
 - published work, stressed that certain characterisitcs of market economics could exacerbate economic weakness and cause AD to plunge further. 
 - key points
-    + refutes the idea that lower wages restores full employment, he argues that employers will not hire to make goods which cannot be sold. 
-    + further, suggests @poor business conditions and declining income will prevent business from making capital investments.
+    + refutes the idea that lower wages restores full employment, he argues that employers will not hire to make goods which cannot be sold. firms will only produce goods that they can expect to sell. 
+    + further, suggests @poor business conditions and declining income will prevent business from making capital investments. 
     + reject that the economy necessarily returns to a natural state of equilibirum.
     + developed the boom and bust cyclical idea about the economy. 
         * from this he advocates for a countercyclical fiscal policy.

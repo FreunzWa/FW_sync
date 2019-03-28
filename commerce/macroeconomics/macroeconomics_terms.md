@@ -24,7 +24,7 @@
 - nominal rigidity
     + resistance of nominal price to change. complete rigidity @nominal price fixed for a relevant period of time. 
     + partial nominal rigidityy  occurs wheen price varies in nominal terms but not as much as it would if it were perfectly flexible and determine by aggregate demand. 
-
+    + wages are very sticky in the downwards direction as businesses are more likely to lay workers off than lower wages past a certain value. 
 
 - real value 
     + real value of a good or other entity has been adjusted for inflation
