@@ -7,16 +7,24 @@
     + what is used in the production to produce output (finished good/ services that are ready for consumption)
     + primary factors: land, labor, capital goods
     + secondary factors: material and energy (require primary factors as inputs)
+
 - Okun's law
     + relationship between unemployment and losses in country production
     + for every 1% increase in unemployment == GDP 2% lower than potential GDP. approximation because other factors of course affect national output.
+
 - inflation
     + sustained price increasea in teh general price level of goods and services in an economy oer a period of time. 
     + @price increases == each unit of currency will buy fewer goods/ services == inflation reflects reduction in the purchasing power per unit of money. 
     + tracked with a standard 'basket' of goods (the consumer price index)
+
 - deflation
     + negative inflation rate
     + == ++purchasing power of money but the value of goods decreases == less incentive to produce output == collapse of the economy
+
+- nominal rigidity
+    + resistance of nominal price to change. complete rigidity @nominal price fixed for a relevant period of time. 
+    + partial nominal rigidityy  occurs wheen price varies in nominal terms but not as much as it would if it were perfectly flexible and determine by aggregate demand. 
+
 
 - real value 
     + real value of a good or other entity has been adjusted for inflation
@@ -28,12 +36,22 @@
 - national accounts
     + accounting techniques for measuring the economic activity of a nation. 
 
+- nominal value
+    + monetary values tha thave not been adjusted for inflations. 
+
 - nominal rigidity
-    + (aka price stickiness)
+    + (aka price stickiness). important in macroeconomic theory as it is one of the factors that can prevent an economy from reaching equilibrium in teh long run. 
+    + for example nominal wage rigidity in settings of govt regulation to prevent wage flexibility eg with a minimum wage. 
+    + a 'price spell' is a period during which the price of a given item does not change. 
+    + a contradicton to CE, in that it may be a factor that prevents markets from being totally self correcting. 
+    + a given sector with nominal rigidity affects other sectors with relatively flexible prices and can prevent the marrkket from clearing.
 
 - market clearing
     + no leftover supply or demand for a given market.
     + classical economics suggest that prices will always adjust up or down to ensure market clearing
+
+- divison of labor
+    + segregation of labor force into different fields so that workers may specialise and be more productive. 
 
 - velocity of money
     + refers to how fast money passes on from one holder to teh next.
@@ -46,7 +64,7 @@
 
 
 - aggregate demand (aka domestic final demand)
-    + total demand for final goods and services in economy @point in time. specifies amounts of goods purchased at all possible price levels.
+    + total demand for final goods and services in economy @point in time. 
 
 - deficit spending
     + the amount by which the spending exceeds reenue over a period of time. 
@@ -88,9 +106,14 @@
 - seignoiorage
     + the difference between the value of money and the cost to produce it and distribute it. 
 
+- laissez-faire economics
+    + economic system in which transactions between private entities are free from overarching regulation. 
+
 # Key people
 - John Keynes
     + 1883-1946 economist who ++field of macroeconomics, developed principle of the business cycle.
+- Adam Smith
+    + founding father of 'classical economics' with the work 'The Wealth of Nations' in 1776. stressed that wealth was @national income rather than the capital already has. 
 
 
 
