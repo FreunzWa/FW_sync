@@ -1,6 +1,8 @@
 ###### Deflation
 - negative inflation rate, w falls in price level of GS == rise in value of currency. 
 - always damaging to the economy, can result in a deflationary spiral, exacerbate economic conditions in a recession and increases the real value of debt. 
+    + deflatrionary spiral when there is intiial decrease in AD == falls in prices and decreased consumption == -=wages == further decreased AD == exacerbates and self perpetuates.
+    + an example in history is the Great Depression.  
 
 # In history
 - deflation was the incitng cause behind the Long Depression and the Great Depression

@@ -8,6 +8,9 @@
     + primary factors: land, labor, capital goods
     + secondary factors: material and energy (require primary factors as inputs)
 
+- discretionary policy
+    + ad hoc judgement of policymakers as oposed to policy set by predetermined rules (ie use of discretion in making decisions or creating new legislation)
+
 - Okun's law
     + relationship between unemployment and losses in country production
     + for every 1% increase in unemployment == GDP 2% lower than potential GDP. approximation because other factors of course affect national output.
