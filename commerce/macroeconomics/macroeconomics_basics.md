@@ -1,5 +1,6 @@
 ###### Macroeconomics basics
 - study of how entire economy functions on a regional/ national/ global scale with special interest @aggregated indicators such as GDP/ unemployment/ national income/ price indices -- and what these can tell us how the ecoomoy is performing
+- in macroeconomics, aim to construct a model for the entire economy (not just the individual markets) and thus consider how external shocks and policies will affect the economy. 
 - also look @different sectors
 - business cycle (short-run fluctuations in the national income)
 - determinatns of long-run economic performance (eg overall increases in national income)
@@ -8,7 +9,7 @@
 
 ### 3 central topics to macroeconomics
 - Output and income
-    + National output, measured in GDP per person
+    + National output (aggregate output, measured in GDP per person
     + output correlates with national income.
     + output in general does increase with time due to advances in technology and human education/ health etc.
     + however there may be short-run decreases in output @business cycles (with recessions)
@@ -61,3 +62,7 @@
 
 # Changes on exchange rate
 - 
+
+
+- agent
+    + someone who participates in the economy (buyer, seller, investor)

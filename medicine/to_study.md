@@ -5,6 +5,8 @@ MCI !
 whipple's disease - Tropheryma whipplei
 pseudobulbar palsy
 mcardles diseas (myophosphyralse deficiency)
+Ferguson-Smith disease
+Muir Torre syndrome
 antisynthetase syndrome
 neuroleptic malignant syndrome
 Granuloma fissuratum 

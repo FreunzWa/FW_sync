@@ -8,6 +8,11 @@
     + primary factors: land, labor, capital goods
     + secondary factors: material and energy (require primary factors as inputs)
 
+- financial instruments
+
+- policy instrument
+    + interventions made by govt/ cenral bank in local/ national economies which are intended to achieve outcomes. 
+
 - discretionary policy
     + ad hoc judgement of policymakers as oposed to policy set by predetermined rules (ie use of discretion in making decisions or creating new legislation)
 

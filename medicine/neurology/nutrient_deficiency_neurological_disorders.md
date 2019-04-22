@@ -12,7 +12,8 @@
             - encephalopathy
                 + profound disoritentation/ apathy/ inattention. impaired cognition, memory
             - oculomotor dysfunction (variable findings)
-                + ++%nystagmus esp @horizontal gaze, lateral rectus palsy, conjugate gaze palsies (@lesions to CN3/6/8 nuclei). usu a combination of abn
+                + ++%nystagmus esp manifests @horizontal gaze, 
+                + %opthalgmoplegia: lateral rectus palsy, conjugate gaze palsies (@lesions to CN3/6/8 nuclei). usu a combination of abn
             - gait ataxia
                 + wide base gait, slow short spaced steps. likely @vestibular/ cerebellar dysfunction
         * %also associated with featurees of alcohol withdrawal

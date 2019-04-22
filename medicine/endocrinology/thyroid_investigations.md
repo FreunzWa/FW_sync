@@ -45,3 +45,44 @@
 ----------------------------------------------
 
 ### Antithyroid antibodies
+
+
+
+
+
+-----------------------------------------------
+# thyroid imaging
+- similar to BI-RADS for breast imaging
+- TI-RADS (old systems)
+    + risk stratification system for classifying thyroid lesions (similar to BI-RADs for breast lesions)
+    + classification
+        * TI-RADS 1: normal
+        * TI-RADS 2: benign lesions
+        * TI-RADS 3: probably benign lesions
+        * TI-RADS 4: suspicious lesions (4a,b,c in increasing malignancy)
+        * TI-RADS 5: probably malignant (80%+ likely)
+        * TI-RADS 6: proven (biopsy shows malignancy)
+- ACR TI-RADS (updated system). based on ultrasound features. get a score, and this detemrines whether should FNA
+    + composition 
+        * mixed cystic and solid (1 point)
+        * all solid (2 points)
+    + echogenecitiy
+        * anechoic (0 points)
+        * hyper/ iso-echoic (1 point)
+        * hypoechoic (2 points)
+        * very hypoechoic (3 points)
+    + shape
+        * taller than wide on travnsverse plane (3 points)
+    + margin
+        * lobulated/ irregular (2 points)
+        * extra-thyroidal extension (3 points)
+    + other features
+        * punctate echogenic foci (3 points)
+        * macrocalcficiations (1 point)
+        * peripheral/ rim calcications (2 points)
+    + score:
+        * 0
+        * 2
+        * 3 (should follow up)
+        * 4-6
+        * 7

@@ -2,8 +2,8 @@
 - all cell lineages derived from the multipotent haematopoietic stem cell which resides in bone marrow. 
 - almost all of the development to produce a functional mature blood cell occurs in the bone marrow, with a few final steps for some cell lineages occurring in the peripheral serum
 
-# Hemocytoblast/ (HSC)
-- multipotent cell, gives rise to CMP and CLP (common myeloid/ lymphoid progenitors)
+# Multipotent hematopoietic stem cell; Hemocytoblast/ (HSC)
+- ==> CMP / CLP for myeloid and lymphoid lineages
 
 ### Myeloid lineage
 -------------------------------------------------

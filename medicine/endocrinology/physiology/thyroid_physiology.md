@@ -12,12 +12,13 @@
 -  TRH (pituitary) == TSH release == endocytosis of colloid
 -  endocytosed vesicles containing iodinated Tg fuse with lysosomes of the follicular cell. 
 -  iodinated residues 
-- membrane trasnportcleaved off to form T3/T4
+- membrane trasnport
+- Tg cleaved off to form T3/T4
 -  MCT (monocarboxylate transporter) transports the T3/T4 across the basolateral surface and into the blood stream. 
 
 # Thyroid hormone in serum
 - T4:T3 approximately 14:1
-- T4 is a prohormone, converted into T3 @intracellular conversion with deiodinases. 
+- T4 is a prohormone, converted into T3 @intracellular conversion with deiodinases. (can also convert it into rT3, which is not bioactive) 
 - transport
     + ++% of thyroid hormone bound to serum binding proteins
         * TBG (70%)
