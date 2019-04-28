@@ -43,10 +43,10 @@
 
 
 
-# Liberarianism
+# Libertarianism
 - some liberatarians may be okay with smaller levels of government activity (like low level funding of schools and hospitals) but most are very capitalistic and believe that any market regulation is counter productive. they are very individualistic in both economy and societal freedoms. 
 - liberals are usually more socialist economicially, but rate highly in societal freedoms as well which is the key similarity. a market liberal will be closer to right wing economic stance but not as right wing usually as a libertarian. 
-
+- Night watchman state: (minarchism) wherein there is a small govertment, with the only functions being to provide citizens with military, police and courts to protect basic laws like property laws, theft, breach of contract, aggression.
 
 # Centrism 
 - political view that supports a balance between social equality and social heirarchy. oppose political changes that would shift society radically to the left or right. 

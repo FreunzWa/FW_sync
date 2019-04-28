@@ -41,3 +41,10 @@ Worker cooperative
 - notable people
     + bernie sanders (often considered the bastion of the socialist movement)
     + barack obama
+
+-------------------------------------------------------------
+
+# Socialist policies
+
+- abolition of the gender pay gap
+    + Experiment in Iceland is currently underway to enforce equal pay by employers

@@ -67,3 +67,15 @@ Thomas Carlyle
 - for some people there would be basically nothing they can do. they would have to work stupid hours to be able to get into college, whilst other more privileged individuals would be able to use this time studying/ getting ahead/ joining clubs and societies. 
 - so, is capitalism fair? Of course not, in its purest sense how could it be fair. do we need society to be fair though, can we really make everyone happy? I do believe that there should be some provision made to prevent poverty, and enable people even from poorer backgrounds to enter high education positions if they make good decisions. 
 
+# Opinions on equal pay laws
+- gender pay gap exists in that there is a measurable difference between male and female salaries, and that this is more present in some industries than others.
+    + the reasons for this are multiple, but i do not agree with the idea that sexism and misogyny play a central role - these are likely to be secondary factors.
+- there is currently an experiment undergoing in Iceland to enforce equal pay laws. 
+
+
+- arguments against equal hiring
+    + cannot hire for instance, take the example of engineers 50% women and 50% men because the quality of the work will be decreased because the male engineers will be more qualified because the pool of male applicants is more. that just speaks to the fact that there are gender based differences in interest for certain careers
+        * argument counter - that this difference 
+- that there are other factors which determien the gender pay gap - things like agreeability
+    + agreeability is a more common trait amongst females, and less assertive, meaning less likely to ask for pay increases. 
+- that this is an example of equity, which will affect the free market effects that govern hiring nad competition between workers. 

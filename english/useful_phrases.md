@@ -2,7 +2,7 @@
 
 Human debris
 Unadulterated garbage
-
+Emotional haemophiliacs - liberal snowflakes, too easily offended. 
 
 
 
