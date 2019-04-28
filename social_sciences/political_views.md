@@ -1,7 +1,16 @@
-
-
-
-
+# Political compass
+- Nolan double axis model (personal and economic freedoms)
+- Vosem chart (3 axis version of the nolan chart)
+    + Government focus
+        * Anarchism vs. Monarchism 
+    + Societal focus
+        * Tolerance (Liberal-Libertarian) vs. Moral (Populism-Conservatism)
+    + Economic focus
+        * Social (Communism) vs. Market (Capitalism)
+- With the vosem chart, the approach to categorising an individual's political views is as follows
+    + Economically individual (right) vs. community (left)
+    + Socially individual (left) vs. community (right)
+    + Governmental focus: On the specturm of monarchy, oligarchy, republicanism, democracy, anarchism.
 ---------------------------------------------------
 
 
@@ -33,5 +42,28 @@
 # Pragmatic liberalism
 
 
+
+# Liberarianism
+- some liberatarians may be okay with smaller levels of government activity (like low level funding of schools and hospitals) but most are very capitalistic and believe that any market regulation is counter productive. they are very individualistic in both economy and societal freedoms. 
+- liberals are usually more socialist economicially, but rate highly in societal freedoms as well which is the key similarity. a market liberal will be closer to right wing economic stance but not as right wing usually as a libertarian. 
+
+
 # Centrism 
 - political view that supports a balance between social equality and social heirarchy. oppose political changes that would shift society radically to the left or right. 
+
+
+
+
+-------------------
+# Dictatorships
+- libertarian dictatorship
+    + !you MUST do what you want to do
+    + !you MUST best decide how to spend your money
+    + i suppose the function of the dictator would be to maintain the libertarian regime, and oppose efforst to inhibit it, or acts by private bodies to oppress other citizens. 
+- liberal dictatoship
+    + this is what happens whne the left becomes too authoritarian -- so most communist regimes are considered liberally minded.
+
+# Forms of anarchy
+- anarcho-libertarian: 
+    + the belief that any form of control of the populace is wrong and coutner productive. laws/ regulations/ government is all to be abolished. 
+    
