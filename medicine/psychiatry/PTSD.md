@@ -6,7 +6,7 @@
 - veterans: up to 1/3 men from Vietnam war (with increasing role in combat)
 - risk factors:
     + hx of anxiety/ depression, prior psych illness, prior trauma history
-    + trauma factors: level of exposure to trauma, exposure to others suffering, degree of threat to life, 
+    + trauma factors: level of exposure to trauma, exposure to others suffering, degree of threat to life, controllabilitys
 
 # Outcomes after exposure to potentialyl traumatizing events
 - Minimal effect/ only short lasting impact on functioning

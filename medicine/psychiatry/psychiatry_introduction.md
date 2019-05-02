@@ -130,6 +130,7 @@ Classes
 
 ### DSM classification of mental disorders
 - DSM-V published in 2013
+- contains some vague definitions for various mental illnesses, ICD potentially better.
 - gender identity disorder (in the DSM because it requires heavy medication/ surgical intervention to treat), but with 98% satisfaction rate. but still under the heading of cosmetic surgery.
 - schizophrenia - disturbance of thought with poor inter-episode function
 - manic depressive insanity - disturbance of mood, but with good inter-episode function
