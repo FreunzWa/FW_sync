@@ -4,7 +4,7 @@
 
 # Alcohol withdrawal clinical presentation
 - mild symptoms may still occur whilst there is an elevated BAC
-- mild withdrawal symptoms
+- mild withdrawal symptoms (similar to short term symptoms of thyrotoxicosis)
     + insomnia
     + tremulousness
     + mild anxiety
