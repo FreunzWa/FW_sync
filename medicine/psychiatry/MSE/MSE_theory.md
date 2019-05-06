@@ -1,4 +1,5 @@
 ###### The mental state examination
+- a good MSE will usually quote the patient
 
 # History and principles
 - Jaspers 1913 drew from the phenomenological method to describe the mental state of a patient based on an empathic description. This allows an insight into teh patients mind which is free from presuppositions
@@ -21,10 +22,10 @@
     Insight
     Judgement
 
-
 # Appearance
 - describe individual's physical appearance with enough detail to identify the person from a crowd. 
 - list:
+    + ethnicity
     + apparent age and gender
     + grooming
     + clothing
@@ -32,93 +33,6 @@
 - hair
     + length (short, mid-length, long)
     + straggly
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
 
 # Behaviour
 - psychomotor activity
@@ -129,11 +43,12 @@
     + eye contact (interviewer, other parts of room/ downcast)
     + limb movements (dramatic)
     + tearfulness/ laughing
-
+- abnormal movements (tics, TD, EPSEs)
 
 # Speech
 - concerns the motor aspects of forming speech
-- consider the following
+- consider the following\
+    + latency / speed of response
     + volume (loud/ soft)
     + prosody/ rhythm (monotone/ variability)
     + pressure of speech (rapid, urgent, uninterruptable speech)
@@ -141,6 +56,11 @@
     + dysphasia (disorder of language expression or comprehension)
 
 # Mood
+- patients self reported mood
+- features
+    + intensity (a descriptor of the magnitude of the mood they are describing)
+    + fluctuations (peak to trouigh, how reactive is the mood and what sort of things cause teh mood to fluctuate)
+
 # Affect
 - observable feeling state of the patient during the interview
 - categories
@@ -163,7 +83,7 @@
 
 # Thought
 - aims to describe the patients connectivity of ideas and the 'form of thought'
-- stream
+- form 
     + Speed of speech
         * poverty of thought
         * lethargic/ retarded
@@ -171,7 +91,6 @@
         * fluent
         * racing thoughts
         * pressured
-- form 
     + disordered thought (do not address the topic)
         * absence/ poverty of content (perseveration)
         * thought blocking
@@ -180,7 +99,8 @@
         * circumstantiality/ overinclusive of detail
         * tangentiality - moves off topic, unlike circumstantial they never return
         * derailment
-        * word salad (string of disconnected words)
+        * flight of ideas (disconnected ideas that in isolation make sense. usually associated with mania and pressured speech)
+        * word salad (string of disconnected words, a feature of advanced/ severe schizophrenia, %clang associations)
 - content
     + Intensity convictions spectrum (spectrum of mismatch between content of thought and what would be considered appropriate for the interview)
         * Spectrum
@@ -193,11 +113,16 @@
     + Thoughts of harm to self or others
     + Obsessions
     + Phobias
-flight of ideas - (patient skips over logic that they assume)
-slow the patient's speaking down
 
-wooly - bewildering
 --------------------------------------------------
 
 # Perception
 - presence of hallucinations 
+- "not appear to be reacting to any non-existent stimulli"
+
+# Cognition
+- "grossly intact"
+
+# Judgement
+
+# Insight

@@ -1,5 +1,6 @@
 ###### Antipsychotics
-- 3 main classes: typicals, atypicals, partial agonists -- no efficacy differences at a population level (however individual varies significantly). only differences is tolerability.
+- 3 main classes: typicals, atypicals, partial agonists -- no efficacy differences at a population level (however individual varies significantly). 
+    + this is often taught in lecture sbut this is a simplification, there are some antipsychotics with less acute activity/ long term activity based on pharmacodynamics. And further there are agents like aripiprazole which have less efficacy but are used @better tolerated metabolically.
 - prognosis poor despite high reponse rate for initial psychotic episode due to poor compliance == high relapse rate == enter treatemnt resistant group
 
 # Indications
@@ -28,6 +29,8 @@
 
 - if there is a relapse, then more likely to enter the treamtent resistant group of schizophrenia. 
 
+-----------------------------------------------------------------
+
 # Atypical antipsychotics
 
 Clozapine
@@ -35,3 +38,5 @@ Clozapine
     + agranulocytosis/ cardiomyopathy/ myocarditis/ extremely severe chronic constipation
 - very weak D2 blocker, reduces dopamine through other pathway
 - only indicated for treatment resistant psychosis (thought to be different mechanistically)
+
+# 

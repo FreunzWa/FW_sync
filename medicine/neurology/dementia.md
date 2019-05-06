@@ -1,5 +1,5 @@
 ###### Dementia
-- dementia is a terminal illness. 
+- dementia is a terminal illness @eventual end stage dysfunction of vital systems due to progression of brain injury
 
 # Classification
     Alzheimer's disease (60-80% of all dementias)
@@ -16,6 +16,7 @@
         Huntington's disease
         Inherited metabolic disorders
         Normal pressure hydrocephalus
+        Pseudodementia
 
 # Vascular dementia
 - basics
@@ -36,7 +37,6 @@
     + radio
         * leukoaraiosis (diffuse white matter changes @small vessel disease). often incidental (++have them @age), but @accumulation == VaD.
         * MRI more SN, for microhemorrhages/ cerebral amyloid angiopathy/ chronic hypertensive encephalopathy
-
 
 # Alzheimer's disease
 - basics
@@ -98,7 +98,7 @@
 - diagnosis
     + made clinically (6 different personality changes, if 3+ present FTD diagnosis made). or probable diagnosis @imaging findings + some features of bvFTD
 
-# Primary progressive aphasia
+# Primary progressive aphasia (PPA)
 - basics
     + gradual development of aphasia w/ various defecits in language. PPA arises @subtype of FTD /AD when the language dominant hemisphere is the principle target. 
     + unlike stroke aphasias it gradually gets worse and worse, and consists of a spectrum of different manifestations of aphasia.
@@ -111,9 +111,13 @@
     + cx/ progression
         * may progress to affect other cognitive domains, or develop into MND
 - treatment
-    + augmentative communication apps
-    + words to speech help @some cases
-    + whiteboard to draw word when cannot remember
+    + allied health
+        * restorative therapy
+        * compensatory therapy
+            - augmentative communication apps
+            - words to speech help @some cases
+            - whiteboard to draw word when cannot remember
+        * social therapy
 - clinical
     + all 3 domains
         * word finding

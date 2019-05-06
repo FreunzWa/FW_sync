@@ -135,3 +135,9 @@ Classes
 - schizophrenia - disturbance of thought with poor inter-episode function
 - manic depressive insanity - disturbance of mood, but with good inter-episode function
 - developed to increase the consistency of pyschiatric diagnosis
+
+
+
+-----------------------
+
+Disorders of mood : BPAD, MDD

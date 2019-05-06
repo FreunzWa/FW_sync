@@ -85,3 +85,10 @@
 - Electrical therapy
     + ECT rarely used, for extremely treatment resistant cases. even if there is mild improvement it is unlikely to last. 
     + another problem is that the patient has to be relatively compliant. 
+
+
+
+----------------------------------------
+# Schizoaffective disorder
+- described as combination of schizophrenia and mood disorder symptoms (depression/ mania).
+- it differs from unipolar psychotic depression in that the positive psychotic symptoms (delusions, hallucinations, thought disorders) can occur outside of an episode in MDD. In unipolar psychotic depression the psychotic sx always occur in the context of Major Depression.
