@@ -25,6 +25,7 @@
 + DT: hallucinations, disorientation, tachycardia, hypertension, hyperthermia, agitation, diaphoresis. 
 + usu onset 48-96 hours after last drink, may last up to 5 days. 
 + not synonymous with alcoholic hallucinosis
+    * alcoholic hallucinosis 
 + ABG shows respiratory alkalosis due to hyperventilation. 
 + hypovolaemic and hypokalemia
 + hypophosphataemia @malnutrition

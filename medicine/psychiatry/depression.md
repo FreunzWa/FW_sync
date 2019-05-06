@@ -1,4 +1,5 @@
 # Depression
+- agitated depression
 
 ---------------------------------------------------
 
@@ -43,7 +44,6 @@
 - Winokurs Depressive spectrum
     + states that men present differently to women with the following constellation of symptoms
         * antisocial , alcohol abussing, angry, restive
-
 - Criteria/ Definition in DSM-5
     + 5 of the following (of 8 symptoms):
         * at least one of the following:
@@ -61,8 +61,6 @@
         * major complication is suicidal ideation, which maybe a marker of severity
 
 # Clinical assessment
-
-
 + differentials
     * Other psychiatric disorders
         - Borderline personality disorder
@@ -74,9 +72,6 @@
         - Neurological (depression common post stroke - esp if the infarct, PArkinsons)
         - Multiple sclerosis (may present as depression initially)
         - HIV
-
-
-
 + presentation
     * Neuro-vegetative symptoms
         - Sleep disturbance (terminal insomnia), libidinal changes

@@ -50,7 +50,7 @@
             - persecutory/ paranoia (the paranoia/ fear that people are out to get you)
             - usually formed by what is going on around you ()
         * hallucinations  ('perception without a stimulus')
-            - 80%auditory, sounds like an external voice.
+            - 80%auditory, sounds like an external voice -- so important to ask does it sound like its coming through the ears or inside the head.
                 + distinguish from pseudo-hallucinations - associated with Borderline personality disorder
             - %visual hallucinations, see something that appears absolutely real. 
                 + if init present with visual hallucatinion then rule out drug abuse/ organic cause/ alcoholic withdrawal - much more likely

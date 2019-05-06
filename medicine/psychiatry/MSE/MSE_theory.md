@@ -29,7 +29,96 @@
     + grooming
     + clothing
     + distinguishing features (tattoos, piercings, deformities, markings)
+- hair
+    + length (short, mid-length, long)
+    + straggly
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
 
 # Behaviour
 - psychomotor activity
@@ -41,11 +130,74 @@
     + limb movements (dramatic)
     + tearfulness/ laughing
 
+
 # Speech
 - concerns the motor aspects of forming speech
 - consider the following
     + volume (loud/ soft)
     + prosody/ rhythm (monotone/ variability)
-    + pressure of speech
+    + pressure of speech (rapid, urgent, uninterruptable speech)
     + dysarthria
     + dysphasia (disorder of language expression or comprehension)
+
+# Mood
+# Affect
+- observable feeling state of the patient during the interview
+- categories
+    + quality
+        * perplexity, fatuous, sad, happy, depressed, anxious, angry
+    + intensity
+        * stregth: qualified with judgement of intensity (mild, moderate, marked)
+        * depth
+    + dynamics
+        * range
+        * reactivity
+            - lability: rapid changes in affect eg sadness to euphoria (mania)
+            - irritability: rapid escalation into anger
+            - flatness: restrictions of tone/ affect (Seen in depression)
+    + congruence
+        * appropriateness of the quality/ depth of an affect and content of thought/ situation
+        * incongruence refers to mismatch, associated with psychosis
+    + communication
+        * how does the interviewer feel during the consultation. schizophrenia -- detachment from the affect
+
+# Thought
+- aims to describe the patients connectivity of ideas and the 'form of thought'
+- stream
+    + Speed of speech
+        * poverty of thought
+        * lethargic/ retarded
+        * slowing
+        * fluent
+        * racing thoughts
+        * pressured
+- form 
+    + disordered thought (do not address the topic)
+        * absence/ poverty of content (perseveration)
+        * thought blocking
+        * woolly (imprecise vague thinking)
+        * logical, ordered thought
+        * circumstantiality/ overinclusive of detail
+        * tangentiality - moves off topic, unlike circumstantial they never return
+        * derailment
+        * word salad (string of disconnected words)
+- content
+    + Intensity convictions spectrum (spectrum of mismatch between content of thought and what would be considered appropriate for the interview)
+        * Spectrum
+            - appropriate to interview
+            - recurrent themes
+            - overvalued ideas (preoccupations) 
+            - delusions (most intensely held beliefs)
+        * Overvalued ideas: comprehensible idea but pursued beyond reason, with preoccupation of the patient with strong emotional investment. amenable to some reason. must be distinguished from delusions by challenging them
+        * Delusions: thought form/ content disorder - fixed/ false beliefs, unshakable with reason. 
+    + Thoughts of harm to self or others
+    + Obsessions
+    + Phobias
+flight of ideas - (patient skips over logic that they assume)
+slow the patient's speaking down
+
+wooly - bewildering
+--------------------------------------------------
+
+# Perception
+- presence of hallucinations 
