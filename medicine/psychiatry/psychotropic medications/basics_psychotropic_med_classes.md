@@ -35,9 +35,6 @@
     + Sodium Valproate
 - Atypical antipsychotics
 
-
-
-
 # Antidepressants
 - informing the use today of antidepressants is the relative tolerability not the efficacy (as they are all fairly equal)
 

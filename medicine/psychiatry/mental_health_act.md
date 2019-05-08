@@ -2,6 +2,15 @@
 - allows treatment for people suffering from pschiatric illnesses who cannot give consent for treatment, due to severe illness, anosagnosia or threat to the community. 
 - the most recent version is 2014
 
+# MHA 2014
+- criteria for an assessment order for medical doctors or registered psych-health practitioners
+    + appears to have a mental illness
+    + due to mental illness, the person appears to need immediate treatment to prevent:
+        * serious deterioration in mental/ physical health
+        * serious harm to the person or another person
+    + further assessment is available for the patient's condition'
+    + this is the least restrictive method for further assessment (i.e. the patient cannot be voluntarily assessed)
+
 # Principles
 - this MHA is a very patient centered mental health act, however perhaps this allows patients to make decisions on their treatment that conflict with physician recommendations
 
@@ -16,11 +25,12 @@
             - if there is not, then the decision is revoked
     + outpatient setting
 - TTO
-    + after AO assessment, psych determines whether psych illness present, and if they need compulsory treatment to prvent harm to self/ others
-    + within 28 days, there is a mental health tribunal hearing. if the tribunal is satisfied that the patient needs to be treated involuntarily - then on a treatemnt order for 6-12 months
+    + after AO assessment, an authorised consultant psychiatrist determines whether psych illness present, and if they need compulsory treatment to prvent harm to self/ others
+    + within 28 days, there is a mental health tribunal hearing. if the tribunal is satisfied that the patient needs to be treated involuntarily - then on a treatemnt order for 6-12 months (depending on if CTO or ITO)
     + Forms of TTO:
-        * Inpatient (must be inpatient if the patient must be detained)
-        * Community (if the psych believes the treatment can be adequately given in the community)
+        * Inpatient (must be inpatient if the patient must be detained) - the TO lasts 6 months
+        * Community (if the psych believes the treatment can be adequately given in the community). the CTO can last up to 12 months
+    + important to not that the TO must be less than 3 months if the patient is yet to reach age of majority.
 - TO (Treatment order)
     + 6-12 
     + at the end of this 12 months, if no improvement == renew treatment period
