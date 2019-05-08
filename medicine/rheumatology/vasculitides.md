@@ -197,3 +197,10 @@
     + UEC: %hyponatremia
 ------------------------
 
+# Buerger's disease (TAO)
+- basics
+    + nonatherosclerotic, segmental inflammatory of small to medium vessels of the UL and LL. 
+    + assoc withhighly inflammatory cellular thrombus with sparing of the vessel wall. 
+- classic
+    + young smoker
+- clinical

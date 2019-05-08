@@ -42,3 +42,14 @@
     + high frequency trading
     + technical glitches
     + fat finger trade (mistaken huge sell order), this was disproved - in general stock market allow about 30 minutes after trade made if there is erroneous entry to allow for invalidation of the trade.
+
+# 2001 Dot-com bubble and crash
+- aka internet bubble, rapid rise in US stock equity valuation sof internet based companies @bull market of late 1990s. 
+- NASDAQ grew exponentially, 5x between 1995 and 2001
+- entered bear market suddenly in late 2000-2001 which continued through to 2002, by this time most dot com bubbles had gone bust
+- bubble @sepculative fad-based investemnt that was self fulffilling, adn the burst resulted when the firms were unable to make a profit -- thus the actual positions were fundamentally worthless and would only last until the collective sentiment fell, and the hgiehr the prices get the less justifiable the positions are, and as soon as there is a degree of price correctiont he rpice crashes rapidly, leaving many investors locked into positions because there are no buyers. 
+- the actual trigger was dell and cisco announcing large sell orders on their stocks, which triggered panic selling amongst investors. 
+- speculative bubbles are very difficult to recognise whilst happening but retrospectively their failure is self evident
+- in 1999 40% of all venture capital investments were going to internet companies. Greenspan warned it was excessive in 1996 "irratinal exuberance", but didnt tighten moneraty policy until 2000 
+- Amazon, ebay and Priceline survived the bubble.  
+- 

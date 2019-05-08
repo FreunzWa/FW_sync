@@ -1,19 +1,14 @@
-# Depression
-- mood disorder
+###### Depression
+    Major depressive disorder
+        mild (minor depressive disorder), moderate, severe
+        with psychotic features
+        with seasonal pattern
+        in partial/ full remission
+    Premenstrual dysphoric disorder
+    Substance/ medication induced depressive disorder
+    Depressive disorder due to another medical condition
 
-# Classification
-- by severity
-    + minor depression (characterised by fewer symptoms and shorter episodes of depression and is associated with less morbidity) -- probably more common than MDD but it is less diagnosed @less likely to present
-        * otherwise refered to: subthreshold depression, subsyndromal/ subclincial depression, depressive symptoms
-    + major depression (according to the DSM-5 guidelines)
-        * psychotic depression (subtype of unipolar major depression): type of MDD when associated with psychotic features (hallucinations/ delusions)
-- unipolar/ bipolar depression
-    + unipolar depression is associtaed with mood depression without manic/ mood elevation episodes
-    + bipolar depression - part of BPAD
-- Other types
-    + Vascular Depression
-        * CVA increases the risk of pt (esp older) for vulnerability towards the development of depression -- especially if the damage is localised to the left hemisphere
-
+---------------------------------------------------
 
 
 
@@ -54,13 +49,7 @@
     + brain structure changes
         * @longer/ severe course of depression assoc with small hippocampus, ventriculomegaly, -=activation of BDNF, -=reponse to dexamethesane suppression test, changes to HP axis. 
 
-
-# Classification 
-
-- Winokurs Depressive spectrum
-    + states that men present differently to women with the following constellation of symptoms
-        * antisocial , alcohol abussing, angry, restive
-
+# Diagnosis
 - Criteria/ Definition in DSM-5
     + 5 of the following (of 8 symptoms):
         * at least one of the following:
@@ -73,13 +62,24 @@
             - inability to concentrate
             - loss of energy/ chronic fatigue
             - psychomotor retardation
+    + Adjunct
+        * With anxious distress
+        * With mixed features
+        * With melancholic features
+        * With atypical features
+        * With psychotic features
+
+
+# Classification 
+
+- Winokurs Depressive spectrum
+    + states that men present differently to women with the following constellation of symptoms
+        * antisocial , alcohol abussing, angry, restive
 - medical
     + prognosis
         * major complication is suicidal ideation, which maybe a marker of severity
 
 # Clinical assessment
-
-
 + differentials
     * Other psychiatric disorders
         - Borderline personality disorder
@@ -91,9 +91,6 @@
         - Neurological (depression common post stroke - esp if the infarct, PArkinsons)
         - Multiple sclerosis (may present as depression initially)
         - HIV
-
-
-
 + presentation
     * Neuro-vegetative symptoms
         - Sleep disturbance (terminal insomnia), libidinal changes
@@ -112,8 +109,7 @@
 
 
 # Treatment
-
-- indications for ECT
+- indications for ECT (more severe depression is responsive)
     + melancholic depression 
     + psychotic depression
     + dipolar depression/ mani
@@ -136,8 +132,20 @@
     + organic disorders as precipitants are more frequent
     + somatic complaints (with increased pain esp neuropathic, reduced function from baseline)
 
----------------------------------------------------------------
 
-# Major depression
-- basics
-- 
+-------------------------------------------------
+# Psychotic depression (Major depressive disorder with psychotic features)
+- basically means delusions or hallucinations are present
+    + either mood congruent (like bad stuff happening in the delusions/ halluciantions) or mood-incogruent
+- seems similar to schizoaffective disorder, depression type. but to get diagnosis of schizoaffective disorder, there must be a history of delusions/ hallucinations occuring in the absence of a depressive episode, which is not a feature of psychotic depression:
+        * "=" period of mood depression
+        * "x" psychotic period
+schizoaffective disorder depression type:
+ xxxxxxxx xxxxxxxxxxxxx xxxxxxxxx xxxx
+    ====   =====   ==========   ======
+(can see that depression occurs even when there is not psychotic symptoms, but psych symptoms can occur when there is no depression)
+
+MDD with psychotic features: 
+ =========   ==== ===========   ====
+ x xxx xx    xxx   x x x xxx     x x 
+(see that psychotic symptoms can ONLY occur when there is a depressive episode)

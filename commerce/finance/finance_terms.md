@@ -6,6 +6,9 @@
 - disposable income
     + the available money left after tax has been deducted, available for spending at the discretion of the holder. f
 
+- back of the napkin business model
+    + simplified outline of a business, associated with brainstorming ideas
+
 
 # Bonds
 - bearer bonds
@@ -15,3 +18,6 @@
     + historically has been used for tax evasion/ embezzlement, especially by the end of the 1970s
     + often used to transfer huge sums of money between corporations. 
     + due to these issues they are no longer in circulation. (after the fiscal responsibility Act in 1982). they were made so they were unattractive in terms of interest, so people would not use the,/ 
+
+
+
