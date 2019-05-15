@@ -30,14 +30,51 @@
         * intramuscular Olanzapine/ Clonazepam/ Ziprasidone Mesilate
 
 # Neuroleptic malignant syndrome 
-- life threatening complication of antipsychotic treatment (10-20% mortality)
+- life threatening complication of antipsychotic treatment (10-20% mortality), death due to dysautonomic feature so fhte disease and systemic complications. 
+- epidemiology
+    +  approx 0.02-3% fo patients taking neurleptic agents, more often men
+-  medical
+    +  mx
+        *  unknown cause, theorized to be @dopamine receptor blockade (central dopamine blockade of the hypothalamus) == temperature and autonomic dysregulation 
+    +  etiology
+        *  major tranqs (esp 1st generation) but %2nd generation
+            -  haloperidol, fluphenazine +++
+            -  also atypicals, almost every neuroleptic
+    +  associated with dehydration - unknown if this is risk factor or manifestation of NMS
+    +  similar to neuroleptic malignant-like syndrome or parkinsonism hyperpyrexia caused @withdrawal to dopamine acgents
 - clinical
-    + presentation: muscular rigidity, autonomic symptoms, akinesia, mutism
+    + risk factors
+        * taking high dose first generation antipsychotics (haloperidol/ fluphenazine), however almost every clas of neuroleptic has been implicated. 
+        * genetic risk factors - shown to be an association with polymorphism of the D2 receptor gene. 
+    + presentation:
+        * mental status change (agitated delirium with confusion, not psychosis. often overlookede @poor specificity for NMS)
+        * neuromuscular rigidity (generalised, also assoc with dysphagia, dysphasia, dystonia)
+        * dysautonomia (tachy, high/labvile BP)
+        * hyperpyrexia (very high, 38, but 40 not uncommon). fever is less common @taking g2 antipsychtoics
+- diagnsosi
+    + made @clinical syndrome in a patient taking an associated medication, with lab scores taken into consideration (there are scoring systems)
+- differentials
+    + malignant hyperthermia, malignant catatonia, SS, drug related syndromes, ecnephalitis/edema and other organic brain conditions
+    + 
 - investigations
-    + elevated CK/ Leukocytosis
+    + Bloods: 
+        * profoundly elevated CK (@severe rigidity). may be relatively normal @less muscular rigidity associated. not specific to NMs ,also assoc many psych patients @receiving intramuscular injections/ psychical restraints/ agitation. however when gets very high then quite SP for NMS, and correlates with disease severity/ prognosis 
+        * elevated CK/ Leukocytosis, ++%with left shift
+        * electrolyte: hypocalcemia, hypoMg, hypoNa/ hyperNa, hyperK, metabolic acidosis
+        * renal failure late stage @rhabdomyolysis
+    + CSF
+        * LP to rule out encephalitis @infection or autoimmune/ paraneoplastic
+    + imaging
+        * CT/MRI usually taken to rule out organic brain disease
 - treatment
-    + supportive/ cease antipsychotic, ICU
-    + Dantrolene / bromocryptine is an option
+    + DRSABCDEF
+    + discontinue antipsychotic medications and other possible contributors where possible (eg lithium/ antidepressants and other psychotropics)
+    + resuscitation (usually in ED/ ICU)
+    1. respiratory support (oxygen ==> intubation/ ICU @required)
+    2. cardiovascular support (bring down @++BP acutely with clonidine/ nitroprusside)
+    3. temperature control (cool fluids, ice packs in the axilla, gastric lavage with cool fluids)
+    4. medications (bromocriptine, dantrolene, benzodiazepines have evidence to support use)
+    5. prevent other complications assoc with severe illness and long term hospital stay
 
 # Serotonin syndrome
 - @interaction of SSRIs, combined with MAOis/ lithium/ tryptophan

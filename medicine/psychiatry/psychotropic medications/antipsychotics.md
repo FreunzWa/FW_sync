@@ -94,8 +94,9 @@
 - mainly the side effects which guide selection of antipsychotic
 
 # Clozapine
-- Medicare:
+- Medicine:
     + requires specialised medical practitioner to prescribe (CAP/ CMPS protocol)
+    + available as tablets and liquids, but no long acting depot formulation
 - Effect: 
     + Has some benefit for negative psychotic symptoms, and may alleviate some degree of the cogntive impacts of schizophrenia.
     + @betray clozapine and then relapse, reduced efficacy
@@ -105,18 +106,80 @@
 - Lifestyle
 - Tests
     + requires 6 monthly ECG/ TTEs
-    + requires weekly FBE for first 18 weeks, tthen once per month after that
-        * also, berofre starting the patient must have had an FBE with WBC >3.5 
+    + requires weekly FBE for first 18 weeks, then once per month after that
+        * also, before starting the patient must have had an FBE with WBC >3.5
+        * must review the WCC before an escalation of each dose
         * if at any point during treatment symptoms of infection begin (including sore throat/ mouth ulceration) then require immediate blood test and twice weekly tests. 
         * after ceasing treatment, require 1 more FBE 4 weeks after, or if they are still in the weekly treatment phase then 1 every week for 4 weeks 
+    + important to ensure patient opening bowels to rule out bowel obstruction (on history, AXR)
 
 
 # Amisulpride
+- Medication
+    + available as PO, depot formulation
 - Effect:
     + Has some benefit for negative psychotic symptoms
+- Indication
+    + schizophrenia, usually used in cases where there is a concern for exacerbation of metabolic situation, but it has been compared otherwise unfavorably with other antipsychotics in terms of efficacy on psychotic symptoms
+    + used in BPAD with psychotic mania, other acute psychoses\
+- Reactions
+    + prolactinaemia, mild other antipsychotic effects associated with atypicals (mild sedation, EPSEs)
+- Lifestyle
+    + like all antipsychitcs, compliance vital to prevent relapse and treatemnt resistance. avoid illicit substances. watch out for EPSEs. dont take alcohol @may worsen the sedating effect. orthostatic hypotension advice.
 
+# Flupenthixol
+- medication
+    + available only in depot formulation
+    + typical antipsychotic
+    + thioxanthine (typical)
+- effect
+    + start on a low dose and monitor for side effects
+- indication
+    + for acute and chronic psychoses (eg @schizophrenia, BPAD)
+- reactions
+    + %anticholinergic++, %EPSE++, %sedation+, %prolactinaemia++, %proconvulsant+, %QT prolongation-
+    + people generally feel terrible on flupenthixol and zuclopenthixol
+    + %%%NMS/TD/OG crisis
 
+# Zuclopenthixol
+- medication
+    + available only in depot formulation
+    + typical antipsychotic
+    + thioxanthine (typical)
+- effect
+    + start on a low dose and monitor for side effects
+- indication
+    + for acute and chronic psychoses (eg @schizophrenia, BPAD)
+- reactions
+    + %anticholinergic++, %EPSE+++, %sedation++, %prolactinaemia++, %QT prolongation and tachycardias+
+    + people generally feel terrible on flupenthixol and zuclopenthixol
+    + %%%NMS/TD/OG crisis
+
+# Risperidone
+- Med:
+    + 2nd generation atypical antipsychotic
+    + Formulations
+        * PO 
+        * Long acting IM, given every 2 weeks
+- Effect: 
+    + response to PO treatment in 1-2 weeks, 2-3 months for full trial
+- Reactions:
+    + n: prolactinaemia, akithisia, heaedache, insomnia
+    + s: NMS
+- 
 ------------------------------------------------------------
 
-# Depot antipsychotics
-- widely used @issues with adherence, 
+# Depot antipsychotics (LAI antipscyhotics)
+- widely used @issues with adherence, which are widespread for individuals with schizophrenia @disbelief of having an illness and side effects + other factors. 
+- LAI are administered every 2-4 weeks
+- the first atypical antipsychotic available as depot injection was risperidone
+
+# Depot antipsychotic formatulations available in Australia
+ - Haloperidol, every 4 weeks (++EPSE)
+- Flupenthixol, every 2 weeks (EPSE, weight gain)
+- Zuclopenthixol, every 2 weeks (sedating, weight gain, EPSE)
+- Fluphenazine, every 2 weeks
+- Aripiprazole, eveery 4 weeks
+- Paliperidone palmitate, day 1, 1 week and then every 4 weeks
+- Risperidone, every 2 weeks
+- Olanzapine pamoate, every 2 weeks
