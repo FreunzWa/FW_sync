@@ -63,15 +63,15 @@ presentation
     + DSM-5 
         * MANIC EPISODE
             - (a) distinct period of abnormally and persistently elevated expansive/ irritable mood and abnormally/ perisstenly increased activity lasting >1 week and present most of the day, most days
-            - (b) during the period of increased energy, 3+ of the followingare present
+            - (b) during the period of increased energy, 3+ of the following are present
                 + grandiosity
                 + decreased need for sleep
                 + more talkative than usual/ pressure talking
                 +  flight of ideas or subjective experience that thoughts are racing
                 +  distractibillity
-                +  increase in gold directed activity / psychomotor agitation
+                +  increase in goal directed activity / psychomotor agitation
                 +  excessive involvement in activitiese that have a high potential for painful consequences
-            -  (c) mood disturbance is severe enough to cause marked impairment in social or occupational functioning
+            -  (c) mood disturbance is severe enough to cause marked impairment in social or occupational functioning (usually requiring hospitalisation or associated with thought disorders/ other positive psychotic features)
             -  (d) episode is not attributable to physiological effects of a substance or medical condition
         *  HYPOMANIC EPISODE
             -  A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least four consecutive days and present most of the day, nearly every day.
@@ -85,7 +85,7 @@ presentation
                 7) Excessive involvement in activities that have a high potential for painful consequences (eg, engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
             - C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
             - D. The disturbance in mood and the change in functioning are observable by others.
-            - E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features, the episode is, by definition, manic.
+            - E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features or hospitalisation, the episode is, by definition, manic. 
             - F. The episode is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication, or other treatment).
         * Major depressive episode
             - A. Five (or more) of the following symptoms have been present during the same two-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure.
@@ -107,3 +107,9 @@ presentation
 # Bipolar II disorder
 - basics
     + presence of hypomanic episodes, major depressive episodes, NO manic episodes
+
+# Cyclothymic disorder
+- patients with numerous sx of hypomania, but not enought to meet definition for hypomanic epiusode, and numerous depressive features but not enoguht to meet MDE. symptomatic >50% of time @2 year period. not symptom free for over 2 months. 
+- not better explained @medical condition
+- not better explained @other psych condition (eg SAD/ SCZ)
+- cause impairment in psychosocial functioning

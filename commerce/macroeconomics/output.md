@@ -24,3 +24,13 @@
 - fluctuates over time? causes?
 
 # GDP calculations
+- difficulties in calculating @risk of double counting
+- methods of calculating:
+    + 1: final value of GS produced in time period
+    + 2: value added
+    + 3: sum of incomes
+
+
+# GDP
+- GDP deflator = Nominal GDP / Real GDP
+    + GDP deflator is a measure of inflation/ deflation with respect to base year. however this is not standardized by CPI basket of goods, changes year to year based on expenditure.

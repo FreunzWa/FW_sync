@@ -71,10 +71,16 @@ minnesota starvation experiment (36 men of optimal health, 12 week contorlperiod
     + recurrent thoguhts of body weight
     + "under-controlled", so has difficulties in other social issues, more chaotic lifestyle
 - medical
+    + coexistent medical condition
+        * anxiety disorders/ BDD/ OCD/ Depressive episodees/ PTSD/ Substance use disorders
     + complications
         * gasric rupture/ eseophageal tears
         * epistaxia and subconjunctival hemorrhege
         * severe parotidomegaly 
+- clinical
+    + presentation
+        * often associated with self harm including skin cutting/ picking/ burning
+        * %assoc with anxiety/ depression/ suicidality
 - diagnosis
     + compensatory behaviours: including excessive exercise
     + (E) the distrubance does not occur exclusively during episodes of anorexia
@@ -87,6 +93,7 @@ minnesota starvation experiment (36 men of optimal health, 12 week contorlperiod
 - presentation
     + Russel's sign: abrasions on the knuckles associated with purging
     + peripheral edema
+    + Tooth decay
 
 
 # Easting assessment

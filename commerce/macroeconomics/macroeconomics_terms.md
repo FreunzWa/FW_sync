@@ -20,6 +20,10 @@
     + relationship between unemployment and losses in country production
     + for every 1% increase in unemployment == GDP 2% lower than potential GDP. approximation because other factors of course affect national output.
 
+- good's market equilibrium
+    + relationship between demand, production, income ... 
+    + positive feedback through this cycle until reaches natural equilibrium based on the current state of htee economy,
+
 - inflation
     + sustained price increasea in teh general price level of goods and services in an economy oer a period of time. 
     + @price increases == each unit of currency will buy fewer goods/ services == inflation reflects reduction in the purchasing power per unit of money. 
@@ -119,9 +123,35 @@
 
 # Key people
 - John Keynes
-    + 1883-1946 economist who ++field of macroeconomics, developed principle of the business cycle.
+    + 1883-1946 economist who ++field of keynes macroeconomics, developed principle of the business cycle.
 - Adam Smith
     + founding father of 'classical economics' with the work 'The Wealth of Nations' in 1776. stressed that wealth was @national income rather than the capital already has. 
 
 
 
+# Acronyms/ abbreviations
+- GDP - gross domestic product
+- Q - quantity/ exports
+- P - price
+- C - consumption
+    + c0 - autonomous consumption
+    + c1 - marginal propensity to consume
+    + c1*Yd - induced consumption
+- X - exports
+- I - imports
+- L - labor force
+- N - employment
+- U - unemployed
+- Z - aggregate demand (AD)
+- Y - income
+    + Yd - disposable income (money u get after taxes/ benefits)
+
+
+
+# Consumption
+- Consumption = c0 (autonomous consumption) + c1 (marginal propensity to consume)*Yd (disposable income)
+    + C = c0 + c1*Yd
+    + autonomous consumption (exogenous consumption) {c0}
+        * consumptioon that occurs hwne icnomes levels are zero, independent of income levels -- financed by using up savings or by borrowing. 
+    + induced consumption
+        * portion of consumptoin that varies dependently iwth disposable income. it is when the change in consumption can be explained by changees in disposable incomes

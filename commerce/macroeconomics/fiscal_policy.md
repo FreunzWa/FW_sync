@@ -21,3 +21,8 @@
     + consumption of fiscal reserves
     + sale of land
 
+# Defecits/ surplus
+- defecit spending (borrowing and spending money increasing the defecit to support the economy -- essentially spending more than you are making, term can be used for any actor)
+
+# Governtment buidget balacne (aka public fiscal balance)
+- the budget is proposed spending and revenues for a financial year. the balance is the difference between govt spending and revenues.
