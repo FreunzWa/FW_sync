@@ -124,3 +124,12 @@ EEG phases
 - MST (magnetic stimulation treatment)
 - VNS (vagal nerve stimulation)
 - DBS (deep brain stimulation) - most invasive
+
+
+
+# Refeeding syndrome
+- medical
+    + mx
+        * biocontext: @low CHO == low insulin secretion == ++fat catabolism == ++FFA/ ketones (low glucose). @severe starvantion == K/ Mg/ PO4 depleted body stores to maintain serum levels. 
+        * refeeding == ++CHO metabolosim == ++insulin release == ++PO4/ K/ Mg into cells == fall in serum conc == severe electrolyte abn. 
+        * time course: 3-4 days after refeeding. 

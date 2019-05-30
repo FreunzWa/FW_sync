@@ -6,7 +6,7 @@
 + pharmacotherapy
     * D2 antagonists offer best control for severe NV
         - metoclopramide (best @partial bowel obstruction @pro-kinetic effect may == movement of bowel mvts, centrally active @CTZ)
-        - haloperidol (centrally acting, used over meto @total bowel obstruction, more central side effects  eg akathisia/ EPSE), in other settings typically used as a psychotic. 
+        - haloperidol (centrally acting, used over meto @total bowel obstruction, more central side effects  eg akathisia/ EPSE), in other settings typically used as a antipsychotic. 
     * Histamine blockers
         - Cyclizine
     * 5-HT3 antagonists

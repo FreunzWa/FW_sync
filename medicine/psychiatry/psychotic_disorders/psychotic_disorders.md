@@ -144,3 +144,14 @@
 - see mood disorders section
 
 
+-------------------------------------------------------------
+# Delusional disorder
+- diagnosis @DSM
+    + presence of 1+ delusions @1 month+
+    + Criterion A for SCZ not met
+        * @hallucinations present - must be mild and related to delusion
+    + function not markedly impaired, behaviour not obviously bizarre
+    + if manic/ MDE prev, then these shorter/ insignificant comparede to DD period
+    + not @Biological
+- types:
+    + specify nature of delusions -- "eg erotomanic type"

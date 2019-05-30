@@ -150,7 +150,7 @@
 # Dementia with Lewy Bodies
 - basics
     + pathological hallmark of eosinophilic intracellular inclusions called Lew Bodies (of alpha synuclein) in deep cortical layers throughout the brain
-    + important to correctly diagnose DLB @treatment options are specific to DLB as ooposed to other typeds of demdentia.
+    + important to correctly diagnose LBD @treatment options are specific to DLB as ooposed to other typeds of demdentia.
     + distinguish from Parkinsons disease dementia, which is when dementia occurs in setting of well establisheed parkinsonism, while DLB dementia signs usu precede onset of parkinsonism or develop coincidentally.
 - diagnosis
     + diagnosis requires:
@@ -161,10 +161,9 @@
         * two other core clinical features of DLB (usu appear early and persist). one core clincial feature and 1 supporting feature is suggestive of probable DLB
             - cognitive fluctuations (in 60-80%)
                 + episodic, a differential is stroke/ seizure. people blank out with staring episodes/ become confused or behave bizzarely, %with motor features, %excessively somnolent
-            - visual hallucinations (in 2/3)
-                + may precede parkinsonism
-                + most useful clinical feature to distinguish from AD (in which hallucinations are v rare)
-                + eg people/ animals, abstract colors/ shapes, from brief corner of eye to very complex hallucaintions. 
+            - vivid visual hallucinations (in 2/3)
+                + most useful clinical feature to distinguish from AD (in which hallucatinsion are uncommon)
+                + eg people/ animals, abstract colors/ shapes. characteristically very vivid hallucinations
             - rapid eye movement sleep behaviour disorder\
                 + sleep related vocalisation or motor behaviours during REM that coirrelates with dream mentation. usu short in duration. %sleep related injuries. 
             - parkinsonism (70-90%)
@@ -172,7 +171,7 @@
                 + esp brady/ akinesia/ limb rigidity + gait disorder. 
                 + %%tremor, and more mild.
         * supporting features
-            - amelioration of sx with antipsychotics
+            - very poor tolerance of antipsychotics (NMS, irreversible parkinsonism)
             - low Dopamine transporter uptake in PET/ SPECT
             - repeated falls
             - hypersomnia
@@ -194,6 +193,8 @@
             - WORLD backwards (attention)
             - serial sevens (attention)
             - overlapping pentagonss (visuospatial)
+    + imaging
+        * MRI shows diffuse cortical thinning, with sparing of hippocampus relative to AD.
 - rx
     + by feature
         * dementia

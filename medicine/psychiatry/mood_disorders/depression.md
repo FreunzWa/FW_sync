@@ -7,6 +7,7 @@
     Premenstrual dysphoric disorder
     Substance/ medication induced depressive disorder
     Depressive disorder due to another medical condition
+    Unspecified depressive disorder
 
 ---------------------------------------------------
 
@@ -66,6 +67,16 @@
         * With anxious distress
         * With mixed features
         * With melancholic features
+            - A - 1/2 
+                + loss of pleasure in all/ almost all activities
+                + lack of reactivity to usu pleasurable stimuli (does not feel better at all when something good happens)
+            - B - 3+ 
+                + mood - severely depressed/ despaired/ despondent
+                + depression worse @morning
+                + early morning awakening
+                + marked pysch agitation/ retard
+                + significant weight loss/ anorexia
+                + excessive guilt
         * With atypical features
         * With psychotic features
 
@@ -149,3 +160,18 @@ MDD with psychotic features:
  =========   ==== ===========   ====
  x xxx xx    xxx   x x x xxx     x x 
 (see that psychotic symptoms can ONLY occur when there is a depressive episode)
+
+
+
+
+
+
+# Unspecified depressive disorder
+- used @not enough information to make full diagnosis
+
+# Other specified despressive disorder
+- @insuffient symptoms to get diagnosis
+- types
+    + recurrent breif depression (2-13 days recurrent )
+    + short duration depressive peisode (4-13 days -- importantly less than the 2 weeks required @MDE diagnnosis)
+    + depressive episode with insufficient symptoms 

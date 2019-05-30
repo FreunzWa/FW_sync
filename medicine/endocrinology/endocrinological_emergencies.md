@@ -1,8 +1,8 @@
 ###### Endocrinological emergencies
 
-# Addisonian crisis (adrenal crisis)
+# Acute adrenal insufficiency (adrenal crisis)
 - basics
-    + acute adrenal insufficiency ^clinical sx @cortisol insufficiency == acute syndrome
+    + acute adrenal insufficiency ^clinical sx @cortisol insufficiency == acute syndrome. with v high mortality @untreatede
 - clinical
     + presentation
         * sudden penetrating pain in legs/ abdomen/ back
@@ -14,11 +14,13 @@
         * hyponatremia @salt wasting @loss MC  effect ^hyperkalemia + MA, hypercalcemia
         * seizures/ fever
 - medical
+    + mechanisms
+        * @insufficient cortisol == Na+/H20 wasting == depleted intravascular volume == symptoms
     + etiologies
         * addisons' disease (gradual loss cortisol release followed by acute decompensation), CAH
         * excessive corticosteroid use/ cortisol replacement followed by rapid withdrawal 
-        * insufficient cortisol release @very stressful circumstances (eg surgery/ infection/ mental stress/ trauma)
-        * hypopituitarism (usu @acute cause eg pituitary apoplexy)
+        * insufficient cortisol release @very stressful circumstances (eg surgery/ infection/ mental stress/ trauma). this may occur if there has been adrenocortical suppression
+        * hypopituitarism (usu @acute cause eg pituitary apoplexy) -- secondary cause of adrenal crisis
         * acute adrenal hemorrhage (Waterhouse-Friderichsen syndrome)
 
 # Waterhouse-Friderichsen syndrome (hemorrhagic adrenalitis)

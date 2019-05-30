@@ -10,12 +10,22 @@ minnesota starvation experiment (36 men of optimal health, 12 week contorlperiod
 - basics
     + very lowbody weight, maintiend by restriction o energy intake. extreme concern about eweight and shape, lack of recognition of the seriousness of low body weight, undue influence of body weigth or shape on self evaluation
     + "over-controlling" perfectionist is the stereotype
-- diagnosis 
+- diagnosis     
+    + 1) restriction of energy intake relative to requirements == low body weight
+    + 2) intense fear about gaining weight
+    + 3) disturbance in the way that one's weight or shape is experienced -- lack of recognition of seeverity of low body weight
+    + Types:
+        * Restriciting type: No purging/ binging behaviour in last 3 months
+        * Binge-Eating/ Purging type: self induced vomiting/ binging in last 3 months
 - medical
+    - complications
+        + hypokalaemia @laxative/ vomiting
+        + metabolic alkalosis @vomiting, metabolic acidosis @laxative use
     + associations
         * osteoporosis, osteopaenia
         * T1DM higher prevalence
         * psych
+            - MDD, anxiety disorders, substance use disorders, somatoform disorders, personality disorders (esp OCPD @perfectionism assoc, BPD)
     + prognosis
         * most deaths @starvation, 1/5 due to suicide
         * 1/3 remit entirely
@@ -40,17 +50,17 @@ minnesota starvation experiment (36 men of optimal health, 12 week contorlperiod
         * perfectionism/ obsessionality
  - clinical
     + presentation
-        * ++sensitivity to cold
+        * examination
+            - N: autonomic dysfunction (-=HR/ BP/ postural hypotension/ arrhythmia)
+            - I: emaciated frame, ++sensitivity to cold, psychomotor retardation, stupor, 
+            - C: peripheral cold/ white/ cap refill prolonged, hypothermia, dehydration, systolic flow murmur
+            - B: lanugo, breast atrophy, self harm evidence, proximal myopathy, poor dentition, carotinemia
+            - R: tachypnoea/ hyperventilation @MA
+            - G: easy bruising, parotid enlargement, gastritis--GI tenderness, edema 2nd to low Alb
         * GI sx (constipation/ painful fullness after eating/ bloating "gastroparesis" due to hypomotility)
         * amenorrhoea (gives an idea of severity in time course)
         * dizziness/ syncope
         * lack of sexual interest (men and women affected)
-    + signs:    
-        * orange discoloration of the palms and soles
-        * light hair on the back, forearms and sides of face (thermoregulation as compensation)
-        * salvirary and partodi gland swelling
-        * tooth decay @purging type
-        * bradycardia
 - investigations
     + low FSH/ low LH, low E2
     + high GH
@@ -60,8 +70,28 @@ minnesota starvation experiment (36 men of optimal health, 12 week contorlperiod
     + gastroparesis (delayed emptying)
     + FBE: NN anaemia (anaemia of chronic disease @BM suppression), leukopaenia, thrombocytopaenia
     + raised serum carotene
-    + CMP: hypophosphateamia, hypokaelamia, dehydration, hypercholesterolaemia
+    + CMP: hypophosphateamia, hypokaelamia, dehydration, hypercholesterolaemia, hyponatremia
     + osteoporosis @ovarian failure
+- treatment
+    + MEDICAL admission criteria
+        * vitals:
+            - BMI <14 or rapid weight loss
+            - HR < 40 bpm OR postural tachycardia >20 bpm
+            - BP <90/60 OR postural drop >20 mmHg
+            - Temp <35.5
+        * Hypoglycaemia
+        * Electrolyte imbalance
+        * Several days of no oral intake
+        * Petechial rash and platelet sujppression
+    + PSYCHIATRIC admission reasons -- 
+        * active suicidal plan
+        * other psych disorder
+        * delusions of body dysmorphia
+        * compulsive, uncontrolled purging
+        * outpateint treatment failure
+        * severe family problems
+        * excessive exercise as an outpatient
+
 
 # Bulimia nervosa
 - basics

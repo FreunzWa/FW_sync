@@ -77,6 +77,21 @@
         * actually less violent
         * catatonic schizophrenia
         * anosagnosia - thus do not present for treatment.
+- First rank symptoms of schizophrenia (FRS) - Shneider
+    + better @ruling out scz, but however nowadays mainly used as a description of a patient to corroborate diagnosis/ talk aboutseverity. 
+    + DID patients also experience FRS, however they usually acknowledge that hte hallucinations are not real.
+1. Audible thoughts - hearing one's thoughts spoken aloud
+2. Somatic passivity - the feeling of being touched or strange unexplained sexual sensations
+3. Thought insertion - the feeling an external force is putting thoughts into one's mind
+4. Thought withdrawal - thoughts are withdrawn
+5. Thought broadcasting - the feeling people can read one's mind
+6. Made feelings - the feeling an external force is making you experience something
+7. Made impulses - the feeling an external force is making you want something
+8. Made volition - the feeling an external force is making you act a certain way
+9. Voices arguing/discussing (often referring to the patient as "he" or "she")
+10. Voices commenting - voices narrate one's actions as if giving a running commentary
+11. Delusional percepts - a physical sensation (such as seeing or feeling something) that is interpreted as a very special event has happened and something important is realized
+
 
 # Treatment
 - due to lack of insight often require forced treatment @anosagnosia, backed by MHA to treat and hold people against will. however compliance very low (>70% do not take medication sufficiently) - depo injections
