@@ -260,3 +260,31 @@ very under-reported by patients @stigma
 
 
 
+### Medications causing UI
+- disturbed cerebral control
+    + sedatives
+    + antiPD
+    + antiDepressnats
+    + antiCholis
+    + antiConvulsants
+    + Digoxin
+    + NSAIDS
+- urinary retention (smooth muscle relaxation causing oveerflow)
+    + antiCh, TCA
+    + CCB 
+    + alpha blockers
+- indirect causes
+    + polyuria
+        * caffeine
+        * frusemide
+        * lithium
+        * alcohol
+    + constipation
+        * diuretics
+        * opiates
+        * verapamil
+    + cough
+        * ACEi
+    + poor mobility
+        * sedation
+        * drugs causing postural hypotension

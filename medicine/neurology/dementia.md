@@ -207,3 +207,18 @@
             - antipsychotics
         * parkinsonism
             - treatemnt with levodopa, but generally less successful than idiopathic PD
+
+---------------------------------------------
+
+# Assessment of patient with possible dementia
+- history
+- examination
+    + frontal release signs (re-emergence of primitive reflexes due to loss of fronto-cortical inhibition)
+        * palmar grasp reflex - grabs objects reflexively (usu localises to the opposite hemisphere to the affected hand)
+        * palmomental reflex - stroking on thenar eminence == contraction of submental muscles
+        * rooting reflex - moves mouth to breast @skin
+        * sucking reflex - sucks breast/ bottle teat to get milk
+        * snout reflex - involved @suckling
+            - tap midline of lips == snouting @abnormal
+        * Myerson's sign: glabellar reflex, continued blinking @tapping glabellar region repeatedly
+            - @dementia/ also Parkinsons disease

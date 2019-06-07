@@ -94,3 +94,16 @@ First, second and third wave therapies
 
 - phenomenology (believe that something is real despite not being able to see or experience it)
 - empiricism (british school of philosophy)
+
+
+
+
+### Deconditioning techniques
+
+---------------------------------------
+
+# Systemic densensitisation (Exposure-response therapy (EX/RP))
+- used for anxiety and OCD
+- exposes self to progressively more challenging scenarios (creating a heirarchy of fears) whilst performing relaxation techniques (breathing, meditation). step wise challenge next, next step in the heirarchy   
+    + relaxation: positive self talk, deep breaething exercises
+

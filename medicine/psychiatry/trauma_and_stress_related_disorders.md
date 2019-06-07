@@ -43,4 +43,9 @@
     + irritable/ aggressive/ hypervigilance/ sleep disturbance @nightmares/ -=concentration
 
 
-
+# Adjustment disorder
+- within 3 months of stressor
+- out of proportion of stressor
+- <6 months of the stressor once the stressor terminated
+- impairment
+- not consistent with bereavement

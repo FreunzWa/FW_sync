@@ -23,27 +23,59 @@
 
 
 # Appearance
-- describe individual's physical appearance with enough detail to identify the person from a crowd. 
-- list:
-    + apparent age and gender
-    + grooming
-    + clothing
-    + distinguishing features (tattoos, piercings, deformities, markings)
-- hair
-    + length (short, mid-length, long)
-    + straggly
+- basics: ethnicity, age, habitus
+    + habitus: emaciated/ cachetic, thin, normal habitus, well-built, athletic, corpulent
+- haggard, weary-looking, sallow, unwell-looking
+- poorly kempt, well kempt, meticulously groomed, groomed
+- mention self harms scars, track marks, tattoos, obvious injuries, glasses
 
+# Behaviour 
+- psychomotor activity: agitation/ retardation -- fidgeting, restless leg/ slow movements and features of catatonia
+- gestures / mannerism
+- posture in chair: changing, laid back, erect, leaning forward
+- eye contact: engaging, downcast, avoiding, staring
+- EPSEs: abnormal movmenets; akathisia, tics
+- attitude towards interview: irritable/ agitated/ confronting, superficially pleasant, engaging, over-familiar, cooperative, uncooperative, friendly
+- facial expression
 
+# Speech
+- pressured and uninterruptable/ vs interruptable, rapid but redirectable, normal rate/ prosodity lethargic, slow speech, poverty of speech/ poverty of spontaneous speech
+- intonation: monotone, normal tone
+- quality: hoarse
+- volume: quiet-loud
+- articulate vs. colloquial/ casual, friendly language
 
+# Mood (climate) - on history
+- low/ depressed
+- anxious
+- angry/ irritable
+- apathetic
+- elated
 
+# Affect (weather) - 
+- quality
+    + sad/ agitated/ hostile
+    + animated/ euphoric
+- range 
+    + labile
+    + normal
+    + restricted
+    + blunt
+    + flat
 
+# Thought form
+- linear
+- incoherent/ wooly
+- circumstantial/ overinclusive
+- tangential
+- flight of ideas
+- perseveration
 
-
-
-
-
-
-
+# Thought content
+- delusions/ bizarre beliefs
+- overvalued ideas
+- suicidality/ harm to tohers/ self
+- obsessions (pt aware that irrational and causes them stress)
 
 
 

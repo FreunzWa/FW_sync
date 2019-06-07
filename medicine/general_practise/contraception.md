@@ -1,6 +1,4 @@
-
-###### Contraception 
--
+###### Contraception
 - in general, without contraception 85% of couples pregnant after 12 months. (average sexual activity for age of couple)
 - concept of ideal contraception
     + is 100% effective
@@ -13,6 +11,42 @@
     + progestin/ progesterone
         * progesterone is the hormone which suppresses GnRH/ FSH/ LH release and thus prevents formation of the ovarian follicle (at high conc). at low conc it causes change in cervical mucous/ changes tubal motility == inhibition of fertilisation. also suppress the endometrium 
         * estrogen is not needed, but is often present in formulations to act as an endometrium stabiliser (less breakthrough bleeding). adding it however may increase the risk of VTE and Breast Cancer in ceratin populations. 
+    + estrogen + progesterone
+
+-----------------------
+
+# Active compounds
+- progestins: are compoudns derivede from progesterone, they interact with PRs (A/B/C), acting at tissue sites (uterus, cervix, vagina, breasts, brain). they interact with the hypothalamic PRs == -=release of GnRH, and pituitary == -=FSH and LH == thickening of cervical mucus and inhibition of ovulation == effective contraception
+
+------------------------
+### Methods
+
+# Intrauterine contraception
+- Cu-IUD
+    + precautions
+        * UKMEC4 for insertion @PID, or UKMEC2 @continuation 2 with PID
+        * pelvic TB == UKMEC3/4
+
+# Oral medication
+- combined oral contraceptive pill (COCP)
+    + precautions
+        * smoking, obesity, uncontrolled hypertension, UKMEC4 breastfeeding in first 6 weeks (UKMEC2 <6 months), 0-3 weeks postpartum period (UKMEC3 even @no VTE risk factors), 3-6 weeks postpartum (UKMEC2 @no risk factors for VTE, otherwise UKMEC3), history of stroke or ischaemic heart disease == UKMEC4, VTE history, or family history of VTE in first degree relative <45, AF == UKMEC4, UKMEC3 @BRCA, or past breast cancer, known thrombogenic mutations (eg Factor V leiden), migraines are often an issue - esp if they have aura (==UKMEC4)
+
+# Sterilisation
+- female/ male sterilisation is 99%+ effective but poorly reversible, eesp @wait few years after sterilisation
+
+# Subcutaneous hormone systems
+- Etonorgestrel (Implanon) 
+    + single rod in inner upper arm slow release only progestin.
+    + PRO
+        * 99.95% effective (most effective method available)
+        * 3 years
+        * easily reversible
+    + CON
+        * 
+
+
+
 
 
 # 99% effective contraception
@@ -55,9 +89,7 @@
     + uses
         * also reduced menorrhagia/ anaemia/ enomterioiss related pain, PID, cervical cancer. (these are off label indications)
 
-# 90% effective contraception
-- oral contraception
-    + options (progesterone only/ estrogen + progesterone)
+
 
 # 75% effective contaception
 
@@ -123,4 +155,41 @@
     + feel teh implanon in teh arm
     + local dressing
     + pressure bandage to minimise brusing
-    + 
+
+
+
+
+# UKMEC contraindications to contraception
+- Categories
+    + 1: no restriction for use of method
+    + 2: condition in which advantages of using method outweigh risks
+    + 3: the risks usually outweigh the method. the method can only be used with careful judgement + referral to a specialist contraception provider
+    + 4: not for use @significant risks of using the method
+- Conditions and Categories
+    + Smoking
+        * Only an issue for COCP
+        * UKMEC2 if <35 and smokes, or if 35+ and stopped smoking >1 year ago. 
+        * UKMEC3 if >35 and <15 cigarettes per day, or UKMEC4 @15+ cigarettes per day.
+    + Obesity
+        * Issue for COCP only
+            - BMI 30-34 == UKMEC2
+            - 35+ == UKMEC3
+    + SLE
+        * Cu-IUD
+            - UKMEC1 for Cu-IUD 
+        * for other methods
+            - @negative antiPL Abs == UKMEC2
+            - @positive antiPL Abs == UKMEC4 for COCP, otherwise UKMEC2
+    + Breastfeeding
+        * 0-6 week postpartum
+            - UKMEC4 for COCP
+        * <6 months postpartum, after 6 weeks
+            - UKMEC2 for COCP, otherwise UKMEC1
+    + Postpartum period
+        * 0-3 weeks
+            - UKMEC4 for COCP @other risk factors for VTE/ past VTE
+            - UKMEC3 for COCP @no risk factors, so generally avoid
+
+
+-----------------------
+# Emergency contraception methods
