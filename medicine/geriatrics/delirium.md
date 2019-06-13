@@ -3,6 +3,7 @@
 - 30% of older paitents suffer at some point during hosptialisation (esp @surgical patients)
 - very underdiagnosed
 - usu @nonspecific response fo the brain to usu combinations challegenes from systeimc illness/ medications/ disorientation. usu with normal brains require significant physiologtical challenge (eg @ICU and ++drugs), but in diseased brains (eg @AD) even a trivial challenge == delirium (eg UTIs)
+    + usu trigger @medical condition
 
 # Prognosis
 - the symptoms may last a long time after the onset of delirium -- months and the congitive deecline may be incompletely reversible. 
@@ -15,6 +16,14 @@
         * 25% hypoactive delirium
         * 35% mixed pattern (fluctuations, lucid)
         * 15% normal psychomotor activity
+
+# Clinical
+- presentation
+    + acute onset (< days), fluctuating
+    + %hallucinations (usu visual)
+    + %delusions (usu persecutory)
+    + disorientation, cognitive impairment
+    + psychomotor agitation/ retardation
 
 # Risk factors/ triggers for developing delirium
 - pre-existing medical conditions
@@ -32,7 +41,7 @@
     + drug causes:
         * polypharmacy (either @certain drug reactions or interactions between drugs)
             - eps if 3+ drugs are added within a given admission
-        * drugs: lithium, antipsychotics, opioids, skeletal muscle relaxants, sedatives, hypnotics
+        * drugs: lithium, antipsychotics, opioids, skeletal muscle relaxants, sedatives, hypnotics, anticholinergics
         * withdrawal syndormes (eg @alcohol/ BZDs)
     + metabolic 
         * deranged Ca, Na, Mg, PO4
@@ -135,7 +144,7 @@
     + indicated @safety to pt/ others is threatened or prevent provision of proper care to the patient
     + options:
         * first line: haloperidol (best evidence)
-        * other: benzodiazepines (used first line @drugs/ alcohol withdrawal is the cause)
+        * usually not to use: BZDs may worsen symptoms @exacerbation of disorientation/ however may be used @psychomotor agitation and harm to others/ self risk
 - ongoing cognitive function assessments
     + to monitor progress and response to treatments
 
@@ -158,3 +167,4 @@
 - increased LOHS, associated with increase mortality rates.
 - increased cognitive and functional decline causing increased nursing home admissions
 - increaesd risk of other geriatric syndromes (UI, cognitive decline, pressure sores, falls). 
+- accelerates the onset of AD after the initial delirium period by x3

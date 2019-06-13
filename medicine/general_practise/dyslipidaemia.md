@@ -19,3 +19,4 @@
     + introduce plant sterol enriched milk, cheese, margarine (the most effective measure)
 - exercise
     + increasing exercise (150 minutes of moderate intensity or vigorous intensity physical activity each weeek). muscle strengthening 2+ days per week
+- 

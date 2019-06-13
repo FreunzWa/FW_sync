@@ -1,5 +1,62 @@
 ###### Orthogeriatrics
+- focus on hip fracture @common and higheset morbidity, and principles applied to non hip fracture injuries.
+    + 10% mortality at 1 month, 30% mortality first year
+    + QOL: 10-20% will need to move into residential care facilities
 
+# Risk factors for hip fracture
+- past fracture (2-3x more likely)
+- fall risk factors
+- osteoporosis, female, old
+
+# Principles of care
+- acute fracture and trauma care (multidisciplinary rx)
+- secondary prevention of fragility fracture (by reducing falls risk and provide bone protection)
+- rehab and cmoplex discharge planning
+- suport and education for family + carers
+
+### Management
+- Fracture care
+    + ABCs and initial care
+    + analgesia (%femoral nerve block)
+    + preop assessment
+        * group and hold, coagulation, FBE, UEC
+        * radiology, CT and CXR
+        * ECG
+        * treat any factors which could delay surgery (eg significant anaemia, electrolyte abnormalities, cardiac ischaemia, uncontrolled diabetes, anticoagulation -- esp @on warfarin)
+        * goals of care
+            - palliative? eg @hip fracture exacerbates another co-existing conditin wherein death is likely. still consider surgery @palliative role to reduce pain etc.
+    + ddefinitive managemnet of ffacture
+        * external meethods can be used @non hip fracutre (immobilisation/ external fixation and weight bearing status)
+        * anaesethsia either spinal block or geneeral anaesthesia
+        * surgical technique depends on type of fracture
+            - DHS (dynamic hip screw): used @non displaced intertrochanteric/ capsular
+            - Screws alone (non dislaced intracpaulsar)
+            - surgical nail/ rol (for interchtoonacteric/ subtrochanteric)
+            - PHR (hemiarhtoplastyu), used @displaced intracapsular fractures
+            - THR (used for displaced intracapsular, esp AVN)
+    + postoperative care
+        *  for hip fracture enox continuede for at least 28-35 days after the surgery
+        *  pressure injuries
+        *  delirium (@immobility)
+        *  drug and alcohol withdrawal
+        *  hip precuations (for 3-6 weeks)
+        *  day one opst op mobillisation and commncement of rehabilitation (but this needs to be clear from issues eg delirium)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Preparation for surgery
 - prehab (prepare for elective operations, aim to strengthen the paitent before an operation)
     + control pain, manage all co-morbidities, pre-operative physiotherapy
 - emergency (no prehab possibility)

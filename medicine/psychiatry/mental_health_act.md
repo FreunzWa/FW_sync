@@ -45,3 +45,13 @@
     + must be at risk of harm of self or others
     + appears to have a mental illness
     + there is no less restrive way of treating hte patient
+
+
+
+# Other components of MHA
+- restrictive interventions
+    + only usable after all other less restrictive interventions have been trialled and failed
+    + if there is a risk to sellf or others 
+- ECT
+    + requires tribunal @non consenting patient (even @already under the MHA) or a patient under 18 years of age (even if they consent)
+- 

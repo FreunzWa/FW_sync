@@ -9,6 +9,8 @@
         bvFTD
         semantic PPA
         non fluent PPA
+        FTD with motor neurone disease
+
 
     Less common
         Creutzfeldt-Jakob disease
@@ -68,10 +70,14 @@
         * exercise programs, occupational therapy 
 --------------------------------------------------
 
+# FTD
+- prognosis varies depending on type but usu require insitutionalisiation and complelte dependency, the most aggressive is FTD + motor neurone disease (death <3-5 years)
+
+
 # Behavioural variant Frontotemporal dementia (bvFTD) - Pick's disease
 - basics
     + FTD is a group of clinically heterogenous neurodegen disorders w/ changes in psychosocial behaviour/ aphasia. %also develop concomitant motor syndrome (PD/  MND)
-    + more common cause of early onset dementia. avg PC @50s. 
+    + more common cause of early onset dementia. avg PC @50s - 6th decade.
     + terminal illness. prognosis related to rapidity of decline
     + FTD covers 3 main distinct clinical presentation (2 of the 3 types of PPA are @FTD)
         * behavioural variant FTD
@@ -84,9 +90,29 @@
     + bvFTD (most common ~50% of FTD)
         * disinhibition (socially innapropriate behaviour)
         * apathy/ loss of empathy (loss of motivation to maintain social relationships)
-        * binge eating (esp sweet foods), ++consumption of alcohol, excessive amounts of food, may attempt to eat inedible objects
+        * binge eating (esp sweet foods), ++consumption of alcohol, excessive amounts of food, may attempt to eat inedible objects. may be selective in what foods they eat.
+            - carbohydrate cravings
+            - overfilling food and rapid eating
+            - pica, oral exploration 
+        * loss of insight (unconcerned @difficulties)
+        * %psychotic features 
+            -   (esp somatic/ visual)
+            -   delusions, esp somatic/ paranoid delusions
+        *   alterred sensitivity to pain (hypochondriasis)
+        *   dressing inappropriate for climate
         * compulsive behaviours, hoarding, checking, cleaning, religious hobbies, rigid food preferences
+            - repetitive movements (eg rocking, tapping, clapping, scratching)
+            - complex ritualistic behaviours
+        * less affectionate
+        * more childlike amusements
         * usu lack CN, snensory, cerebellar, pyramidal involvement. 15-20% develop MND, CBS or PSP
+        * %apathy, inertia, reduced autonomy
+        * loss of sympathy/ empathies
+    + language decline (PPAs - both semantic and non fluent types - see belloew in PPA section)
+    + motor findings
+        * primitive reflexes reemerge % late in the course of disease @frontal loss
+        * language
+        * EP symptoms @overlap with motor syndroem
 - investigate
     + bvFTD neuroimaging 50%shows focal frontal/ temporal atrophy in early stages. %insula/ amygdala, anterior cingulate cortex. 
     + %ventricular dilation @atrophy
@@ -97,6 +123,13 @@
         * orbitofrontal/ caudate/ temporal lobe == ritualistic compulsions
 - diagnosis
     + made clinically (6 different personality changes, if 3+ present FTD diagnosis made). or probable diagnosis @imaging findings + some features of bvFTD
+    + differentials
+        * manic episode
+        * depression
+        * other dementia types
+        * psychotic illness (eg SCZ, drug use)
+        * personality disorder
+        * brain tumor/ CVA
 
 # Primary progressive aphasia (PPA)
 - basics
@@ -105,7 +138,7 @@
     + early stages == isolated language defecits other cognitive domains are preserved, late stage == other
     + 3 subtypes
         * nonfluent PPA (FTD)
-        * semantic variant PPA (FTD)
+        * semantic dementia (FTD)
         * lopogenic PPA (AD)
 - medical
     + cx/ progression
@@ -123,7 +156,8 @@
         * word finding
     + non-fluent PPA
         * motor speech defecit, articulatory difficulty of actually pronouncing words, very effortful. (patient has problems pronouncing eg. caterpillar). 
-    + semantic variant PPA
+    + semantic variant PPA\
+        * has the higheset level of preservation in language function out of main 3 PPAs, as no impaired wordd comprehension difficulties etc.
         * impaired single word comprehensions and object naming (esp for low frequency items) in the early stages, progresses to complete comprehension defecit.
         * loss of semantic knowledge about objects, eg when drawing turtle forget the shell.
         * begins with asymmetric temporal lobe involvement, @late stage becomes bilateral and affects behavioural domains and episodic memory
@@ -199,12 +233,14 @@
     + by feature
         * dementia
             - cholinesterase inhibitors, limited evidence. (rivastigmine, donepezil, galantamine, memantine)
+        * BPSD
+            - cholinesterase inhibitorsc
         * sleep behaviour disorder
             - most patient respond to melatonin or clonazepam
             - set up bedtime environment to be as safe as possible
         * treat urinary incontinence/ retendtion.
         * psychoses
-            - antipsychotics
+            - !antipsychotics (Quetiapine low dose), use @low dose @LBD patient s are very sensitive to antipsychotic use
         * parkinsonism
             - treatemnt with levodopa, but generally less successful than idiopathic PD
 
