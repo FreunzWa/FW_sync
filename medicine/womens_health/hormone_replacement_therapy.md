@@ -18,7 +18,7 @@
 - MHT is the term for both unopposed estrogen use and combined estrogen-progestin therapy. 
     + *ET (unopposed estrogen therapy)*
     + *EPT (estrogen progestin therapy)*
-- the progestin prevents estrogen associated endometrial hyperplasia, and is not needed post hysterectomy.
+- the progestin prevents estrogen associated endometrial hyperplasia, and is not needed post hysterectomy. it is given cyclically (the number of days/ time depending on the type of estrogen used)
 - risk of side effects (esp DVT/ VTE/ Breast Ca/ stroke) is very low for younger women (40-60) esp only @take for 5 years
 - primary indications
     + Hot flashes (most common indication, and MHT is the best treatment)
@@ -34,19 +34,40 @@
 
 # Adding a progestin
 - micronized progesterone is added for people with intact uterus. the only reason progestin is added@ reduces risk of endomtetrial hyperplasia and carcinoma. 
-- in the perimenopausal or newly menopasual, progesterone is added in a cyclic fashion (12 days of each calendar month). @continuous use == irregular unscheduled bleeding. 
+- in the perimenopausal or newly menopasual, progesterone is added in a cyclic fashion (12-14 days of each calendar month). @continuous use == irregular unscheduled bleeding. 
 - some women are unable to tolerate cyclic progestin administration. 
 
 # Alternatives
 - can also use the OCP, especially in women yet to reach 12 months menses who are having menopasual symptoms who cannot be sure that they are no longer ovulating. 
 
-# Side effects of MHT
-- mild/ common:
-    + bloating/ breast pain
+# Benefits/ Risks of Oral MHT
+- Symptomatic
+    + Help with symptoms
+        * Hot flashes
+        * %Libido
+        * Dyspareunia
+        * Mood lability
+    + Side effects
+        * Weight gain
+        * Migraines with aura
+- Disease onset
+    + protects against
+        * Osteoporotic fracture HR 0.67
+        * Diabetes HR 0.65
+        * Recurrent UTI (due to related vaginal atrophy)
+        * Cataract
+        * May protect against OA
+    + increased risk of
+        * Cholecystectomy
+        * Incontinence (oral formulations)
+        * Asthma
+        * SLE RR 2.5
+        * Nephrolithiaisis
 
 # Contraindications to HRT
 - Contraindicated @: Breast cancer, CHD, previous VTE/stroke, active liver disease, unexplained vaginal bleeding, high risk endometrial cancer, TIA in the past
 - @migraine with aura, better transdermal estrogen
+- @1+ week immobilisation, stop 1 week before and after
 
 
 # Routes
@@ -59,8 +80,6 @@
             - Conjugated equine estrogen (CEE)
             - 17-beta E2. structurally identical to human. Must be micronized or the absorption is negligible.
             - plant derived estrogens
-
-
 - transdermal (esp for women with migraines with aura)
     + many women started on the TD @assoc with less risk of stroke/ VTE/ hypertriglyceridaemia than PO. 
     + esp important TD @risk of VTE (eg FHx)
@@ -82,4 +101,13 @@
 # Treatment of other features of menopause
 - SSRI for depression
 
-# 
+
+
+
+------------------------------
+# Brands/ Medications
+- Tibolone
+    + also has androgenic effects, so may have better benefits for libido
+        * cons
+            - however androgenic side effects == acne, hair loss. 
+            - increased risk of breast cancer @Fhx (OR 1.5)
