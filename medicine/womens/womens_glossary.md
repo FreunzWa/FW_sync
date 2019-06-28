@@ -12,3 +12,12 @@
         * pertaining to the period immediately after or before childbirth
     + puerperium
         * period of 6 weeks in which reproductive organs return to original function @childbirth
+
+# Other terms
+- parturient (of a women, about to give birth - in labor.)
+
+# Procedures
+- episiotomy (making a cut into the opening of the vagina to ease delivery)
+
+# Neonatal terms
+- macrosomia (large for gestational age >90th percentile at birth)
