@@ -15,9 +15,70 @@
 
 # Other terms
 - parturient (of a women, about to give birth - in labor.)
+- lochia (vaginal discharge after birth, contains blood, mucus and uterine tissue, continues 4-6 weeks after childhood, aka 'postpartum period')
+- 'let-down': complex. psychological elements?
+- primiparous: first pregnancys
+- episiotomy
+- tocolysis (stopping pregnancy/ delivery)
+- colporrhapy (col-por-aff-ee)
+- 1 micromort - 1 in a million chance of dying on a given day. 10 micromorts @just born. 
+- cholestasis of pregnancy (++statis of bile acids towards end of pregnancy == ++risk of gall stones and bile acid accumulation in blood)
+- amniotomy - artificial rupture of membranes
+- cystocele/ rectocele/ urethrocele
+- asynclitism: side tilt to the fetal heade
+- external cephalic version -- turning breech baby to cephalic through abdominal wall
+- retained placenta: placenta still in uterus after 1 hour after delivery of baby
+- quickening -- early perception of fetal movements at arnd 13-16 weeks, felt as a flutter. 
+- chorionicity: refers to type of placentation
+
+# Obstetric terms
+- 
 
 # Procedures
 - episiotomy (making a cut into the opening of the vagina to ease delivery)
 
 # Neonatal terms
 - macrosomia (large for gestational age >90th percentile at birth)
+
+# Acronyms
+- TOP: termination of pregnancy
+- RPOC: retained products of conception
+- HVS: high vaginal swab
+- PPH: post partum hemorrhage
+- EOGBS: gbs infection
+- GA: gestational age
+- ROP: retinopathy of prematuritys
+- SGA: small for gestational age
+- AGA: appropraite for gestioatnal age
+- FGR: fetal growth restriction
+- CS: c-section
+- LAST: lower anogenital squamous terminology
+- FDIU: 
+- FM: fetal movements
+- IOL: induction of labor
+- OA: occiput-anterior
+- OT: occiput-transverse
+- OP: occiput-posterior
+- EPAC: early pregnancy assessment clinic
+- ASUM: australian society of US in medicine
+- ICSI
+- PGD
+- HMB: heavy menstrual bleeding
+- DUB: dysfunctional uterine bleeding
+- PMB: ?menstrual bleeding
+- IMB: intermenstrual bleeding
+- DNC: blood for miscarraige
+- IUCD: intrauterine contraceptive device
+- APH: antepartum hemorrhage
+- VBAC: vaginal birth after CS
+- WG: weeks gestation
+- NT: nuchal transclucency
+- TV: transvaginally
+- LMP: last menstrual period
+- EDC: estimated day of confirement (delivery date)
+- POC: products of conception
+- PUL: pregnancy of uknown location
+- VTX: vertex
+- EDD/ EDB: estimated delivery date
+- EDB: epidural block
+- LNMP: last normal menstrual period

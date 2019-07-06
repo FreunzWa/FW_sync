@@ -1,3 +1,90 @@
 ###### Womens questions
 - antenatal visit: when does the first one start
 - clarification of '-natal' and '-partum' terms, are they the same thing. best term for describing a woman who is in the pregnancy period 'pregnant -- other terms'
+- midwive's roles, what can and cant they do?
+- blood pressure control in pregnancy
+- antenatal visits, how many, why that frequent
+- lie presentation, station of the fetus
+- setups of delivery (eg does an obs always have to be there)
+- chorio-amnionitis
+- under what condiions does a midwife escalate a pregnancy
+- micromorts
+- exiting fetal head
+- edema in pregnancy -- causes other than PreE
+- standard treatment of hypercoagulable state
+- composition breast milk
+- why no COCP in breastfeeding
+- look at the WHO safe childbirth checklist for Absx
+- conseqeunce of ruptured membranes early like 20-30 weeks, management etc.
+- different curves for labor?
+- IAP (intrapartum abx prophylaxis)
+- fetal hydrops
+- vault suspensions (ischiotuberal ligament)
+- para-vaginal repair
+- paracolpium
+- levator avulsion
+- cystocele- rectocele
+- detail of POP-Q
+- procidentia
+- vault
+- colpoplexy
+- pipe urethra? 
+- kernicterus further reading
+- antenatal toolkit @mercyperinatal hospital website
+- SGA/ LGA
+- shoulder dystocisa
+- online modules for gynae pathology
+- condyloma
+- balanatis xerotica obliterans
+- SIN1 and SIN2/3 to correpsond to low and high grade pathology
+- locations where HPV can affect
+- go back over menstrual cycle and hormones
+- when is CTG viable from
+- hyperalimentation
+- causes of membranes rupturing
+- how often do you feel it moving, what does it feel like, when did you start feeling the FMss
+- grading of placenta praevia -- minor and major
+- decidua pregnancy
+- hydatiform mole pregnancy
+- hyperalimentation
+- HEG: does it usually go away with time or is it fairly constant.
+- bHCG levels throughout pregnancy -- how do these differ for ectopic pregnancy. bHCG cutoff for pegnancy diagnosis
+- chorion/ subchorionic
+- gestational trophoblastic disease
+- asherman syndrome (uterine scarring)
+- treatened miscarariage
+- cervical shock
+- internal and external os of the cervix
+- ergometrine for PV bleeding @early pregnancy?
+- doses of hormone replacmeent relative to contraception -- is this less risky for breast ca/ VTE etc.
+- Kallmann syndrome
+- mullerian abn
+- study placental anatomy
+- endometriosis - glands on exterior
+- causes and implications of oligohydramnios
+- herringbrew's reflex
+- breakthrough bleeding with COCP
+- endometritis
+- what happends when take COCP, do you still bleed/ have normal period -- and all the theory around skipping days and why there are sugar pills? ? 
+- read up about metrostaxis 
+- lett's procedure for cervix
+- axial traction ? pulling the baby's head? 
+- hypoxic ischaemic encephalopathy
+- fundal pressure -- only good for deilvery teh placenta
+- is shoulder dystocisa mainly in OT rotation
+- normal weight and heights, fundal meaasurement, crown rumps etc.
+- placenta accreta
+- phannestiel
+- CS performed by obstetriciains ? not general surgeyr ?
+- vasa previa
+- PPROM
+- FMH test
+- ultraouns in pregnancy -- how to identiy the placenta etc.
+- key anatoical components which are damaged @traumatic childbirth
+- estrogne/ progesterone during pregnancy other GnRH related hormones
+- chemical abortion -- how does it work.
+- fetal thrombocytopaenia -- associations and risks to teh fetus.
+- ergotremine
+- HHS/ TTP
+- cervical shock: bradycardia and hypotension == vagal nerve irritation from the cervix == bradycardia and hypotension. thus speculum examination required to remove material from the cervix.
+- misoprostol == prostaglandin E analogue == strong myometrium

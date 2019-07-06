@@ -1,7 +1,7 @@
 ###### Medical problems in prengancy
 
 # Maternal mortality
-    + Direct (a direct maternal death is a direct obstetric complication of pregnancy/ delivery/ or their management)
+    + Direct (a direct maternal death is a direct obstetric complication of pregnancy/ delivery/ or their management) -- wouldnt have died if not gotten pregnant
     + Indirect (a disease unrelated to preganncy aggravated by teh physiological stress of the pregnancy state)
     + Accidental/ Incidental (unrelated to pregnancy)
 - Causes of direct maternal death
@@ -14,3 +14,11 @@
 
 # Cardiac disease in pregnancy
 - Eisenmenger's syndrome: long standing left to right cardiac shunt (caused @congenital heart diease) reverses to become a right to left shunt. @pregnancy mortality is high, esp after delivery. usu onset later in life @progressive pulmonary HT caused @maladaptation @higher right sided heart pressures. eventually RVH == right sided pressure exceeds left == significant cyanosis == end organ ischaemia. 
+
+# Venous thrombosis
+- 85% DVT @left leg
+
+# Radioation
+- damage is greatest in the first 10 weeks (low dosages of radiation carry a very low fetal risk -- eg CXR)
+
+# 

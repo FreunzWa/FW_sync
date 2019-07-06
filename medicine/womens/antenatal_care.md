@@ -14,86 +14,99 @@
     + puerperium and lactation
 
 
-
-# Pre-pregnancy counselling
-- routine screening for general health issues (history, investigations + examination)
-    + investigations
-        * rubella Abs (unless @previous documentation). live vaccine, contraindicated in pregnancy
-        * varicella Abs (in absence of definite past history)
-        * pap smear
-- general advice for early stages of Pregnancy
-    + pharmacological
-        * folate supplementation
-        * avoid teratogens (eg medications currently on or occupational exposure)
-    + behavioural
-        * getting pregnant, alcohol, smoking
-
 # First antenatal visit
-- confirm pregnancy
+    6 aspects
+        confirm preg
+        gestational age
+        screening for problems
+        rx of problems
+
+- confirm pregnancy (HEI)
     + on history
-        * missed period
-        * urinary frequency
+        * missed period (usu PC)
+        * urinary frequency (@uterus press bladder)
         * nausea
-        * breast
+        * breast tenderness
     + examination
-        * uterine enlargement (12 weeks abdominally, vaginal enlargement by 8 weeks)
+        * uterine enlargement (12 weeks abdominally, vaginal enlargement by 8 weeks, but generally unhelpful)
     + investigations
-        * serum B-HCG (100% reliable)
-        * Urinary CG (cross reacts with LH, -=% false negatives and false positives)
+        * serum B-HCG (100% reliable SN/SP, rare exception of choriocarcinoma)
+        * Urinary CG (cross reacts with LH, -=% false negatives and false positives). 
 - gestational age
     + investigations
-        * US (most accurate).
-            - 6-12 weeks (Crown Rump Length - CRL)
-            - 12-20 weeks (biparietal diameter - BPD)
+        * US (most accurate @consistent growth over all fetus up to 20 weeks).
+            - 6-12 weeks (Crown Rump Length - CRL, accurate +/-3 days)
+            - 12-20 weeks (biparietal diameter - BPD, accurate within 7 days)
         * Menstrual dates  
             - Naegele's rule
                 + rule of thumb: 9 months and 1 week since LNMP (adjust for cycle to get exact timing)
                 + not reliable @irregular cycle or recently ceased OC pill
 - screening for problems
     + Full medical history (Soc history, FHx, menstrual and maternal history)
+        * age, PC, PMH, PSH, POH, PGH, medications, allergies (++important @anaphylaxis == ++fatal Risk to fetus and mother)
     + examination
-        * genera anthropomorphics
+        * general appearance, anthropomorphics (DM, met syndrome, short == difficult delivery), vital signs
+        * upper limb, H&N, chest, abdomen, lower limb, neur
         * gynaecological: external insepction, speculum and bimanual 
     + investigations
-        * haematology (Hb, platelets, MCV) -- rule out anaemia/ thalassaemia
+        * haematology (Hb, platelets, MCV) MCV rule out anaemia/ thalassaemia (thal major risk, need testing)
         * blood bank (blood group, rhesus typing, antibodies) -- dx and prevention of red cell iso-immunisation
         * microbiology (rubella Ab, VZV @uncertain hisory, syphilis Ab, HepB/C, HIV) -- prevent infection in current pregnancy, vaccinations in puerperium to prevent infection of baby
-        * MSU mcs
-        * cytology (only @due during the pregnancy) 
-        * biochemistry (serum screen for Tri21)
+        * MSU mcs (6% women have asymptomatic bactiuria, 1/3 then get pyelonephritis)
+        * cytology (CST only @due during the pregnancy) 
+        * biochemistry (serum screen for Tri21, NiPT)
         * imaging (nuchal transclucency, 19 week morphology) -- diagnose T21
-- rx of problems
+- rx of problems (optimisation)
+    + medications (optimise, stop teratogens)
+        * ACEi stop, move to others
+    + nutrition
+        * multivitamin (Iodine, contains folate but now too late to reverse NTDs)
 - general advice
-    + diet, mineral and vitamin supplementation (Fe, Calcium, VitD, Folate, Iodine -- increased requirement), listeria
+    + diet, mineral and vitamin supplementation (Fe, Calcium, VitD, Folate -- but now too late to commence, Iodine -- increased requirement esp @Iodine deficient in Melbourne), listeria (serious infection, soft cheeses but these are uncommon, uncooked chicken)
     + exercise
-        * avoid strenuous @== smaller birth weight. moderate ok.
+        * avoid strenuous @== smaller birth weight and bad outcomes -- the barker hypothesis. moderate ok. 
     + drugs
         * must moderate both smoking (++perinatal mortality) and alcohol (teratogenic)
     + sex
-        * sex is fine
+        * sex is fine 
     + working
-        * most choose to cease work @34 work, some are recommended to cease sooner @placental insuffieincy or elevated BP
+        * most choose to cease work @34 work, some are recommended to cease sooner @placental insuffieincy or elevated BP 
     + medication
-        * paracetamol fine
+        * paracetamol fine (esp for headaches)
         * maxolon for nausea ok
         * peincillin/ amoxicillin okay @UTI
-- organise model of care
+        * other medications must check with doctor!
+- organise model of care (mother chooses)
     + public hospital (normal risk) -- residents and midwives
     + GP "Shared care" -- GP obstetrician
     + Public hospital (high risk) -- specialist obstetric/ reg, subspecialist in fetal Medicine
     + Private obstetrician
 
-# Futrue antenatal visits
+# Future antenatal visits
+    purpose is to diagnose issues early
 - for early diagnosis of pregnancy, esp:
-    + pre-eclampsia
-    + placental insufficiency
-- visit frequency
+    + pre-eclampsia (HTN, proteinuria and edema)
+    + placental insufficiency (-=fetal movements, IUGR)
+- visit frequency (but often it is less frequent than this)
     + <28 weeks (every 4 weeks)
     + 28-36 weeks (every 2 weeks)
     + 36+ weeks (weekly)
 - management
-    + general wellbeing
-    + fetal movements
+    + hx
+        * general well being
+        * fetal movements
+        * edema
+    + ex
+        * weight gain (diet advice), HTN (seated right arm level with heart, phase V), fundal height (>20 weeks, tape measure from top of pubis to top of the uterus.), lie/presentation/station, auscultation (baby heart beat), urinalysis (proteinuria and asymptomatic bactiuria)
+- 28 weeks
+    + repeat FBE, OGTT (used in pregnancy), anti-D administered if Rh Negative
+- 36 weeks
+    + FBE, vaginal/perianal swab for GBS (20%carriers, 1/200 get a %fatal infection), anti-D administration @Rh negative
+    + ideally vaginal, but C-section may be safer esp breech
+
+# Planning brith
+- median onset spontaneous labor is 40 weeks (38 weeks from fertilisation)
+- 1/400 have perinatal death/ disability @going beyond 38 weeks
 
 
 
