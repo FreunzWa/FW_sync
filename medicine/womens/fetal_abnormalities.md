@@ -6,14 +6,39 @@
 
 # Chromosomal defects
 - risk increases with increasing maternal age (esp after the age of 35)
-- T21 (downs syndrome)
-    + complete/ partial copy of Chr21
-    + 1/600 pregnancies
-    + @non disjunction in which one gamete gives 24 chromosomes with 2 copies of t21, ++%@maternal origin, with increased maternal age. %@unbalanced translocation
-- T18 (Edward's syndrome)
-    + 1 in 8000 births
-- T13 (Patau syndrome)
-    + 1 in 15000 births
+- Trisomies
+    + T21 (downs syndrome)
+        * complete/ partial copy of Chr21
+        * 1/600 pregnancies
+        * @non disjunction in which one gamete gives 24 chromosomes with 2 copies of t21, ++%@maternal origin, with increased maternal age. %@unbalanced translocation
+    + T18 (Edward's syndrome)
+        * 1 in 8000 births
+    + T13 (Patau syndrome)
+        * 1 in 15000 births
+- Deletions
+    + Prader-Willi syndrome
+        * genetic disorder @partial deletion of Chr15 == floppy baby, poor feeding, however @childhood == constant hunger == obesity and T2DM and -=IQ, usu infertile.
+- Sex chromosommes
+    + Turner syndrome (XO); female, lack X chromosome. 
+        * features: webbed neck, low set ears, low hairline, swollen hands/ feet, amenorrhoea, %heart defects, thyroid disease, CVD, diabetes. Intelligence okay (esp @mosaicism)
+    + Klinefelter's syndrome (47, XXY), 2+ X chromosomes
+        * features: infertility, microorchidism, weaker, tall, less body hair, breast growth, -=libido. %mild reading/ speech difficulties. @more X chr == more severe
+
+# Genetic disorders
+- FXS (Fragile X syndrome)
+    + X linked dominant of CGG repeat expansion (>200 repeats == disease. normal 5-40) in FMR1 == -=FMRP == syndrome. more common @male, female less severe
+    + features @elongated face, low IQ, macrorchidism, feaetures of autism, %seizures, %hyperactivity, large ears, flexible fingers, flat feet, low muscle tone, Recurrent AOM, sinusitis, hand flapping
+- SMA
+    + @loss of anterior motor neurons == muscle wasting @SMN1 gene defect, AR. varying levels of severity from few months of life to normal LE.
+    + cause of hypotonic baby
+- CF
+- Kallmann's syndrome (hypogonadtrophic hypogonadism) @deefective GnRH ==  -=sexual development/ puberty, infertility, anosmia, OP risk
+- Beckwith-Wiedemann syndrome (BWS)
+    + sporadic
+    + macrosomia, macroglossia, hemihyperplasia, omphaloceled, embryonal tumor @childhood, %visceromegaly
+    + <20% with BWS get cancer, esp Wilms tumor, pancreatoblastoma, hepatoblastoma. only increased risk @ <4 years of age
+    + ++risk of childhood cancer
+ 
 
 # Screening for T21
 - first trimester screening
@@ -74,10 +99,12 @@
 # Screening for other conditions
 - CF
     + all newborns are screened
-    + antenatal screening involves genetic tests for parents for carrier status. @carriers == can perform diagnostic screen with CVS or AC
+    + antenatal screening involves genetic tests for parents for carrier status. @carriers == can perform diagnostic screen with CVS or AC (using PREPAIR)
 - haemoglobinopathies
     + @risk (eg low MCV in mother) or carrier status for parents == can do CVS or AC
     + alpha major incompatible with life. beta major is transfusion dependent.
+- FXS/ SMA
+    + both covered @PREPAIR, screen parents before pregnancy
 
 # Structural abnormalities
 - risks

@@ -1,5 +1,75 @@
 ###### Infectious diseases in pregnancy
 
+# Infection @pregnancy by site
+    Reproductive tract
+    UTI
+    Breast
+    %skin infections post delivery
+- sites of infection
+    + 4 sites: uterus, perineal/ abdo wounds, Urinary tract, breast. (infection @mother)
+- reproductive tract
+    + Choroamnionitis: infection of fetus/ seecundines/ AF @ascending infection @vagina usu @colonised. (mix of anaeoribc/ aerobic). ++@PPROM (esp with cervical suture), or @maternal --> fetal spread @placenta (eg @listeriosis). CTG == fetal tachy, maternal fever etc, CRP, %%amniocentesis for diag (but @oligohydramnios @PPROM). 
+        * Rx: treat @erythromycin proph @PPROM. @established CA == amoxycillin, gentamicin, metroidazole. Expedite delivery
+    + postpartum endometritis: @++GBS, coliforms, anaerobes (classicaly GAS @hand washing incident) == spread to placenta site == parametritis/ pelvic peritonitis %sepsis. risk @++VEs, RPOC, %CS.
+        * Rx @BSAs
+    + postabortal endometritis
+        * risk @RPOC
+- urinary tract
+    + cystitis
+        * @pH/ amino acids/ sugar + smooth muscle relax @P4 == obstruction == ++bacterial growth @pregnant women urine. 
+        * ++coliform, GNs, %GBS (++risk of GBS colonosiation of neonate), %mycoplasma, ureaplasma
+        * 6% bactiuria in early pregnancy @MSU (includes asymp) == 1/3 get pyelnephritis == morbidity/ perinatal mortality.
+        * ++use NF, amoxicilliin, cephalexin, Augmentin (5 days), retest MSU after 1 week. @recur == suppression @NF throughout pregnancy + investigate @renal tract US
+    + pyelonephritis
+        * UTI + fever + loin pain. 20% bacteraemia/ sepsis. 
+        * ix @MSU, FBE, renal function, blood cultures
+        * ampicillin + gentamicin IV for 24 hours, then PO for 10 days. proof of cure MSU after.
+        * @++recurs, ++require NF suppression therapy for pregnancy at night.
+- breast infection
+    + @stagnation of milk @blocked duct == bacterial overgrowth, ++@staph aureus from the baby (often resistant @HA)
+    + one quadrant localised pain and redness + general infection symptoms
+    + BSAs needed to prevent abscess (aspiration with US, or requires open drainage). PO Diclox, or IV fluclox @systemically unwell. 
+    + confirm abscess @US
+    + NSAIDs and cold compress for pain, empty the breast @continue breastfeeding
+
+# Specific infections
+    Syphilis
+    Listeriosis
+    Chlamydia
+    GBS
+    myoplasma, ureaplasma
+- GBS
+    + present 20% vaginal tracts some time of pregnancy. 50% babies born colonised == 1% serious GBS disease (1/1000 @untreated)
+    + increase risk of PPROM / premature labor/ postpartum endometritis, pueperal sepsis, neonatal infecetion
+    + neonatal infection
+        * early onset sepsis (%meningitiss/ pneumonia, %life threatening)
+        * late onset sepsis (1st week of life, baby lethargic and jaundice, %meningitis)
+    + prevention
+        * @LVS/ anorectal swab for GBS @36 weeks, benzylpencillin best proph, @allergy == cephazolin (clinda @severe, but 20% resistant) 
+- Myocplasma/ ureaplasma
+    + common colonisation of the genital tract, association with CA, preterm labor, puerpal/ neonatal infection. 
+    + not clear if treating @asymptomatic women helps 
+    + clindamycin or clarithromycin/ erythromycin
+
+
+# Intrapartum prophylaxis for GBS colonisation
+- indications
+    + previous infant with GBS infection neonatal
+    + postivee GBS screening culture
+    + unknown GBS status at onset of labor with any of the following
+        * delivery <37 weeks
+        * amniotic membrane rupture > 18 hours
+        * intrapartum temp >38 dedg
+        * NAAT positive for GBS
+    + GBS bactiuria in current pregnancy
+- not indicated just because of:
+    + colonisation with GBS @previous pregnancy
+    + GBS bactiuria in prev pregnancy
+    + negative GBS screening regardless of other risk factors
+    + CS performed with intact membranes 
+
+
+
 # GBS pregnancy
 + GPC, colonises lower GI and genital regions. 
 + in pregnancy, freqeunt cause of asymptomatic bacturia, UTI, upper genital tract infection, postpartum endometritisi, pneumonia, puerperal sepsis. 

@@ -183,7 +183,7 @@
 
 # Dementia with Lewy Bodies
 - basics
-    + pathological hallmark of eosinophilic intracellular inclusions called Lew Bodies (of alpha synuclein) in deep cortical layers throughout the brain
+    + pathological hallmark of eosinophilic intracellular inclusions called y Bodies (of alpha synuclein) in deep cortical layers throughout the brain
     + important to correctly diagnose LBD @treatment options are specific to DLB as ooposed to other typeds of demdentia.
     + distinguish from Parkinsons disease dementia, which is when dementia occurs in setting of well establisheed parkinsonism, while DLB dementia signs usu precede onset of parkinsonism or develop coincidentally.
 - diagnosis

@@ -31,7 +31,7 @@
     + mild-severe. usu indicate induction of labor and early delivery. @severe == intensive management. 
 - epi
     + rf
-        * nulliparous
+        * primip
         * obesity/ previous vascular diseease/ hypertension
         * new partner < 6 months
 - medical
@@ -42,8 +42,9 @@
     + theories:
         * @immunological mechanisms == insufficient invasion of the spiral vessels into the placenta to become low resistance vessels.
     + etiologies
-        * hyperplacentosis
-- management
+        * hyperplacentosis (a large placenta @multipple pregnancy)
+        * previous vascular disease
+        * defucuebt okacebtatuib
 - features
     + HTN >20WG + systemic involvement marked @:
         * Renal: proteinuria/ renal insufficiency/ uric acid accumulation
@@ -52,10 +53,10 @@
         * Neurological: convulsions, hyperreflexia + sustained clonus, blurred vision @ishcamiea of the retinal artery @widespread vasospasm
         * Pulmonary: edema
         * Placental: abruption, FGR
-        * Cardiovascular: generalised edemas
+        * Cardiovascular: generalised edema
     + placental impact
         * @placental insufficiency == FGR/ fetal hypoxia %fetal death. 
-        * %fetal abruption
+        * %placental abruption
 - assessment
     + on history/ examination
         * hypretension

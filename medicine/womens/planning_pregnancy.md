@@ -26,6 +26,8 @@
             - DM (move for tighter control of BSL, move to insulin @some OHG are teratogenic)
             - epilepsy (valproate attempt to switch pre-pregnancy)
             - anticoagulation (warfarin PregX == passes the placenta. so can use LMWH instead @does not pass placenta
+        * genetic testing
+            - PREPAIR (pre-pregnancy screening of FXS, SMA, CF)
 - optimise management of conditions
     + Daibetes
         * tight glucose control will reduce fetal abnormalities -- thus recommend insulin for pre-pregnancy to ensure that sugars are kept as low as possible prior to conception
@@ -38,7 +40,17 @@
         * T1DM, especially if there are systemic complications of the disease.
         * morbid obesity -- elect to defer to allow for weight loss
     + pharmacological
-        * folate supplementation (3 months pre-conception to protect against NTD). higher dose if known risk (eg past history of NTD in baby)
+        * folate supplementation (3 months pre-conception to protect against NTD). higher dose if known risk (eg past history of NTD in baby) - 0.5 mg conditions (AEDs -- take 5mg/kg)
         * medications: avoid teratogens (eg medications currently on or occupational exposure). standard eg paracetamol okay. 
     + behavioural
         * getting pregnant (dont save up for a certain day, at least alternate days leading up to ovulation), alcohol (FAS, even low level so should avoid altogether), smoking limit
+    + diet  
+        * avoid soft cheeses, unpasteurised milk and prepackaged salads.
+
+# Pre-pregnancy screening
+- Screening for genetic diseases with carrier genes
+    + PREPAIR
+        * tests for FX, CF, SMA in the parents (first mother, then father). looks for most variants
+        * 1 in 20 people carry one (more common @caucas)
+        * should do before pregnancy, but can do in first 12 weeks.
+        * @postive result @pregnancy == requires CVS /AC

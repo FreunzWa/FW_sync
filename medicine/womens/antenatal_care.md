@@ -1,9 +1,4 @@
 ###### Antenatal care
- - antenatal: aka prenatal, a type of preventative health care, to ensure the healthiest pregnancy without complications
- - about the screening and rx of existing conditions to pregnancy
- - also about general advice to give women @planning a pregnancy + education about pregnancy
- - key aspects of the initial antenatal visists, confirming pregnancy and predicting gestational age
-
 
 # Pregnancy managemnet overview
     + pre pregnancy counselling
@@ -13,6 +8,27 @@
     + intrapartum care
     + puerperium and lactation
 
+# Landmarks
+    confirmation of pregnancy (referral to tert)
+        @GP, FTS referral
+    ? 6 weeks: dating scan
+    <10 weeks: bHCG doubles every 48 hours
+    12 weeks:    combined FTS (PAPP-A + bHCG)
+    15-18 weeks: STS (aFP, inhibin A, bHCG, estriol)
+        first visit @hospital, see midwife and doctor. STS testing and others.
+    16 weeks: vist shared care doctor / midwife
+    19-22 weeks: morphology scan
+    22 weeks: visit shared care doctor/ midwife
+    26-28 weeks: OGTT, FBE (anaemia, Hb), anti-D
+        pertussis and influenza vaccine.
+    32 weeks: visit shared care doctor/ midwife
+    36 weeks:    GBS self swab, LVS
+        if Hb low from 28 weeks == repeat BT
+        second dose of anti-D
+    38 weeks: shared care doctor/ midwife
+    39 weeks: shared care doctor/ midwife
+    40 weeks: shared care doctor 
+    40-41 weeks: induction of labor booking, US and fetal monitoring
 
 # First antenatal visit
     6 aspects
@@ -20,6 +36,8 @@
         gestational age
         screening for problems
         rx of problems
+        general advice
+        organise model of care
 
 - confirm pregnancy (HEI)
     + on history
@@ -34,13 +52,14 @@
         * Urinary CG (cross reacts with LH, -=% false negatives and false positives). 
 - gestational age
     + investigations
-        * US (most accurate @consistent growth over all fetus up to 20 weeks).
+        * dating scan (most accurate @consistent growth over all fetus up to 20 weeks).
             - 6-12 weeks (Crown Rump Length - CRL, accurate +/-3 days)
             - 12-20 weeks (biparietal diameter - BPD, accurate within 7 days)
         * Menstrual dates  
             - Naegele's rule
                 + rule of thumb: 9 months and 1 week since LNMP (adjust for cycle to get exact timing)
                 + not reliable @irregular cycle or recently ceased OC pill
+            - online calculators
 - screening for problems
     + Full medical history (Soc history, FHx, menstrual and maternal history)
         * age, PC, PMH, PSH, POH, PGH, medications, allergies (++important @anaphylaxis == ++fatal Risk to fetus and mother)
@@ -108,8 +127,6 @@
 - median onset spontaneous labor is 40 weeks (38 weeks from fertilisation)
 - 1/400 have perinatal death/ disability @going beyond 38 weeks
 
-
-
 # Immunisations in pregnancy
 - generally ideally given prior to conception as per the adult guidelines for vaccinations, but @special cases given during preg. 
 - vaccines are given @non immune, when there are risks of high exposure and the vaccine is unlikely to harm fetus/ mother. immunisation is effective in pregnant women despite immune changes @pregnancy
@@ -136,3 +153,8 @@
                 + should receive full 3 dose course during 27-36 weeks
         * should also vaccinate household contacts
         * Pertussis can have high morbidity for fetus, and transmitted from family members <3 months of age
+
+
+# Models of care
+- shared care (SC): hospital shared with @doctor/ loccal midwife affiliiated with hospital (eg 750 doctors and midwives affilitiated @RWH)
+

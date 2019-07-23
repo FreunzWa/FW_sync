@@ -31,7 +31,7 @@
         * ADC > 20
         * PCOS and obesity 
     + low FSH (hypogonadism)
-        * low weight, stress, high physical activity, pituitary tumor, Kallmann syndrome, infiltrative (sarcoid)
+        * low weight, stress, high physical activity, pituitary tumor, Kallmann syndrome, infiltrative (sarcoid), Prader-Willi syndrome
         * often requires FSH, and LH agonists (either recombinant or homologous)
     + FSH high (ovarian failure)
         * iatrogenic (chemo/ radiation)
@@ -70,3 +70,15 @@
 - azoospermic
 - Fragile X (CAG repeat with expansion w/ anticipation. gets to a point where <50 copies == normal. 50-200 pre-mutation. >200 copies then full mutation == causes severe fertility issues.). more likely to spread from mother --> child. severe mental disability with typical features. can use pre-implantation diagnosis. 
 - ovarian hyperstimulation syndrome
+
+
+# conditions affecting fertility
+- PCOS
+    + ovulatory dysfunction, polygenic disease
+    + assoc with insulin resistance, diabetes, obesity
+    + clinical: -=menstrual periods, hirsutism, HMB, obesity, infertility, acne
+    + investigation @US (++large follicles, large ovarian volume), biochemistry (++LH, SHBG reduced, DHEA-s %elevated). OGTT taken every 2 years, monitor for DM
+    + risk:
+        * rates between thin and obese are simialr
+    + mx: overexpress LH receptors in thecal cells in ovary == ++ovarian androgen. Insulin also decreases SHBG (++testerone in blood) == clinical feastures. @++testerone == failure to ovulate == anovulatory subfertility and -=progesterone == %HMB/ %cancer.
+    + rx: weight loss (even @small == ++fertility, -=hirsutism, reduceed insulin resistance), PCOS (reduced endometrial hyperplasia in HMB, -=hirsutism), cyproterone (androgenism).

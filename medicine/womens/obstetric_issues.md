@@ -1,4 +1,4 @@
-###### Obstetric emergencies and complications
+###### Obstetric issues, emergencies and complications 
     Shoulder dystocia
     Caesarean section 
     Antepartum hemorrhage
@@ -129,3 +129,60 @@
 - grading @either major or mnior praevia. 
 - investigations
     + DO NOT PERFORM a digitial vaginal examination @risk of severe hemorrhage, speculum is safer
+
+
+# Breech
+    97% cephalic presentation @term
+- risk factors (change of shape of fetus and uterus)
+    + fibroids/ malformations (eg bicornuate uterus)
+    + polyhydramnios/ prematurity (rounder uterus)
+    + placenta positioned inferiorly
+    + hydrocephaly
+    + grandmultiparous (@uterine laxity)
+- hei
+    + past history of baby breech
+    + e: belottable fetal head high
+- complications
+    + cord prolapse @ROM because the head does not block the cervix (in breech the liquor escapes around the leg)
+- investigations
+    + hip dislocation congenitally @US prior to deliery
+- management
+    + @present @36 weeks == often wait for baby to invert (4% have breech at 36 weeks)
+    + @still breech @37 weeks
+    + ECV: external cephalic version done from 36-37 weeks, earlier pointless @high chance of spontaneous version. more difficult @fetal leg extension or nulliparous
+        * Risks: feto-maternal hemorrhage, placental abruption, cord entanglement -- so give RhD
+        * CIs: @already plan elective CS, antepartum hemorrhage, oligohydramnios, uterine scar, multiple pregnancy
+        * can give terbutaline to soften uterus. 
+        * CTG before and afterwards
+    + elective CS 39-40 weeks
+    + planned vaginal breech birth (%@multiparous)
+        * negative outcome predictive facotrs
+            - large fetus (3.8 kg+), small fetus (@preterm), placental insufficiency, fetal head extension, footling breech, evidence of cephalopelbic disproportion
+        * First stage
+            - NPO @requirement for emergency surgery
+            - exclude cord prolapse as soon as waters break
+        * Second stage
+            - lithotomy position
+            - routine episiotomy @tight perineum
+        * maneurvres
+            - burns-marshall method (swing feet upwards)
+        * complications
+            - failure to deliver head (fetal hypoxia)
+
+
+# Transverse lie
+    no mechanism for delivery, must either be corrected or CS.
+    1 in 200 @37 weeks GA
+- rf
+    + similar to breech, but ++@multiparity (@hypotonus of the uterus and anterior abdominal wall).
+    + placenta location esp placenta praevia
+- hei
+    + can see transverse on inspection of abdomen @lateral expansion.
+    + no fetal pole palpable @the fundus or the lower uterus
+    + US confirmation, must also look for placenta praevia esp @not multiparous
+- rx
+    + ECV, but ++revert to transvere
+    + @>38 weeks present == admit to hospital for monitoring until lie corrects or CS @PROM (high mortality if not at hospital). can DC @lie stable for 48 hours
+    + CS difficult @poorly developed lower part of uterus == difficult to grab presenting part, can vert the baby @sufficient liquor fairly easily.
+- complicatrions
+    + cord prolapse and fetal death

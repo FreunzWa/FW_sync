@@ -1,7 +1,7 @@
 ###### Reproductive anatomy
 
-
-
+#### Normal anatomy
+    External genitalia
 # External genitalia (vulva)
 - mons pubis
     + fibrofatty cushion anterior and superior to the symphysis pubis. covered @hair. 
@@ -33,6 +33,7 @@
 - 
 
 # Internal genitalia
+[posterior fornix; corresponds to deepest part of the posterior vaginal wall, part that slips posterior to cervix-+]
 - vagina
     + 8-12 cm in length, links vestibule to uterus. 
     + ++distention
@@ -78,3 +79,13 @@
         * 4: bicornuate uterus (only upper part of the mullerian system fails to fuse == heart shaped uterus)
         * 5: septated uterus: partition between the ducts present. most common uterine malformation. (partial or complete septation may be present)
         * 6: DES uterus (T-shape uterus)
+
+
+#### Abnormal anatomy
+    Ashermans syndrome (Intrauterine synechiae)
+- acquired abnormalities
+    + ashermans syndrome (Intrauterine adhesions)
+        * post surgical adhesions (esp @DNC, CS, myomectomy, removal of RPOC) @intrauterine scarring == occlusion of internal cavity.
+        * %@infections eg schisotomiasis, gennital TB 
+        * clinical: infertility, second amenorrhoea, pain@menstruation
+- congenital uterine abnormalities
