@@ -54,3 +54,16 @@
         * 1 in 20 people carry one (more common @caucas)
         * should do before pregnancy, but can do in first 12 weeks.
         * @postive result @pregnancy == requires CVS /AC
+
+
+# Managing medical conditions
+    Effect of pregnancy on disease
+    Effect of disease on pregnancy
+    Management of disease
+    Medication review
+- eg diabetes
+    + pregnancy on disease
+        * increased insulin requirements
+    + medications
+        * 5mg folate required @++risk of NTDs
+        * metformin is safe, but not that effective

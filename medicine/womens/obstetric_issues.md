@@ -104,31 +104,77 @@
         * immediate access to OT
 
 # Antepartum hemorrhage (APH)
-    bleeding in tthe 2nd part of pregnancy (>20 weeks)
+    Ddx:
+    Most common
+        placenta praevia
+        abruption
+        vasa praevia
+    Incidental
+        Cervical polyp
+        Cervical cancer
+        Cervical ectropion
+        CA
+        lower genital tract infection
+        trauma
+    ----
+    bleeding (>50 mL) in tthe 2nd part of pregnancy (>20 weeks). 
+    ----
     3-5% of pregancies, and assoc with natal and maternal morbidity
+    aimed @distinguishing between bleeding from a placenta praevia and placental abruption, vasa praevia. 
 - definition
     + 50+ mls is minimum requirement for antepartum hemorrhage. 
 - distinct from  'show', which is teh mucous plug lost in teh weeks just before labor
-- clinical
+- history
+    + pain (makes more likely abruption)
+    + US (placental location)
+        * low lying placenta (placenta praevia)
+        * velamentous 
+    + fever (CA)
+    + no history of CST (cancer)
+    + trauma (trauma to lower genital)
     + assess for shock/ end organ compromise
-- causes
-    + placental abruption 1/4 ()
-    + placenta previa 1/4 -- becoming more common, more common than placental abruption
-    + uterine rupture and vasa previa are very rare 
-    + DV? %%the cause -- underassessed
-    + local causes
-        * cervical ectropion
-        * polyps, fibroids, cancers
-        * %%infection (eg thrush/ bacterial vaginosis and trichomonas)
+- examination   
+    + tense, tender uterus
+    + HR and Blood pressure
+    + speculum examination: look at cervix and rule out the lower genital tract causes. look for amount of blood loss.
 - comlpications
-
+    + haemodynamic shock
+- management:   
+    + large bore 2x cannulas
+        * commence crystalloid (not colloid!)
+    + take blood
+        * FBE, group and hold, coagulation profiles.
+        * Kleihauer test: fetal red blood cells looking for fetal-maternal hemorrhage
+        * %UEC @possible pre-eclampsia
+    + CTG
+    + US
+        * pregnancy US
+        * placental position
+        * fetal doppler (for chronic anaemia), AFI
+    + blood transfusion
+    + anti-D (@possible feto-maternal haemorrhage)
+    + antenatal corticosteroids (fetal surfactant, bowel, brain - less IVH)
 
 # Placenta previa
     the placent ai spartially or completely iplanted @the lower uterine segment
     dont perform digitial vaginal examination
+    bleeding is all from the mother
 - grading @either major or mnior praevia. 
+    + major: covering os (any degree of covering)
+    + minor: lower segment of the uterus but not covering the os 
 - investigations
     + DO NOT PERFORM a digitial vaginal examination @risk of severe hemorrhage, speculum is safer
+- management
+    + C-section at 37-38 weeks, @asymptomatic woman with placenta praevia. 
+        * @major == 37 weeks, @minor == 38-39 weeks.
+
+# Vasa praevia
+    no longer do APT test
+- assessment
+    + CTG monitoring
+    + 
+- management
+    + 
 
 
 # Breech

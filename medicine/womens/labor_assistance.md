@@ -20,6 +20,14 @@
     + US (AFI, placental flow), CTG
 
 # Induction of labor
+    Cervical ripening
+    Contraction of uterus
+- cervical ripening
+    + balloon catheter
+    + prostin
+- contraction of uterus
+    + ARM
+    + syntocinon 
 - indications
     + postmaturity (usu 10-14 days at around 40-42 weeks)
         * placenta begins to deteriorate == fetal compromise/ hypoxia
@@ -65,6 +73,8 @@
                 - not to use with previous uterine surgery or with ruptured membranes (causing hypertonus of the uterus == fetal compromise). grandmultiparity is relative CI
             * dinoprostone slow release peessary
             * misoprostol tablets
+            * mifepristone tablets
+                - not generally used @association of abortion drug
         + other techniques
             * transcervical balloon cathter (cooks): foley cathter passed through cervix, blown to 2-3 cm, catheter allowed to fall out auto (main risk is CA)
     + Amniotomy (artificial rupture of membranes)

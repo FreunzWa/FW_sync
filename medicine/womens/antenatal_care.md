@@ -11,10 +11,10 @@
 # Landmarks
     confirmation of pregnancy (referral to tert)
         @GP, FTS referral
-    ? 6 weeks: dating scan
+    ? 6 weeks: dating scan (TV)
     <10 weeks: bHCG doubles every 48 hours
-    12 weeks:    combined FTS (PAPP-A + bHCG)
-    15-18 weeks: STS (aFP, inhibin A, bHCG, estriol)
+    9+0-13+6: CFTS (PAPP-A + bHCG) + ultrasound + age weight and GA
+    15-18 weeks: 2TMSS (aFP, inhibin A, bHCG, estriol)
         first visit @hospital, see midwife and doctor. STS testing and others.
     16 weeks: vist shared care doctor / midwife
     19-22 weeks: morphology scan
@@ -156,5 +156,10 @@
 
 
 # Models of care
-- shared care (SC): hospital shared with @doctor/ loccal midwife affiliiated with hospital (eg 750 doctors and midwives affilitiated @RWH)
+    midwifery lead
+    GP shared care
+    obstetrician
+    fetal maternal medicine
 
+- shared care (SC): hospital based obstetrician shared with @doctor/ loccal midwife affiliiated with hospital (eg 750 doctors and midwives affilitiated @RWH)
+- obstetrician

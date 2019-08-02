@@ -36,12 +36,16 @@
         * eg. inconitinence pessaries (the nob increase the force on teh internal sphincter)
         * PF PT
         * pads
-    + surgical
+    + interventional
+        * urge
+            - neuromodulation with sacral nerve stimulation -- electrode through S3 foammen, electrode placed SC into the buttocks. effective at 70% of patients.
         * vaginal mesh still available @incontinence (@actually has low morbidity assoc)
-        * urethral sling procedures (open to revision in the next couple of weeks if there is retention)
-            - retropubic slings
-            - transobturator slings
-            - pubovaginal slings (requires suturing, worse symptoms after, difficult to get right pressure)
+        * stress urinary incontinence
+            - mid urethral sling procedures (open to revision in the next couple of weeks if there is retention) -- so don not make too tight
+                + sling inserted @small anterior vaginal wall incision proximal to urethral meatus, retropubic then exits the skin. tension free under the urethra -- cure rates of 85-90%
+                + retropubic slings
+                + transobturator slings
+                + pubovaginal slings (requires suturing, worse symptoms after, difficult to get right pressure)
         * bursh colposuspension
             - dissect between bladder and posterior aspect of the PS. place sutures in periurethral tissue into coopers ligament == tightening and support of urethra
         * periurethral bulking injections

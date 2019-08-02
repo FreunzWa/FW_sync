@@ -45,7 +45,7 @@
     + etiology
         * HIE
         * hypothyroidism
-        * chromosomal disorders
+        * chromosomal disorders (triploidies)
         * Prader-Willi syndrome
         * inborn errors of metabolism
         * hereditary connective disorders
@@ -101,6 +101,11 @@
     + H: GA, rf @intrapartum spesis, meconium stained liquor?, use of CPAP? @reesus == ++Ptx risk
     + E: stridor (obstruction), catheter does not progress @nose (choanal atresia), PRS (retracted jaw), scaphoid abdomen (suggests diaphragmatic hernia), air entry (Ptx), hepatosplenomegaly/ heart murmur (CCF)
     + cx of CLD @bronchopulmonary dysplasia == require O2 >28 days
+    + I: 
+        * blood gas values: 
+            - umbilical artery: 7.1-7.4. lactate < 6.1
+            - umbilical vein: 7.2-7.45
+            - heel prick sampling at 48 hours: 7.3-7.5, 1.5-4.0
 - risk facotrs
     + preterm delivery
     + elective C-section without labor (associations and also lose the sudden decompression)
@@ -223,3 +228,102 @@
             - esp ++@DM in mother, should be monitored with 3-4 hourly BSls. 
             - caused @++exposure to BSLs in pregnancy @placenta == ++insulin required which lasts for 3-4 days post birth. 
         * polycythaemia
+
+
+# Infections of the neonate
+    occur @organisms crossing the placenta or up the vagina.
+    Important: Rubella, syphilis, toxoplasmosis, GBS
+    Cx: neonatal sepsis, preterm birth
+    3rd most common cause of death in newborn.
+    @serious sepsis == 25% mortality
+- physiology
+    + @reduced B and T cells, low lymphoid tissues, PMNLs very immature, low complement levels, IgG is high @crosses the placenta at birth. 
+    + However dimeric IgG does not cross placenta == specific vulnerabilities
+- antenatal infections
+    + CMV
+        * ==microcephaly, periventricular calcifications, sensorineural (even at more mild cases), liver derangement, haematological issues
+    + Toxoplasmosis
+        * fetal death, hydrocephalus, microcephalus, intracranial calcification, chorioretinitis, jaundice, hepatosplenomegaly, petechiae
+    + Rubella (German measles)
+        * cataracts
+        * heart defects
+        * FGR
+        * deafness
+        * bone leesions
+    + Syphilis
+        * extremely rare in australia esp @screening
+        * may cause failure to thrive, mucocutaneous syphilitic lesions, assoc with anaemia, edema, pyrexia, osteochondritis
+- Perinatally acquired infections
+    + superficial
+        * thrush
+        * conjunctivitis
+        * omphalitis (umbilical cord stump esp @strep, staph, ecoli, causes discharge and ertyhema. requires systemic abx)
+        * skin infection (staph aureus)
+    + neonatal sepsis (usu caused @acquired from vaginal tract)
+        * key organisms
+            - GBS
+            - E coli
+            - Klebsiella
+            - Pseudomonas
+            - S aureus
+                + %MRSA @HA infection
+            - HSV 
+        * risk factors
+            - ROM >18 hours
+            - GBS positive
+            - premature
+            - maternal fever
+            - breach of skin
+            - invasive devices/ cannulation
+                + esp @catheteer associated or ventilator sasscoatied pneumonia.. 
+        * clinical features
+            - lethagy
+            - RDS/ pneumonia (chest wall retractions, accessory intercostal use, cyanosis)
+            - temp instability (hypothermia/ feever)
+            - poor feeding
+            - vomiting
+            - pallor
+            - seizures, posturing, rigidity (eg @meningitis)
+        * investigations
+            - CSF, urine, blood (FBE and cultures)
+                + neutrophilia or low neutrophilc count suggestive of infection
+                + urine: suprapubic bladder aspiration
+                + LP @any possibility of meningitis
+            - cxr @signs of resp distress
+        * management
+            - empiric BSAs after take specimin
+            - transfeer to incubator
+            - oxygen and resp suppport
+            - IV fluid resuscitation
+            - 95% organisms susceptible to gentamicin/ benzylpenicillin + 3rd agent cephalosporin or antiviral (@meningitis suspected)
+                + 48 hrs only @infection unlikely in retrospect
+                + 7-10 days for seepsis
+                + 14-21 days for meningitis
+                + 4-6 weeks for OM
+
+
+# By pathogen
+- GBS
+    + closely mimics resp ditress, alwawys a differential for RDS
+    + can cause pneummonia, meningitis, neonatal spesis.
+    + 25% mortality.
+    + early onset (0-7 days)
+        * colonisattion @birthing process. 
+    + late onset (7-90 days)
+        * acquired in community
+
+# Infection by  stie
+- meningitis
+    + can accompany any sepsis, daignosis requires CSF. 
+    + longer duration of tratemtn for GNs or HSV causing meningitis. 
+    + cranial US %performed looking for abscess or hydrocephaluys
+    + seizures are common == requires resp support.
+    + very high chance 25% of long term morbidity eg sensorineural hearing loss
+- OM/ septic arthritis
+    + rare
+    + indicated @pseudo paresis or splinting. 
+    + aspirate fluid and perform cultures.. 
+    + abx given up to 6 weeks to penetrate. 
+    + followup to check for limb deformity @foreshortening
+- viral hepatitis
+    + vertical transmission of HepB == liver infection. 

@@ -1,6 +1,9 @@
 ###### First trimester pregnancy problems
     First trimester issues are considered gynaecological issues rather than obstetrics issues.
 
+
+
+
 # bHCG in pregnancy
 - bHCG produced @trophoblastic tissue (eg @ectopic, normal pregnancy, tumor, multiple pregnancy). thus bHCG does not inform what is happening @the pregnancy. 
 - bHCG usu doubles every 48 hours in a normal pregnancy during weeks 4-8. then plateau, then the placenta takes over production of bHCG from the corpus luteum. @no longe rincrase in bHCG == resolution of some of pregnancy related symptoms
@@ -17,33 +20,14 @@
     + 7 weeks
         * 5-10 mm embryo, TV can see %cardiac activity
         * bHCG 20,000
-
-# Hyperemsis gravidarum
-    as opposed to morning sickness: which is N/ %V, symptoms occur 5-6 wks GA @increasing HCG. peak at 9 weeks and ablate @16-18 weeks. 90% get morning sickness.
-    1 in 200 pregnancies
-- basics
-    + 1 in 200 pregnancies, may persist entire prengnacies
-    + must be a diagnosis of exclusion @rule out other causes (eg mass lesion in the brain or other metabolic condition)
-- definition
-    + weight loss >5% of body weight, dehydration
-- investigations
-    + USS required to determine mole pregnancy, multiple pregnancies
-- interventions
-    + non pharma
-        * ginger/ acupressure
-        * diet: high carb, low fat, small meals, eliminate spicy foods
-        * avoid triggers: stufyf rooms, odors, heat, noise
-    + pharma
-        * pyridoxine VitB6
-        * antihistamines (Phernergan) but issues with drowsiness.
-        * antiemetic (Zofran) - the most effective but causes constipation (severe @combined with progesterone and vomiting.)
-        * Maxolon
-        * %TPN
-
+        
 # EPAS
     early pregnancy assessment service
 - multidisciplinary clinic for rx and follow up of early pregnancy problems. 
 - introduced @10-15 years ago in Australia.
+
+# Bleeding in early pregancy
+- EP until proven otherwise
 
 # Miscarriage
     loss of pregnnacy <20 weeks, not @abortion. otherwise stillbirth.

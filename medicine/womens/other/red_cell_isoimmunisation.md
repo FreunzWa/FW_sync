@@ -26,10 +26,10 @@
 - red cell antigens that are targets
     + can kill Red cell antigens
         * Rhesus D/E/c/K (anti-D is the largest problem)
-        * Kell/ Kidd/ Duffy (antiAbs also kill red cells)
+        * Kell/ Kidd/ Duffy (antiAbs also kill bone marrow - that is why Kell kills == more profound anaemia)
         * MNS (anti M/N/S)
     + harmless
-        * ABO: anti-A and B are harmless @IgM
+        * ABO: anti-A and B are harmless @IgM does not pass into the fetus @placenta
         * Lewis: fetal red cell does not express the lewis antigen
         * P antigens: IgM
 - epidemiology
@@ -66,8 +66,9 @@
         * book in for specialist maternal/fetal medicine practitioner
     + according to risk
         * low risk
-            - Ab titre at each visit 
+            - Ab titre (by dilution) at each visit, take a titre every 4 weeks  
             - @stays stable == deliver @38 weeks @there is a large rush of Abs across placenta late preg
+                + MCA Doppler: peak systolic velocity (-=viscosity of blood == ++velocity.) measured as multiples of mean.
         * medium risk
             - monitor at each visit
             - US screening from 20 weeks (MCA)
@@ -80,6 +81,10 @@
                 + use mothers type @the mother will not have that antibody against that red cell type (the antigen in question)
                 + give O -ve in general.
                 + giving mothers blood okay as long as spin off the plasma. (however not a long term solution)
+    + management
+        * transfusion:
+            - paralyse the baby with fecuronium
+            - US guided intrahepatic portion of UA blood transfusion. (cordocentesis) and also intraperitoneal cavity of fetus == absorbed gradually
 - prevention    
     + if need blood tranfusion, use RhD compatible blood 
     + Kell Negative blood to women under 50 years (men given kell positive blood)

@@ -18,6 +18,9 @@
 - Deletions
     + Prader-Willi syndrome
         * genetic disorder @partial deletion of Chr15 == floppy baby, poor feeding, however @childhood == constant hunger == obesity and T2DM and -=IQ, usu infertile.
+    + DiGeorge syndrome
+        * partial deletion of 22
+        * congenital heart problems, immunosuppression, -=IQ, hearing loss, risk of autoimmune disease, palatal anomalies, micrognathia, eyes slanted, low set ears, short stature
 - Sex chromosommes
     + Turner syndrome (XO); female, lack X chromosome. 
         * features: webbed neck, low set ears, low hairline, swollen hands/ feet, amenorrhoea, %heart defects, thyroid disease, CVD, diabetes. Intelligence okay (esp @mosaicism)
@@ -40,31 +43,28 @@
     + ++risk of childhood cancer
  
 
-# Screening for T21
+# Screening for trisomies
+    analytes of inhibin, estriol, bHCG, aFP are expressed as multiples of median as there are known reference rangees for the population
 - first trimester screening
-    + USS
-        * USS performed @CRL 48-84 mm, corresponds to GA of 11-13 weeks. 
-        * nuchal transclucency
-        * 75% detection rate, 5% FP, operator dependent.
-    + combined testing
+    + combined testing (CFTS)
         * 90% detection rate, 5% FP
         * combination of 
             - serum (taken 9-12 weeks:
                 + pregnancy associated plasma protein A
                 + hCG
             - imaging (10-13 weeks):
-                + nuchal transclucency measurement (11-13 weeks)
-- second trimester screening
+                + nuchal transclucency measurement (11-13 weeks as indicated @CRL) 
+- second trimester screening (2TMSS)
     + serum tests
         * blood taken btwn 14-20 wks
         * 75% detection rate, 5% FP when using all 4 parameters
         * serum analytes (measured @multiples of median)
             - fetal
-                + alpha-fetoprotein
-                + estriol
+                + alpha-fetoprotein (-=)
+                + estriol (-=)_
             - placental
-                + bHCG
-                + inhibin
+                + bHCG (++)
+                + inhibin (++)
     + integrated testing (combined first and second)
         * PAPP-A @9-12 weeks, followed by 2nd trimester serum analytes + T1 transclucency measurement == 90% detection, only 2% FP.
     + 2nd trimester US (routine between 18-22 weeks)
@@ -73,7 +73,15 @@
         * using cell free fetal DNA from plasma of pregnant women. s
         * cffDNA is 10% of total maternal cell free DNA. 
         * detection rate of 99%, 95%, 90% for T21/18/13 respectively. FP <0.5%
-        * high cost test, but high accuracy
+        * high cost test, but high accuracy, still requires diagnostic test to follow
+- maternal screening results other implications
+    + @very abnormal reesults can also mean other problems more likely, may prompt closer monitoring later in pregnancy
+    + T1
+        * low PAPP-A == ++risk of IUGR, PreEc, stillbirth
+        * low b-HCG == ++risk of IUGR
+    + T2
+        * ++aFP == ++risk of structural defects (NTBs, gastrochisis) == reequires morphology US ongoing
+        * low estriol == ++risk of fetal death, smith lemlioptiz sydnrome
 
 # Diagnostic tests
 - do not require anaesthetic, US guidedd tests. CVS and AC are options. 
@@ -86,15 +94,18 @@
     + performed @12-14 weeks.
     + performed @abnormal T1 screening (US and serum)
 - AC
-    + performed @15 weeks
+    + performed @15 weeks -- need more fluid, but later diagnosis
     + aspirate 15 ml of amniotic fluid
 - analysis of genetic material
     + FISH (fluorescent in situ hybridisation)
-        * probes attach to critical regions. 
+        * probes attach to critical regions
         * result avail in 48 hurs. 
-        * determines any Chr abno (sex and autosomal)
-    + Single gene testing
+        * determines any Chr abno (sex and autosomal) - -thus can rapidly rule out 13,18,21
+    + Banded karytopying -- takes 2 weeks
+    + Single gene testing -- done when there is a suspicion of a certain condition eg CCF
     + Microarray
+
+
 
 # Screening for other conditions
 - CF
@@ -139,3 +150,17 @@
     + fluid accumulation throughout body, 2+ body cavities. 
     + assoc @cardiac failure
     + increases risk of prec @placental edema (mirror syndrome)
+
+
+
+
+
+
+# Trisomy 21
+- ultrasound features
+    + CFST: NT (widedend @++fluid)
+    + Morphology scan (soft markers) -- however 15% @normal pregnancy
+        * echogenic bowel
+        * short humerus/ femur
+        * clinodactyly of the fifth finger
+        * sandle gap toes

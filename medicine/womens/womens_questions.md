@@ -97,3 +97,4 @@
 - ECMO ever used in neonatal resuscitation, especially for super preterm neonates like 22-23 weeks before saccules have fully formed? 
 - epidermolysis bullosa EB
 - cerebral irritability
+- smith lemlioptiz sydnrome

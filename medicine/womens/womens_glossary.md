@@ -43,6 +43,8 @@
 
 # Acronyms
 - TOP: termination of pregnancy
+    + MTOP: medical termination of pregnancy
+    + STOP: surgical termination of pregnancy
 - RPOC: retained products of conception
 - HVS: high vaginal swab
 - PPH: post partum hemorrhage
@@ -70,6 +72,7 @@
 - PMB: postmenopausal bleeding
 - IMB: intermenstrual bleeding
 - DNC: dilation and curettage
+- DVC: dilation and vaccuum curettage
 - IUCD: intrauterine contraceptive device
 - APH: antepartum hemorrhage
 - VBAC: vaginal birth after CS
@@ -96,3 +99,9 @@
 - FDIU: fetal death in utero
 - GTD: gestational trophoblastic disease
 - HIE: hypoxic ischaemic encephalopathy
+- UPSI: unprotected sexual intercourse
+- PCC: post coital contraception
+- EC: emergency contracpetion
+- LNG: levonorgestrel
+- D&E: dilation and evacuation-
+- ACS: antenatal corticosteroids
