@@ -1,6 +1,21 @@
+###### Gynae Pathology
+
+# Fibroids
+- treatment
+    + hysteroscopic resection (@submucous)
+    + myomectomy (@large and intramural)
+    + hysterectomy (multiple fibroids with no desire for ongoing fertility)
+    + uterine fibroid embolisation 
+        * PVA particles 
+    + MRGFUS
+
 ###### Screening for gynaecology cancers
+    cervical
+    ovarian
+    endometrial
 
 # Cervical cancer
+    3rd most common cancer @females worldwide. usu arises @transitional zone of the cervix, beetween the sequuamous and columnar epithelium
 - risk factors
     + DES (diethylstilbestrol) exposure when in utero, originally used to help with miscarriages, used from '38 to '71. "DES syndrome" 
 - clinical

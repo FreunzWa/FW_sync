@@ -56,7 +56,7 @@
 # Osteoporosis
 - lifestyle intervetions
 
-# Treatment of menopause
+# Symptoms of menopause
 - vasomotor symptoms (highest morbidity symptom)
     + CBT (reduces problem rating of vasomotor sx by 80%). ids triggers and reduces anxiety that it causes. improves mood and anxiety.
     + more effective than venlafaxine
@@ -68,6 +68,9 @@
 
 
 # HRT
+- When to treat?
+    + @under 50 without medical contraindication == can use @just replacing normal ovarian e2
+    + 
 - estrogen + progestogen. progestogen added to prevent endometrium hyperstimulation. (post hysterectomy only need E)
 - is the most effective treatment for menopausal symptoms
 - risks
@@ -103,7 +106,19 @@
 - yoga/ acupuncture
 
 # Other alternatives
-- tibolone (but not as effective as HRT)
+- tibolone 
+    + 
+    + synthetic steroid with weak estrogen, progestogen, androgen activity. 
+    + treat vasomotor symptoms, prevent osteoporosis
+    + avoids need for EP combined
+    + tibolone increased risk of stroke @>65
+    + does not increase risk of endometrial hyperplasia
+    + risks
+        * ++cardiovascular risk == CI'd @previous cardiovascular disease
+        * ++stroke risk
+        * avoid use @CVD/ stroke risk eg @smoker, 70+ years old, immobilisation
+    + counselling
+        * stop tibolone 4 weeks prior to surgery @expect immobilisation
 
 # future treatments
 - NK3 antagonists (may allow opposition of hot flushes)

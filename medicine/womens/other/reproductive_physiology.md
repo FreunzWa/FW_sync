@@ -14,6 +14,7 @@
     + ovum passes to fimbrial end of the fallopian tube
 - Luteal phase (Day 14-28)
     + LH == theca and granulosa cells develop into corpus luteum == progesterone production. 
+        * theca cells produce androstenedione that the neighbouyring granulosa cells use to produce estradiol. (@PCOS == too much androstenedione)
     + progesterone == cellular differentiation in the endometrium == -=proliferation further. 
 - Menses (day 0-4)
     + @LH and FSH falling == estrogen and 

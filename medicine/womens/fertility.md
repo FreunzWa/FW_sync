@@ -5,6 +5,52 @@
     @>35, then start investigating after not pregant @6 months (more urgent diagnosis needed)
     however, @not ovulating (eg. amenorrhoea) then require immediate referral
 
+
+# Infertility
+    6-12 monts of regular unprotected intercourse without conception
+- main causes
+    + ovulatory dysfunction
+        * ejaculatory duct blockage
+    + sperm issues
+    + functional sexual problems (actually have sex)
+    + anatomical issues 
+    + pelvic pathology
+    + testicular or ovarian failure
+
+# Initial investigations
+- pelvic anatomical assessment
+- hormonal assessment
+- sperm assessmnet
+- ovarian
+
+# Male factor infertility
+- azoospermia
+    + obstructive
+    + non-obstructive
+        * reversible (hypogonadism)
+            - steroid use most common
+            - kallmann's syndrome
+            - pituitary tumor/ surgery
+        * irreversible (testicular failure)
+            - mumps == permanent inflammatory destruction of the testis
+            - irradiation
+            - Klinefelter's syndrome
+
+# Management
+- correct reversible factors
+- keep trying
+- laparoscopy
+- IUI (mild sperm issue == deliver the sperm deep into endometrium)
+- IVC
+- ICSI. For severe male factor subfertility.
+    + intracytoplasmic sperm injection
+    + 
+
+- Vasectomy
+    + (microsurgery to reverse)
+- Donor sperm
+
+
 # Fertility assessment
     1/3 purely male problem
     1/3 purely female issue (eg vulation, endometriosis)
@@ -55,9 +101,16 @@
     + embryo transfer (often multiple embyos are implanted)
     + vitrification
 - indications
-    + klinefeleters (testicular microtubular sperm extraction)
+    + Klinefelter's (testicular microtubular sperm extraction)
     + CF
 - 1 IVF cycle just on drugs is $2000
+
+# HEI
+- Examination 
+    + testicular
+        * infantile size testis@ Klinefelter
+        * smaller size in non obstructive azoospermic
+        * normal size @obstructive azoospermic
 
 # Oocyte cryopreservation
 - future space, can freeze eggs wwhen younger to have more options. medicare assisted @the female has a medical condition that affects fertility (eg cytotoxic therapy)
@@ -82,3 +135,64 @@
         * rates between thin and obese are simialr
     + mx: overexpress LH receptors in thecal cells in ovary == ++ovarian androgen. Insulin also decreases SHBG (++testerone in blood) == clinical feastures. @++testerone == failure to ovulate == anovulatory subfertility and -=progesterone == %HMB/ %cancer.
     + rx: weight loss (even @small == ++fertility, -=hirsutism, reduceed insulin resistance), PCOS (reduced endometrial hyperplasia in HMB, -=hirsutism), cyproterone (androgenism).
+
+
+# Polycystic ovarian syndrome
+    misnomer @ovaries are not cysts but rather polyfollicular
+    ovulatory dysfunction + androgen excess
+    assoc with obesity and INS resistance.
+    12% prevalence estimated, most common cause of subfertility
+- medical
+    + rf
+        * @family clustering (polygenetic)
+        * NOT elevated BMI (rates of PCOS similar -- however ++BMI exacrbates INS resistance)
+    + assoc with multiple endocrine dysfunction (insulin, LH, elevated androgens from the ovaries).
+    + mx
+        * @hyperINS AND @++LH secreted @pit == ++theca cells produce androstenedione which circulates and is converted in peripheral tissues to testosterone (adrenergic clinical features) and estrogen
+        * also @hyperINS == less SHBG == more free DHT from any source
+        * @++androgens == inhibition of ovulation == anovulatory subfertility
+        * @no progesterone == estrogne chronically unopposed == HMB, high ratees of endometrial hyperplasia and cancer
+- clinical 
+    + features
+        * oligomenorrhoea (cycles >35 days or fewer than 9 periods per year), heavy menstrual bleeding
+        * hirsutism 
+        * acne
+- diagnosis
+    + 2+ of the following
+        * PCOS morphology on US
+        * oligomenorrhoea / anovulation
+        * hyperandrogenism (either lcinical or on serum testing)
+    + Differentials
+        * CAH
+        * premature ovarian insufficiency
+        * hyperprolactinaemia
+        * thyroid issues
+- HEI
+    + H
+        * rule out other causes of menstrual irregularities eg thyroid, prolactin issues, premature ovarian insufficiency, pregnancy
+    + I
+        * 'Polycystic' ovaries on pelvic ultrasound
+            - for PCOS requires:
+                + 12+ follcieles on either ovartyt measure 2-9mm
+                + ovarian volume >10mL on TVUS
+        * Testing for anovulation
+            - lack of LH surge or lack of progeseterone rise 
+        * Androgens
+            - reduced SHBG (not diagnostic)
+            - elevvated serum testosterone
+            - high free androgens index
+        * GTT
+            - at diagnosis then every 2 years
+            - and other assessment for metablic syndromes
+- management
+    + weight loss (at least 5%): D&E. almost always recommend.
+    + COCP
+        * first line treatment for hirsutism
+        * protects against endometrial hyperplasia
+        * CI'd @trying to get pregnant
+    + Mirena
+        * preevent endometrial hyperplasia, reduces bleeding. does not help with hirsutism. 
+    + Spironolactone
+        * for hirsutism
+    + Clomiphene
+        * helps to allow ovulation, endomeetrial protection

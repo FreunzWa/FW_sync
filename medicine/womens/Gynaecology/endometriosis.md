@@ -1,9 +1,15 @@
-###### Menstrual problems
+###### Endometriosis
+
+
+# Endometriosis
     estrogen dependent benign condition where endometrial glands and stroma found outside endometrial cavity. 
     10% affected. 
 - medical
     + affected sites
         * ++affects the broad ligaments A and P, uterosacral ligaments, ovaries. 
+        * bowel
+        * bladder
+        * ovaries
     + complications
         * ++associated with infertility
         * rectal involvement
@@ -11,7 +17,7 @@
 - clinical
     + history
         * pelvic pain
-        * dysmenorrhoea
+        * dysmenorrhoea/ irregular periods
         * dyspareunia
         * sx of involvement of other sites:
             - bladder involvement (urgerny, frequency, haematuria)
@@ -26,6 +32,9 @@
         * hormone treatments
             - COCP/progestins/ depot/ progesterone implant == -=endometrial proliferation/ -=ovulation
         * Danazol (suppresses HPO axis)
+            - steroid hormone inhibits ovulation and suppresses menstruation
+            - infrequently used @androgenic side effects
+            - androgenic side effects @acne, edemea, weieght gain, hirsutism, hair loss and voice change, hot flushes, menstrual irregularity.
         * Aromatase inhibitors (-=androgens converted to estrogen)
         * GnRH analogues (-=HPA == -=gonadotropins)
     + surgical 

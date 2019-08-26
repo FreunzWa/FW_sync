@@ -1,10 +1,19 @@
 ###### Contraception
+    average rate of pregnancy without contraception per cycle is 20% per cycle
+    effectives measured @percentage of women not pregnant at end of the year
+[EE; Ethinylestradiol]
+[EV; Estradiol valerate]
 
 # Methods
 - condoms (female and male condom inserted @each use. female c is less available and more expensive)
 - diaphragm (silicon flexible outer spring and dome of material, no longer available @australia. must stay in place after intercourse. lowest eefficacy figures for typical use. no decrease in STIs however.) used @combination with spermicide, can stay up for 24 hours.
+
+# Barriers/ spermicide
+- male condom (2%/17%)
 - cervical cap: smaller version of diaphgram. as effective as diaphgram.
 - vaginal sponge: coated with spermicide
+
+# Cycle/ Timing methods
 - fertility awareness -- termperature
     + detect body temp rise that occurs post ovulation about 0.2-0.5 degrees, remaining high until next menstruation. intercourse omitted until 3 days after temperature increase
     + take temp before any food, first thing in morning
@@ -17,6 +26,57 @@
 - lactational amenorrhoea
     + while full breast feeding 98% effective, less than 6 months postpartum and no gap of more than 4 hours and 6 hours at night between feds..
 
+# Pill methods of contraception
+- COCP
+    + stops ovulation by preventing the LH surge
+    + either EE or EV + progestogen
+    + all packaged @28 tablets, with 4-7 sugar tablets.
+    + advantage
+        * less bleeding usu (may look 'different' eg spotting/ darker color). periods should be regular, reduced period discomfort
+        * very effective @used correctly
+        * acne may improve
+    + disadvantage
+        * %caujse: breast tender, acne (usu goes away), bloating, mood changes, -=libido, headaches, nausea, breathrough bleeding
+        * need to remember to take every day
+        * costly @ongoing costs
+        * does not protect against STIs
+        * need to wait 7 days before covered
+    + Contraindications
+        * IHD, past or current breast cancer, liiver disease, migraine with aura, VTE, breastfeeding, uncontrolled hypertension, smoker past 35
+    + Counselling
+        * 1 pill per day @ same time
+        * immediately protected @up to and including 5th day of period, otherwise not until taking for 7 days
+        * @up to 24 hours late, take the missed pill as soon as you remember then take next pill @usu time (may mean taking 2 pills in one day)
+        * @>24 hours late: take the missed pill as soon as remember (up to 2 in one day). then use condoms as well for 7 days. if get to the sugar pills in these 7 days, then skip them. 
+        * @vomit/ diarrhoea within 2 hours of taking pill then take another.
+- MiniPill (POP)
+    + does not stop ovulaton but changes mucus so that the sperm cannot get through
+    + Counselling
+        * must take it daily without break even @period, and same time every day. (no inactive pills)
+        * @start on 1st 5 days, covered. otherwise must take for 3 days before covered.
+        * @more than 3 hours late, must use condoms for 3 days.
+        * emergency contraception @miss pill and no condom
+
+# Devices
+- Mirena (progesterone intrauterine device). First @1990
+    + releases levonorgestrel
+    + used @birth control (2nd most effective) and for heavy menstrual bleeding
+    + advantage
+        * controls heavy periods
+        * 0.2% yearly failure rate
+        * set and forget
+        * easily reversible
+        * can be inserted @undergoing other procedures
+    + disadvantage
+        * requires insertion
+        * small risk of infection/ damage to uterine wall/ ectopic pregnancy
+        * 4% chance of falling out
+- Copper IUD
+    + advantage
+        * does not use hormone @bad reactions to other hormone using methods
+    + disadvantage
+        * may cause heavier bleeding
+        * 
 
 # Emergency contraception (post coital contraception)
 - EC back up method of contraception @UPSI. usu @slippage, breakage, missed OCP. is not abortion.
@@ -52,6 +112,11 @@
     + very effective, can be performed as outpatient. not intended for reversal but %microsurgery can restore.
 
 # Abortion
+    In Australia, Victoria
+        < 9 weeks == MTOP
+        < 14 weeks == D&V
+        > 14 weeks == D&E
+        > 22 weeks == Fetocide + D&E
     aka therapeutic abortion/ TOP
     as pregnancy matures, icnreasing requirement for surgical methods/ specialised training
     @STOP will require US, Hbg
