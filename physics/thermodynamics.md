@@ -1,4 +1,4 @@
-###### Matter
+###### Thermodynamics
     describe physical properties materials
     phases of matter: solid definite shape with strong spring like molecular bonds, liquid weak bonds permitting motion but still remain close together, gas particles move freely.
 
@@ -51,6 +51,10 @@
         * eg @use wheel pump == the pump gets warm @doing work on a gas increasses the thermal energy (first law of thermodynamics) 
         * an adiabatic process is a processs which has no time for a transfer of thermal energy with the environment, instead the energy is transferred to teh surroundings only inthe form of work
 
+# Thermodynamic processes
+- isochoric process (constant volume process)
+    + process that takes place at constant volume, usu requirea rigid container. unusual in biological systems. 
+    + a work for an isochoric process is 0 as the change in volume is 0, thus the energy change is totally caused by the change in heat energy. 
 
 # thermal expansion of solids and liquids
 + change in volume @change in temperature (eg in thermometer)
@@ -84,3 +88,16 @@
 # Calorimetry
 - quantitative measurement of heat transferred between systems or created by a reaction.
 - uses the principle that there is always a conservation of heat between two interacting systems so that an increase in temp in one will be met with a correseponding decrease in the other.
+
+# Heat transfer
+- conduction
+    + direct transfer of heat @physically touching
+    + heat Q transferred higher @higher dTemp, ++surface area for contact, materials than conduct heat more readily eg metal, Q will be decreased if the rod connecting two objects is increasd
+- convection
+    + transfer of thermal energy by motion of a fluid. convection currents responsible for current and wind blowing. 
+    + while air is a very good thermal insulator, if allowed to move through convection it can transmit heat rapidly. thus it is important to trap the air in small pockets to limit convectin -- what feathers and double glaze windows do
+    + convection is much more rapid iin water than in air == more dangerous to be in cold wate
+- radiation
+    + electromagnetic waves absorbed, emittede
+    + infra red is more readily absorbed so it perceiveed as being hot. however other wavelengths will also heeat objects that absorb them. IR radiation responsible fro 49% of teh heating of earth. 
+    + however IR popularly associated with heat@because most objects will not emit enough in higher parts of the spectrum so IR is responsible for more heating.
