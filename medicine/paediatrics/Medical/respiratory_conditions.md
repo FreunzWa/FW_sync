@@ -3,9 +3,12 @@
     asthma usu not present with cough
     URTI is the most common cause, self limtiing and does not need treatment.
 
+# Approach to wheezing child
+    common pres @young, 20% infants wheeze, 40% children under 6 have at least 1 wheezing episode. 
+
 # Approach to Persistent Cough
     Whooping Cough (time course and presence of cough fits)
-    Viral URTI/ Common Cold (absence of concerning/ onset)
+    Viral URTI/ Common Cold (absence of concerning/ onset) -- <3 weeks cough
     Asthma
     Bronchiolitis
     Croup
@@ -18,6 +21,7 @@
     + pattern of cough (@absent during sleep == habit cough)
     + exercise tolerance
     + exposure to smoke
+    + IUTD, developmental, obst
 - E
     + fever, FTT, clubbing, tachypnoea, wheeze, differential air entry/ crepitations
 - Managmenet
@@ -59,11 +63,16 @@
         * asthma exacerbation @underlying
 - clinical
     + H
-        * cough/ coryza for one week (catarrhal phase), followed by ++severe paroxysmal cough in phases
+        * cough/ coryza for one week (catarrhal phase), followed by ++severe paroxysmal cough in phases. 
+        * cough usu worse@ night. 
+        * %fever
         * %present as non-specific persistent cough
         * %vomiting @coughing spaasm.
         * %cyanosis @coughing spasm == apnoea
         * highly contagious == other members of family infected
+        * milder cough lasting for months after the paroxysmal phase
+        * @babies == may not cough that much but rather apnoeas/ cyanosis. 
+        * @adult == usu no whoop sound. 
     + E
         * severe coughing @in middle of spasm, but otherwise generally no signs.
         * %cyanosis @apnoea due to coughing
@@ -101,22 +110,27 @@
 --------------------------
 # Bronchiolitis
     clinical diagnosis common in chyildren with supportive management
+    usu <2 yrs old.
 - medical
     + rf
-        * <12 months
+        * <12 months. over 2 == protective. 
     + nat hist
         * lasts 7-10 days with a peak in severity on day 2-3 of illness. however %cough persists for weeks.
     + complications
-        * asthma exacerbation @underlying @underlying
+        * asthma exacerbation @underlying asthma
 - clinical
-    + aim is to determine severity (milld, moderate, severe) basedo n clinical indicators and saturation
+    + aim is to determine severity (milld, moderate, severe) basedo n clinical indicators and saturation 
+        * Mild: Normal behaviour, RR normal, no chest wall contractions, O2>92, no apnoeic episodes, feeding normal
+        * Moderate: Irritable, tracheal tug, ++RR, nasal flaring, 90-92 sats RA, -=feeding.
+        * Severe: Increasing irritability + %lethargy, +++RR, +++WOB, ++tracheal tug, nasal flaring, <90% sats RA, %prolonged apnoea. -=feeding
     + H
-        * cough, tachypnoea, subcostal and intercostal retractions, widespread crackles/ wheeze
+        * cough, tachypnoea, subcostal and intercostal retractions, widespread crackles/ wheeze, fever. 
         * behaviour normal? feeding etc.
     + E
     + I
         * usu none required
-        * Dont do CXR/ Virological testing/ Serology
+        * Not done usu: Virological testing/ Serology
+        * @severe == %do CXR == perihilar fullness @RSV. however @CXR == often treat with unnecessary abx
 - management
     + supportive treatment
         * mild (usu discharge, monitor in ED with 2 measurements, ensure small freq feeds, eeducate and reassure)
@@ -156,12 +170,6 @@
     + transfer to tert care:
         * @FiO2 requirement >50%
 
-
-# Croup
-
-
-
-
 # Laryngomalacia
     congenital softening of tissues of larynx above vocal cords == stridor. presents first month of life, differential for dyspnoea of young infant.
     usu resolve without surgery by 18-20 months. %struggle @breathing/ eating/ gaining weight
@@ -197,12 +205,16 @@
 
 # Croup (laryngotracheobronchitis)
     URT inflammation @virus, ++%parainfluenza virus, most common @6 months - 6 years
+    usu lasts for 1 days but can last 1 week
     usu mild illness == can be managed as outpatient
+    other causes include: Influenza A/B, RSV, measles, Diphteria (Coryebacterium diphteriae)
+    affects 15% of children at some point. 
+
 - clinical
     + H
         * stridor (severity of stridor not a good indicator of severity)
         * hoarseness
-        * barking cough
+        * 'barking' cough
         * %worse at night
         * increased WOB @obstruction
         * %fever but no features of systemic toxicity.
@@ -215,9 +227,16 @@
         * throat examination not needed
     + I
         * no investigations needed @may cause distress and worsen symptoms
+            - a neck xray will likely show 'steeple sign', narrowing oft the upper trachea.
+- differntials
+    + inhaled FB
+    + epiglottitis
+    + bacterial tracheitis 
 - medical
     + rf for seevere Croup
         * pre-existing narrowing of upper airwways, prev severe croup, <6 months old. very unusual <3 months so other diagnoses must be entertained.
+- prevention
+    + influenza and Diptheria vaccination
 - managmenet
     + treatment is supportive
     + minimal handling w/ limited examination

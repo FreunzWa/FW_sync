@@ -1,4 +1,6 @@
 ###### Artificial intelligence - basics
+    Artificial intelligence - intelligence demonstrated @machines in contrast t to natural intelligence. 
+    "AI effect" - as machines' processing power increases == tasks considered to require intelligence are removed from the definition of AI "Tesler's Tjheorem" == AI is whatever has not been done yet (eg optical character recognition.)
 - some definitions
     + a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”
 
