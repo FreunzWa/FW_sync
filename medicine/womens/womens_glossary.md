@@ -21,14 +21,14 @@
 - episiotomy
 - tocolysis (stopping pregnancy/ delivery)
 - colporrhapy (col-por-aff-ee)
-- 1 micromort - 1 in a million chance of dying on a given day. 10 micromorts @just born. 
+- 1 micromort - 1 in a million chance of dying on a given day. 10 micromorts @just born.
 - cholestasis of pregnancy (++statis of bile acids towards end of pregnancy == ++risk of gall stones and bile acid accumulation in blood)
 - amniotomy - artificial rupture of membranes
 - cystocele/ rectocele/ urethrocele
 - asynclitism: side tilt to the fetal heade
 - external cephalic version -- turning breech baby to cephalic through abdominal wall
 - retained placenta: placenta still in uterus after 1 hour after delivery of baby
-- quickening -- early perception of fetal movements at arnd 13-16 weeks, felt as a flutter. 
+- quickening -- early perception of fetal movements at arnd 13-16 weeks, felt as a flutter.
 - chorionicity: refers to type of placentation
 - post dates women: beyond 40 weeks of pregnancy
 - secundines: placenta and fetal membnranes that are extruded @uterus after birth.

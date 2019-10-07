@@ -3,6 +3,7 @@
 
 
 
+
 # Investigations into development
 - Informal clinical judgement - mostly unreliable.
 - PEDS (parents evaluation of devleopmental status) used @primary care setting 10 q aimed to detemrine parental concern. birth - 8 years

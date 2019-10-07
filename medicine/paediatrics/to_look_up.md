@@ -19,3 +19,8 @@
  - ayus-arrieff pulmonary edema
  - normal amount of sleep for a baby
  - Measles: CCC (coryza, cough, conjuncitivtis) Kopliks spots, MP rash. 
+ - RASE syndrome with aspirin children under 12
+ - kawasakis and rashes - look at the derm chapter tonight.
+ - >for how long is the fontalle sign relevant (ie at what points do the fontalles fuse)
+     + anterior fontanelle closes around 18 months
+     + posterior fontalle closese around 1-2 months

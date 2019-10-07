@@ -1,6 +1,11 @@
 ###### Prescribing fluids
 - @fasting == @low glucose stores == requires ongoing dextrose 5% to avoid hypoglycaemia
 
+# When to use NGT
+- <3 years old
+- no need for an IV
+- CRT < 3 seconds
+
 # Maintenance fluid
  - 4,2,1 rule for calculating maintenance fluids ml/ kg/ hr
 
@@ -42,4 +47,6 @@
     + sodium:   
         * concerned about osmotic demyelination @excessive increase. cutoff 8 mmol/ L increase of serum Na per day. == slow provision of fluid delivry.
 - Bloods
-1
+
+# Replacement fluid therapy
+- max rate of replacement is 25 ml/ kg per hour

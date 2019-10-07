@@ -90,6 +90,7 @@
         * endometriosis, fibroids
 
 # IVF
+    rocket to get sperm to destination, also for pre implantation genetic diagnosis
 - is best applicable for MAle facotrs @can overcome issue sof sperm not being able to traverse the uterine tract to the egg to fertilise. 
 -   process
     + Super ovulation (with FSH and GnRH suppression)
@@ -195,4 +196,32 @@
     + Spironolactone
         * for hirsutism
     + Clomiphene
-        * helps to allow ovulation, endomeetrial protection
+        * helps to allow ovulation @centrally acting estrogen receptor antagoninst == LH surge == ovulation. dont take @unexplainied uterine bleeding
+
+
+
+# Male factor infertility
+    categories
+        endocrine/ systemic disorders - 2-5 %
+        primary testicular defects in spermatogenesis - 65-80% 
+        sperm transport disorders - 5%
+        idiopathic male infertility
+- endocrine/ systemic
+- approach
+    + HE: 
+        * detailed female partner history (as with female). 
+        * sexual dev history, testicular descnet, pubertal development, loss of body hair
+        * systemic illness/ history of head tauma/ pelvic trauma
+        * infection past history of mumps orchitis/ STIs/ genitourinary tract infections
+        * surgical procedures (eg vasectomy/ orchiectomy)
+        * drugs (smoking and alcohol, chemo, drugs that cause hyperprolactinaemia)
+        * examination: androgen deficiency (micropenis, loss of 2ndary sexual characteristics, or Tanner stage less than 5, orchidometer to determine teseticular volumes)
+    + Investigations
+        * Semen analysis
+            - semen volume and pH
+            - microscopy:
+                + sperm conc, count, motiltiy and morphology
+                + debris and agglutination
+                + leuk count
+                + immature germ cells
+        * @low sperm count %follow with testosterone to look for klinefelter's syndrome

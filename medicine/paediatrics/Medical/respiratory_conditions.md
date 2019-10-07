@@ -2,9 +2,38 @@
     @young == get 6-12 infx per yeaer. usu cough <3 weeks, @longer == must rule out other causes.
     asthma usu not present with cough
     URTI is the most common cause, self limtiing and does not need treatment.
-
+[malacia; softness]
+[stridor; abnormal hight pitched sound @turbulennt airflow through partially obstructed upper airway]
 # Approach to wheezing child
     common pres @young, 20% infants wheeze, 40% children under 6 have at least 1 wheezing episode. 
+- ddx
+    + asthma
+    + foreign body
+    + bronchomalacia
+    + congenital cardiac disease
+    + congenital structrual airway abnormality
+    + GERD (aspiration lung disease)
+
+# Noisy breathing
+- class
+    + wheeze (high pitched, usu expiratory, lower airways)
+    + stridor (upper airway, usu inspiratory)
+        * vocal cord paralysis
+        * obstruction of upper airway
+        * Laryngomalacia
+        * subglottic stenosis
+        * subglottic haemangioma
+        * laryngeal web, cyst, laryngocele
+        * cystic hygroma
+        * tracheomalacia (softness of trachea == collapses @expiration) == stridor
+        * external tracheal compression (vascular ring)
+    + stertor
+    + ruttles
+- examination
+    + skin: skin lesions (eg strawberry haemangioma) == these can be within larynx == obstruction.
+    + sounds
+        * stridor (usu inspiratory but as it becomes severe then becomes biphasic)
+        * wheeze (expiratory @occurs with collapse of airways @increase in thoracic pressure.)
 
 # Approach to Persistent Cough
     Whooping Cough (time course and presence of cough fits)
@@ -15,6 +44,7 @@
     Cardiac failure
     Inhaled foreign body
     anaphylaxis
+    Protracted bacterial bronchtiis
 - H
     + cardinals
     + paroxsymal coughing: pertussis/ foreign body
@@ -109,8 +139,10 @@
 
 --------------------------
 # Bronchiolitis
-    clinical diagnosis common in chyildren with supportive management
+    clinical diagnosis! common in children with supportive management
     usu <2 yrs old.
+    extremely common, almost 100% get bronchioltiis before age of 2 yrs.
+    only 1% o childrsn with Bronchiolitis are admitted to hospital.
 - medical
     + rf
         * <12 months. over 2 == protective. 
@@ -118,6 +150,8 @@
         * lasts 7-10 days with a peak in severity on day 2-3 of illness. however %cough persists for weeks.
     + complications
         * asthma exacerbation @underlying asthma
+    + etiologies
+        * ++@RSV, parainflueza, human metapenumovirus, adenovirus
 - clinical
     + aim is to determine severity (milld, moderate, severe) basedo n clinical indicators and saturation 
         * Mild: Normal behaviour, RR normal, no chest wall contractions, O2>92, no apnoeic episodes, feeding normal
@@ -128,9 +162,9 @@
         * behaviour normal? feeding etc.
     + E
     + I
-        * usu none required
+        * nasopharyngeal apsirate %done, ohwver d not require this for diagnosis of bronchioltiis
         * Not done usu: Virological testing/ Serology
-        * @severe == %do CXR == perihilar fullness @RSV. however @CXR == often treat with unnecessary abx
+        * @severe OR very focal symptoms on auscultation == %do CXR == perihilar fullness @RSV. however @CXR == often treat with unnecessary abx
 - management
     + supportive treatment
         * mild (usu discharge, monitor in ED with 2 measurements, ensure small freq feeds, eeducate and reassure)
@@ -144,14 +178,17 @@
 
 # Community acquired pneumonia
     rule out wheezing syndromes
+    ++@Strep pneumo, %mycoplasma, %Hib, %GAS
 - clinical
     + H
         * persistent fever, tachypnoea at reest, cough, increased WOB, lethargic
     + E
         * %hypoxaemia, crackles, ++RR for age, chest wall retractions, nasal flaring, grunting, apnnoea
-        * %pleural effusions
+        * %pleural effusions (decreased air entry, reduced chest expansion and dull percussion note), %%scoliosis towards the side of the effusion.
     + I
         * CXR not routinely done esp @mild diseasea. @will be admitted/ severe == PA CXR taken. followup @fails to improve after 48-72 hrs of abx
+            - CXR @monitoring @look for parapneumonic effusion/ empyema (loculated @tracking up thoracic wall?)
+            - USS used @differentiates pleural fluid form solid lung. ?septations/ loculations
         * UEC important @SIADH in children -- definitely do this if giving IV fluids!
         * FBE @suspect sepsis
         * only BC / viral pathogenswabs in severe disease
@@ -165,13 +202,17 @@
         * ceftriaxone 50mg/kg dailly + flucloxacillin 50mg/kg IV 6 hourly.
         * %add Vanc if MRSA suspected
         * %add Azithromycin macrolide 10mg/kg IV daily @not responding to treatment
+    + @empyema (requires GA for both)
+        * VATS
+        * chest drain + fibrinolytics (breaks down septation and fibrous element to empyema)
     + @influenza
         * %give NA inhibition (ostelamivir) @severe/ PICU/ other cardiopulmonary disease
     + transfer to tert care:
         * @FiO2 requirement >50%
 
 # Laryngomalacia
-    congenital softening of tissues of larynx above vocal cords == stridor. presents first month of life, differential for dyspnoea of young infant.
+    most common == stridor @infants. congenital softening of tissues of larynx above vocal cords with the epiglottic folds collapsing onnto the airway == stridor as an upper airway obstruction partial. presents first month of life. 
+    omega shaped epiglottitis.
     usu resolve without surgery by 18-20 months. %struggle @breathing/ eating/ gaining weight
 - medical
     + etiology
@@ -181,14 +222,15 @@
     + %high pitched sounds
     + FTT
     + difficult feeding
-    + choking while feeding
+    + choking while feeding, and the breathing gets worse @feeding or cyring. 
+    + get worse as they get more active of the 
     + apnoea
     + pulling in neck and chest with eeach breath
     + cyanosis
     + GERD
     + I
-        * NPL - nasopharyngolaryngoscopy to visualise vocal cords
-        * %follow with Xray neck, airway fluoroscopy, microlaryngoscopy, bronchocoscopy, pH prove and esophagogastrroduodenoescopy, functional endscopic evaluation of swallow
+        * NPL - nasopharyngolaryngoscopy to visualise vocal cords.  (endoscopy without anaesthetic)
+        * %follow with Xray neck, airway fluoroscopy, microlaryngoscopy, bronchocoscopy (requires GA), pH prove and esophagogastrroduodenoescopy, functional endscopic evaluation of swallow
 - treatment
     + 90% self resolving 18-20 months. 
     + @severe
@@ -248,3 +290,31 @@
     + refer immediately @severe upper airway obstruction and failure to respond to treatment == ICU/ anaesthetics
     + defer IV access
     + DC stridor free at rest AND has had 4 hours of neb adrenaline OR 30 minutes after steroid administration
+
+
+# Protracted BActerial bronchitis
+    most common of 
+- treamtent
+    + 4 weeks of augmentin that will cover likely. often abx used previously but cough never went away. thus need long term course.
+
+# Chronic suppurative lung disease
+    Causes
+        PCD (primary ciliary dyskinesia)
+        Immune deficiencies
+        Bronchiectsis
+        Aspirated foreign body
+        Cystic fibrosis
+        Tuberculosis
+- @chronic inflammation and damage to lung parenchyma == widening of airways with bronchiectasis, fluid accumulation and mucous.
+- investigations
+    + CXR/ CT 
+        * signet ring sign. airway large than surrounding vessel. 
+    + LFTs
+    + nasal NO (PCD)
+    + sweat test (Cl  must be under 40)
+    + immunology screening (total IgG)
+
+# Cystic fibrosis
+- screening
+    + measurement of immune reactive trypsinogen. the highest 1% are then tested for most common CF mutations. then find if they are heterozygeous/ homozgous == then do the sweat test. 
+    + @positive sweat test == diagnosed wth CF.

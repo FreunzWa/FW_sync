@@ -1,6 +1,5 @@
 ###### Asthma
 
-
 # Acute asthma assessment and management
     @reversible airways obstruction and bronchospasm. 
     ++@viral infection == exacerbation
@@ -58,6 +57,8 @@
             * PICU respiratory support (facemask CPAP, biPAP, intubation, IPPV, ECMO? but limited evidence)'
     + LONG TERM
         * Asthma Action Plan 
+        * Preventers
+            - 
 - discharge
     + @1hr after intiitation of treamtenn @clinically well, parents are educated, adequate oral intake, even @mild hypoxia (90-94) can still discharge @clinically well. (there are written criteria for DC)
         * MUST have written action plan (Asthma Action Plan)
@@ -87,3 +88,13 @@
     + While waiting, continuously repeat steps 2 and 3. 
 - Ongoing
     + Preventer @needed, every day.
+
+
+# Evaluating worsening asthma
+- review puffer and spacer use
+- query compliance to taking medications
+- consider alternative diagnoses that could be worsening asthma (vocal cord dysfunction, anxiety)
+
+# Evaluating asthma
+- poorly controlled asthma
+    + more than 1 reliever per week suggests possibly poorly controlled asthma, especially if not associated with exercise

@@ -1,8 +1,29 @@
 ###### Acid base theory
 
+# Steps to interpreting a blood gas
+- look at pH to look for acidaemia/ alkalaemia
+- respiratory component: PaCO2 
+- primary respiratory acidosis @hypoventilation
+    + pH <7.35 and bicarb normal
+
+#  Base excess
+    used to determine degree of metabolic disturbance
+    The amount of fixed acid or base added to blood sample to bring to pH of 7.4
+- base excess: is dose of acid/ alkali to return in vitro blood to normal pH (normal BE is -3 to +3)
+- SBE: dose of acid/ alkali to return ECF to normal pH. this is used for anaemic blood
+- interpretation
+    + for low BE, i.e. less than -3, means that there is decreased base excess, so base must be added. there is a metabolic acidosis.
+    + a high BE means that there is a M.alk
+
+
+
 # Anion gap
+    observed gap  between positive and negative charge species.
+    used to determine presence of unmeasured ions.
+    usu 8-16 mmol/L  
+[form; Na+ - (Cl-+HcO3-)]
 - an observed gap between the amount of measured cations and measured anions. but because of the law of electrical neutrality it also reflects changes in uncharged species as well. 
-- how changes in UA, UC, MC, MA affect AG
+- how changes in Unmeasured Anions, UC, MC, MA affect AG
     + UA:
         * increased: measured cations will increase, or less MA will be required to maintain electrical neutrality, thus the AG will increase.
         * decreased: less cations, or compensatory increase in MA will be required to maintain electrical charge, thus the AG will decrease

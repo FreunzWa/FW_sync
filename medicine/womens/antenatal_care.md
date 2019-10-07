@@ -27,7 +27,7 @@
         second dose of anti-D
     38 weeks: shared care doctor/ midwife
     39 weeks: shared care doctor/ midwife
-    40 weeks: shared care doctor 
+    40 weeks: shared care doctor
     40-41 weeks: induction of labor booking, US and fetal monitoring
 
 # First antenatal visit
@@ -49,7 +49,7 @@
         * uterine enlargement (12 weeks abdominally, vaginal enlargement by 8 weeks, but generally unhelpful)
     + investigations
         * serum B-HCG (100% reliable SN/SP, rare exception of choriocarcinoma)
-        * Urinary CG (cross reacts with LH, -=% false negatives and false positives). 
+        * Urinary CG (cross reacts with LH, -=% false negatives and false positives).
 - gestational age
     + investigations
         * dating scan (most accurate @consistent growth over all fetus up to 20 weeks).
@@ -66,13 +66,13 @@
     + examination
         * general appearance, anthropomorphics (DM, met syndrome, short == difficult delivery), vital signs
         * upper limb, H&N, chest, abdomen, lower limb, neur
-        * gynaecological: external insepction, speculum and bimanual 
+        * gynaecological: external insepction, speculum and bimanual
     + investigations
         * haematology (Hb, platelets, MCV) MCV rule out anaemia/ thalassaemia (thal major risk, need testing)
         * blood bank (blood group, rhesus typing, antibodies) -- dx and prevention of red cell iso-immunisation
         * microbiology (rubella Ab, VZV @uncertain hisory, syphilis Ab, HepB/C, HIV) -- prevent infection in current pregnancy, vaccinations in puerperium to prevent infection of baby
         * MSU mcs (6% women have asymptomatic bactiuria, 1/3 then get pyelonephritis)
-        * cytology (CST only @due during the pregnancy) 
+        * cytology (CST only @due during the pregnancy)
         * biochemistry (serum screen for Tri21, NiPT)
         * imaging (nuchal transclucency, 19 week morphology) -- diagnose T21
 - rx of problems (optimisation)
@@ -83,13 +83,13 @@
 - general advice
     + diet, mineral and vitamin supplementation (Fe, Calcium, VitD, Folate -- but now too late to commence, Iodine -- increased requirement esp @Iodine deficient in Melbourne), listeria (serious infection, soft cheeses but these are uncommon, uncooked chicken)
     + exercise
-        * avoid strenuous @== smaller birth weight and bad outcomes -- the barker hypothesis. moderate ok. 
+        * avoid strenuous @== smaller birth weight and bad outcomes -- the barker hypothesis. moderate ok.
     + drugs
         * must moderate both smoking (++perinatal mortality) and alcohol (teratogenic)
     + sex
-        * sex is fine 
+        * sex is fine
     + working
-        * most choose to cease work @34 work, some are recommended to cease sooner @placental insuffieincy or elevated BP 
+        * most choose to cease work @34 work, some are recommended to cease sooner @placental insuffieincy or elevated BP
     + medication
         * paracetamol fine (esp for headaches)
         * maxolon for nausea ok
@@ -128,9 +128,9 @@
 - 1/400 have perinatal death/ disability @going beyond 38 weeks
 
 # Immunisations in pregnancy
-- generally ideally given prior to conception as per the adult guidelines for vaccinations, but @special cases given during preg. 
+- generally ideally given prior to conception as per the adult guidelines for vaccinations, but @special cases given during preg.
 - vaccines are given @non immune, when there are risks of high exposure and the vaccine is unlikely to harm fetus/ mother. immunisation is effective in pregnant women despite immune changes @pregnancy
-- timing of vaccination can be important @changes to placenta == variability of transfer to fetus depending on teh stage. 
+- timing of vaccination can be important @changes to placenta == variability of transfer to fetus depending on teh stage.
     + eg for pertussis vaccine, 27-36 weeks maximum in placental transfer to the fetus
 - generally all but live vaccines are considered safe. (live vaccines have the potential for infecting the fetus -- however harmful effects have not been reported, however cannot be totally excluded. only exception @there is a very high risk of exposure to somethng like YF/ polio)
     + @inadvertently given vaccine before knowing pregnancy == must be counselled on the potential effects on fetus

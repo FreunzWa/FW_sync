@@ -29,10 +29,12 @@
     + rocking and patting the baby
     + provide reading information
 
-# Normal crying
-    normal crying @young infant. 
-    avg 2-3 hours per 24 hours at 6-8 weeks old
-+ .>3 hours/ day for >3 days per week. "colic"
+# Cyring and sleep
+- normal behaviour @inconsalable crying in first weeks-months. thse are normal but can be distressing.
+- total crying hours peak at 2 months. lower levels @4-5 months.
+- avg 2.5 hrs per day on average at its absolute peaek
+- normal feeatures unique to infanncy
+    + %infant seems to be in pain but they are not. %crying lasting 1-2 hours or more/ cluster in late afternoon and evening.
 
 # Colic
     simply excessive crying: >3 hours/dady for >3 days/ week.
