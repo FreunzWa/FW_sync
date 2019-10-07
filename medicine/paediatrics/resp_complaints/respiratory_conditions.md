@@ -62,82 +62,6 @@
         * further investigations
         * rule out whooping cough, asthma, foreign body inhalation, sinusitis, CXR @no other obvious cause + followup with a paediatrician.
 
-# Whooping cough
-    @bordatella pertussis, airborne GN aerobic encapsulated. 
-    Clinical Course/ Natual history
-    Incubation period (5-10 days), but usu 7-10. contrast with 1-3 incubation of cold
-    Catarrhal stage (1-2 weeks), mild prodromal stage w/ cough
-    Paroxysmal stage (1-6 weeks)
-    Convalescent stage (weeks-months)
-[catarrhal phase; prodroma ]
-- medical
-    + highest risk @<6 months old, high risk of complications (apnoea, severe pneumonia, encephalopathy)
-    + rf
-        * not IUTD, but can still occur == not as severe.
-        * contacts (contagious up to 21 days after onset of cough @untreated)
-    + mx
-        * BP cannot survive outside body 'fastidious' == only through close airborne contact
-        *  bacteria adheres to ciliated resp epithelial cells of URT == stimulates inflammation and breakdown of epithelium == microaspiration of damaged resp cells
-    + complications
-        * prolonged apnoea/ desaturation/ resp failure
-            - mainly @infants <6 months
-            - %spotaneously @vagal stimulation
-        * rib fracture
-        * pulmonary hypetension
-        * cardiac failure
-        * pneumonia -- high mortality ~80%
-            -  == +++WCC, pulmonary hypertension. highest predictor of mortality. intra alveolar hemorrhage and dense leuk infiltrate.
-        * seizures/ encephalopathy
-        * death
-            - usu @<6 months, @not olld enough to have completed pertussis vaccinations.
-        * asthma exacerbation @underlying
-- clinical
-    + H
-        * cough/ coryza for one week (catarrhal phase), followed by ++severe paroxysmal cough in phases. 
-        * cough usu worse@ night. 
-        * %fever
-        * %present as non-specific persistent cough
-        * %vomiting @coughing spaasm.
-        * %cyanosis @coughing spasm == apnoea
-        * highly contagious == other members of family infected
-        * milder cough lasting for months after the paroxysmal phase
-        * @babies == may not cough that much but rather apnoeas/ cyanosis. 
-        * @adult == usu no whoop sound. 
-    + E
-        * severe coughing @in middle of spasm, but otherwise generally no signs.
-        * %cyanosis @apnoea due to coughing
-        * usu no fever.
-        * high pitched whooping sound may be heard after coughing fit
-    + I
-        * nasopharyngeal swab for PCR. usu negative after 21 days or 5-7 days after starting abx
-        * IgA positive for BPertussis but rarely done
-- management
-    + Abx
-        * consider @
-            -  diagnosed in catarrhal other early paroxysmal phase to reduce severity.
-            -  already admitted/ <4 months of age.
-            -  complciations present (eg pneumonia, cyanosis/ apnoea)
-            -  coughing for leess than 14 days to reduce spread
-        * usu with macrolide (Azithromycin), otherwise Bactrim  
-    + hospital admission 
-        * esp @<4 months/ presence of complications == admit @high risk of deteiroriation.
-        * referral to PICU @++WCC > 30 x 10^3
-    + infection control
-        * exclude school or contact with other children for 21 days of coughing or 5 days of treatment.
-    + notificiation
-        * notify all cases suspected or confirmed to CDS Victoria
-    + still recieve all DTPa vaccinations
-    + supportive care @complications
-        * apnoea (mech vent)
-        * seizure treatment
-        * ECMO / exchange trasnfusion
-- prophylaxis for infants
-    + aim to stop spread to <6 months.
-    + @IUTD and full pertussis done with 3 doses completed at 8 months == do not need
-    + only @history of close contact
-    + same antibiotics as above
-
---------------------------
 # Bronchiolitis
     clinical diagnosis! common in children with supportive management
     usu <2 yrs old.
@@ -244,6 +168,7 @@
                 + needing extra O2 to breathe
                 + other cardiopulmonary disease
 
+<<<<<<< HEAD:medicine/paediatrics/Medical/respiratory_conditions.md
 
 # Croup (laryngotracheobronchitis)
     URT inflammation @virus, ++%parainfluenza virus, most common @6 months - 6 years
@@ -318,3 +243,5 @@
 - screening
     + measurement of immune reactive trypsinogen. the highest 1% are then tested for most common CF mutations. then find if they are heterozygeous/ homozgous == then do the sweat test. 
     + @positive sweat test == diagnosed wth CF.
+=======
+>>>>>>> 04a8138d419df2d99c82e88b2f0933c4831f1e72:medicine/paediatrics/resp_complaints/respiratory_conditions.md

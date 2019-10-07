@@ -12,12 +12,13 @@
     Other
         atrophic vaginitis
         desquamative inflammatory vaginitis
-
+[lichen; from the greek tree moss, unknown why called this but named long ago, potentially thought was @fungus. however in this context means leathery - hardenning of the skin @chronic inflammation with characteristic surface markings]
 # Dermatoses
-- Lichen sclerosus (LS)
+- Lichen sclerosus (LS); hardening
+    + 1 in 80 women affected
     + most common vulval disorder, lifelong condition
     + ?@autoimmune disease, assoc with certain HLA subtypes.
-    + more common @peri/ postmenopausal women
+    + more common @peri/ postmenopausal women >50
     + clinical
         * 20% asymptomatic
         * pruritic vulvae, occurs periodically, resovle spontaneously every few weeks.
@@ -30,10 +31,11 @@
         * avoidance of irritants
 - Lichen simplex chronicus (LSC)
     + 2nd most common vulval lesion
+    + well circumscribed lesions, can occur other parts of the body
     + usu @chronic contract dermatitis/ emotional stress
     + usu majora affected, usu bilateral
     + clinical:
-        * licehnification
+        * licehnification, hardening of vulval areas
     + treat:
         * well treaeted with local steroids, %recurrence
         * avoidance of irritants eg soaps/ pads/ panty liners
