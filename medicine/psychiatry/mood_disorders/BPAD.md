@@ -1,4 +1,6 @@
 ###### BPAD 
+    disorder of alternating manic and depressive periods
+
     Bipolar I disorder
     Bipolar II disorder
     Bipolar III disorder
@@ -26,7 +28,7 @@
     + mood stabiliser
 
 # Ongoing Investigations
-- lithium tests
+- lithium tests (monitorign treatment efficacy and toxicity)
     + baseline thyroid function, UEC, urinalsis, creatinine clearance, FBE
     + ECG
     + especially in older women, then repeat TSH, T3, T4 every 6 months
@@ -56,37 +58,42 @@ presentation
 - psychological (education, adjustemnt lifestyle, harm reduction)
 
 -----------------------------------
+# Manic episode
+ - DSM-5 
+    + Manic episode
+        * elevated/irritable mood >1 week
+        * 3+ of DIG FAST
+        * impairment
+        * not @organic
+        * +delusional features / requiring hospitalisation
+    +  Hypomanic episode
+        * elevated/ irritable mood >4 days
+        * 3+ of DIG FAST (but less severe)
+            - eg grandiose == elevated self esteem
+            - thought form more organized @hypomania
+            - speech loud and rapid but not necessarily pressured
+            - risk taking behaviour not as severe
+        * impairment
+        * not @organic
+- clinical
+    + time course
+        * manic episode
+            - usu sudden onset (over few days)
+            - duration weeks-months
+        * hypomanic episodes
+            - are generally shorter, resolve within weeks
+- Triggers
+    + antidepressants (changing)
+    + stress/ sleep wake cycle dysfx/ emotional stimuli
+- Types of mania
+    + 
+    
+
+
 # Bipolar I disorder
 - basics
     + manic episode, preceded and potentially followed by hypomanic/ major depressive episodes. the manic episodes are the distinguishing factor from BP2D
 - diagnosis
-    + DSM-5 
-        * MANIC EPISODE
-            - (a) distinct period of abnormally and persistently elevated expansive/ irritable mood and abnormally/ perisstenly increased activity lasting >1 week and present most of the day, most days
-            - (b) during the period of increased energy, 3+ of the following are present
-                + grandiosity
-                + decreased need for sleep
-                + more talkative than usual/ pressure talking
-                +  flight of ideas or subjective experience that thoughts are racing
-                +  distractibillity
-                +  increase in goal directed activity / psychomotor agitation
-                +  excessive involvement in activitiese that have a high potential for painful consequences
-            -  (c) mood disturbance is severe enough to cause marked impairment in social or occupational functioning (usually requiring hospitalisation or associated with thought disorders/ other positive psychotic features)
-            -  (d) episode is not attributable to physiological effects of a substance or medical condition
-        *  HYPOMANIC EPISODE
-            -  A. A distinct period of abnormally and persistently elevated, expansive, or irritable mood and abnormally and persistently increased activity or energy, lasting at least four consecutive days and present most of the day, nearly every day.
-            - B. During the period of mood disturbance and increased energy and activity, three (or more) of the following symptoms (four if the mood is only irritable) have persisted, represent a noticeable change from usual behavior, and have been present to a significant degree:
-                1) Inflated self-esteem or grandiosity.
-                2) Decreased need for sleep (eg, feels rested after only three hours of sleep).
-                3) More talkative than usual or pressure to keep talking.
-                4) Flight of ideas or subjective experience that thoughts are racing.
-                5) Distractibility (ie, attention too easily drawn to unimportant or irrelevant external stimuli), as reported or observed.
-                6) Increase in goal-directed activity (either socially, at work or school, or sexually) or psychomotor agitation.
-                7) Excessive involvement in activities that have a high potential for painful consequences (eg, engaging in unrestrained buying sprees, sexual indiscretions, or foolish business investments).
-            - C. The episode is associated with an unequivocal change in functioning that is uncharacteristic of the individual when not symptomatic.
-            - D. The disturbance in mood and the change in functioning are observable by others.
-            - E. The episode is not severe enough to cause marked impairment in social or occupational functioning or to necessitate hospitalization. If there are psychotic features or hospitalisation, the episode is, by definition, manic. 
-            - F. The episode is not attributable to the physiological effects of a substance (eg, a drug of abuse, a medication, or other treatment).
         * Major depressive episode
             - A. Five (or more) of the following symptoms have been present during the same two-week period and represent a change from previous functioning; at least one of the symptoms is either (1) depressed mood or (2) loss of interest or pleasure.
             NOTE: Do not include symptoms that are clearly attributable to another medical condition.

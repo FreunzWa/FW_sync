@@ -4,6 +4,24 @@
 [EE; Ethinylestradiol]
 [EV; Estradiol valerate]
 
+# Structure of counselling
+    check for patient understanding, get them to repeat
+- check patients understanding of the different options available
+- establish why patient wants a specific mode of contrapceiton - explore their ideas, concerns and expectations
+- explain what the mode of contraception is (eg what hormones it contains and explain that these are also produced by ovaries)
+- effectiveness (% effectiveness, specify with ordinary use and perfect compliance use)
+- check for contraindications
+    + past medical history
+    + medications (drug interactions)
+- pros/ cons
+    + "If its okay I'd like to go through the benefits and disadvantages of the pill, to help you make a decision"
+- how to take it
+- closing consultation
+    + further questions or concerns
+    + direct the patient to websites/ leaflets
+    + stress that it is entirely the patients choice, give them time to think about decision
+    + encourage condom use @STIs risk
+
 # Methods
 - condoms (female and male condom inserted @each use. female c is less available and more expensive)
 - diaphragm (silicon flexible outer spring and dome of material, no longer available @australia. must stay in place after intercourse. lowest eefficacy figures for typical use. no decrease in STIs however.) used @combination with spermicide, can stay up for 24 hours.
@@ -28,7 +46,10 @@
 
 # Pill methods of contraception
 - COCP
-    + stops ovulation by preventing the LH surge
+    + works by containing hormones estrogen and progestrone - the same hormones that are naturally produced by your ovaries. 
+        * stops ovulation each month
+        * thickens mucus around cervix which stops sperm from entering the womb
+        * thins the womb lining == will not accept a fertilised egg
     + either EE or EV + progestogen
     + all packaged @28 tablets, with 4-7 sugar tablets.
     + advantage
@@ -44,11 +65,16 @@
     + Contraindications
         * IHD, past or current breast cancer, liiver disease, migraine with aura, VTE, breastfeeding, uncontrolled hypertension, smoker past 35
     + Counselling
+        * condoms needed for first 7 days of taking the pill
         * 1 pill per day @ same time
         * immediately protected @up to and including 5th day of period, otherwise not until taking for 7 days
-        * @up to 24 hours late, take the missed pill as soon as you remember then take next pill @usu time (may mean taking 2 pills in one day)
+        * @up to 24 hours late, take the missed pill as soon as you remember then take next pill @usu time (may mean taking 2 pills in one day) - maybe just say 1 pill missed, 2 pills missed
         * @>24 hours late: take the missed pill as soon as remember (up to 2 in one day). then use condoms as well for 7 days. if get to the sugar pills in these 7 days, then skip them. 
         * @vomit/ diarrhoea within 2 hours of taking pill then take another.
+    + types
+        * monophasic 21 day pill (same ant of hormone in eahc pill). 7 day break
+        * phasic 21 day (different amnts of homrne taken in correct order)
+        * EveryDay pill - 21 pills then 7 days of placebo pills
 - MiniPill (POP)
     + does not stop ovulaton but changes mucus so that the sperm cannot get through
     + Counselling

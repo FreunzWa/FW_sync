@@ -74,11 +74,12 @@ Old terms (now all AUB/ HMB)
         Ovulatory dysfunction
         Endometrial
         Iatrogenic
-        Not classified
+        Not classified? 
 
     Some medical causes
         Coagulopathy
         Hypothyroidism
+
 - dysfunctional uterine bleeding 60% (no obvious cause)
     + typically @irregular bleeding, 90% anovulatory. diagnosis of exclusion after ruling out anatomical cause
         * [10%] *ovulatory DUB* (endometrial causes): probably @++prostaglandin release == ++bleeding @decreasing platelet aggregation

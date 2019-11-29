@@ -2,7 +2,7 @@
 
 
 # Nutrition by stage
-- infantile
+- infant
     + normal weight gain:
         * 0-3 months: 150-200 g/ week
         * 3-6 months: 100-150 g/ week
@@ -20,55 +20,28 @@
         * common cause of anxiety, but unlikely nutritionally deficient diet @appetite.
         * often snack more and eat less @meals
 
-
-# Failure to thrive
-    <3% for weight or drops 2%iles.
-- avoid term FTT with parents (slow growth better)
-- ++not @organic cause. 
-- @birth weight percentile does not necessarily predict future weight can appear that baby decelerating growth or dropping centiles but actually just attaining normal weight
-- HEI
-    + H
-        * growth patterns of other family members
-        * detail on feeding history 
-            - intake (what is consumed), when were solids added
-            - vomit? 
-            - stool consistency and frequency (detail here)
-            - weight, gestation, complications
-            - past history fo illness/ recurrent infections
-            - family ihstory (screen for maternal depression or family strain)
-    + E
-        * ricketts (bow leg, wide fontanelle, number of teeth)
-        * muscle bulk, subcut fat deposites, ankle/ sacral edema
-        * hands: clubbing/ koilonychia
-        * abdomen: protrusion of abodmen (celiac disease)
-- medical
-    + etiology
-        * prenatal causes:
-            - prematurity, maternal malnutrition, toxic exposure in utero, alcohol, smoking, medications, infection, IGUR, Chr Abns
-        * post natal causes (3)
-            - poor absorption
-                + Anatomical GI abn, malabsorption, Pancreatic condition, inborn errors of metabolism
-            - inadequate intake
-                + vomiting
-                + GI pain/ dysmotility
-                + low appetite/ chronic illness
-                + inability to suck/ swallowing issues
-            - increased metabolic demand
-                + HIV
-                + Malignancy
-                + Renal failure
-                + Thyroid disease
-                + Cardiopulmonary/ inflammatory disease
-        * non organic causes
-            - poverty, neglect, difficult child
+# Iron deficiency
+    most common cause of anamiea @children. (IDA)
+    usu nutritional disorder (excessive cow milk or -=red meat)
+    %%GI bleeding/ malabsorption
+- most cases of iron deficiency can be treated with iron supplements.
+- clinical features
+    + impaired cognitive function (decreased memory, impaired learning concentration)
+    + behavioural disturbance
+    + fatigue
+    + PICA
+    + underlying cause:
+        * adolescent heavy menstrual bleeding
 - investigations
-    + FBE and film (microcytic aneamia @iron deficiency)
-        * Iron studies and ferritin
-    + Vit B12, folate, Zinc, selemium
-    + Sweat chloride levels (CF)
-    + Urine culture/ urinalysis
-    + creatinein, electrolytes
-    + ESR (raised @IBD)
-    + Stool cultures (ova, cysts, parasites)
-    + Celiac screen
-    + Mantoux test (immunity to TB)
+    + screening serum ferritin is best
+        * dont do serum iron (reflective of recent intake)
+        * may be artificially elevated @coexisting infection
+    + FBE (IDA)
+- management
+    + iron supplements
+    + increase iron rich foods
+    + cow milk
+        * not offer @<12 mth
+        * <500mL / day @>12 m
+    + refer to diettiai
+    + IV iron @persistent iron despite PO therapy or CI @PO treatmnt.

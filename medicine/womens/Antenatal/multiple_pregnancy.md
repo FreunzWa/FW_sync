@@ -43,6 +43,26 @@
     + intrapartum: PPH
     + fetal complications: ++risk of congenital malformations, FGR, premature birth, complciations with delivery
 
+# Complications of multiple pregnancy
+- maternal
+    + Antenatal:
+        * symptomatic: ++reflux, back pain, N/V, HEG higher rate, breast tenderness
+        * T1: HEG, threatened abortion, miscarriage, increased fetal abnormalities
+        * T2/T3: anaemia, CI, GDM, PET, PPROM, HTN, polyhydramnios (TTTS), social, APH, IUGR, premature delivery, perinatal death/ morbidity, placental abruption
+    + Intrapartum
+        * Malpresentation
+        * PPROM
+        * Preterm labor
+        * Failure to progress
+        * Poor contraction
+        * increased risk of trauma
+        * placental abruption (@delivery of 1st twin usu)
+    + Postpartum
+        * increased PPH risk (atony/ uterine exhaustion)
+        * -=breast feeding for both 
+        * difficult to look after both at once
+        * ++risk of PTNDepression
+
 # Monochorionic twins
 - monitoring
     + should be monitored every 2-3 weeks from 12 weeks to determine TTTS presence.

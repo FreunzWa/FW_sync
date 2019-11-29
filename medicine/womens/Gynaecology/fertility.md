@@ -1,13 +1,109 @@
 ###### Fertility
-    >80% will achieve pregnancy by 6 months 
-    >90% will achieve pregnancy by 12 months
+    defintiion: failure to concenive after 1 year of regular appropriately timed intercourse 
+
+    approx 80-85% of couples will conceive in first year of attempting
+    Most common:
+        Anovulation
+        Endometriosos
+        Tubal disease
+        Male factor
+    when to investigate will depend on what age::
     @<35, then start investigating after not pregant @12 months
     @>35, then start investigating after not pregant @6 months (more urgent diagnosis needed)
     however, @not ovulating (eg. amenorrhoea) then require immediate referral
+    management is mainly IVF, produces pregnancy in 30% oft hose unable to concenive.
+    causes 1/3 1/3 1/3 to male factor, female factor and combined.
+
+# approach
+    Vital to have both partners present
+    1/3 purely male problem
+    1/3 purely female issue (eg vulation, endometriosis)
+    1/3 combination
+
+# History
++ history
+    * sexual intercours ehistoyr
+        - duration of attempte4d conception (how long failed for)
+    * female
+        - age
+        - past reproductive history and outcomes
+        - menstrual cycle (looking for anovulator, frequency, regualirty, symptoms of ovulation)
+        - sexual history (Frequency and timing)
+        - symptoms 
+            + (eg suggestive of endometriosiis - dyspareunia, dysmenorrhoea)
+            + suggestive of PCOS (weight gain, hirsutism)
+        - age, development,  history of PCOS, prev obs and gynae history
+        - visual distrubance
+        - medications/ smoking/ drug and aclcohol
+        - past exposure to chemotherapy (gonadotoxin)
+    * male
+        - prev paternities
+        - undescended testicles, mumps, trauma, surgery including vasectomy
+        - libido, shaving, freuqency of erections
+        - ability to sustain erection through intercourse
+        - heavy alcohol intake/ exogenous sterods use
+        - past STI history
+        - occupation (heat and toxi agents)
+        - past med/ surge history
+        - fmaily history
+        - prev chemotherapy/ gonadotoxic therapy
+        - anabolic steroid use
+
+# Examination
+- examination
+    + very important @may miss obvious causes otherwise
+    + BMI (@++estrogen circulating)
+    + Male
+        * Klinefelter's syndrome (azoospermic)
+            - small testis
+            - gynaecomastia
+            - tall
+        * body habitus, height, weight BM, muscle mass and strength, fat distribution
+        * secondary sexual characteristics
+        * gynaecomastia
+        * blood pressure lying/ standing
+        * inguinal canals
+        * testicular examintaion (msases, hydrocele, size with orchidometer, presence of vas deferens/ epididymis)
+    + Female
+        * body habitus, height weight, BMI
+        * hirsutism/ acne (Ferriman-Gallwey score)
+        * visual fields
+        * galactorrhoea (prolactin)
+        * thyroid examintaion
+
+
+# Investigations
++ investigations
+    * male
+        - semen analysis (volume, count, total count, normal forms, motility, progressive motility, live)
+        - STI screen
+    * As indicated
+        - prolactin/ MRI pituitary
+        - FSH/ LH/ testostrone
+        - thyroid, adrenal
+        - karytopye
+        - Y chromosome microdeletions
+        - CF gene mutations (bil absence of vas)
+        - sperm autoAbs
+        - testicular ultrasound
+    * female
+        - ovulation confirmation (mid-luteal progesterone)
+        - anatomical/ patency (hysteroscopy, lap and dye, hysterosalpingoram, saline sonohysterography)
+        - endometriosis (US/ laparoscopy)
+        - reserve assessment (day 3 FSH and LH. and AMH levels - to get the reserve of eggs)
+        - additional @anvolation: 
+            + FSH/ LH/ prolactin 
+            + TFTs
+            + androgens
+            + bHCG
+            + MRI pituitary
+        - screening for STIs / CST withb PCR swabs/ first pass urine samples if indicated
+            + especially Chlaymida and gonorrhoea which can cause PID and salpingitis which can cause permanet scarring. 
+
 
 
 # Infertility
-    6-12 monts of regular unprotected intercourse without conception
+    12 monts of regular unprotected intercourse without conception
 - main causes
     + ovulatory dysfunction
         * ejaculatory duct blockage
@@ -17,59 +113,23 @@
     + pelvic pathology
     + testicular or ovarian failure
 
-# Initial investigations
-- pelvic anatomical assessment
-- hormonal assessment
-- sperm assessmnet
-- ovarian
-
-# Male factor infertility
-- azoospermia
-    + obstructive
-    + non-obstructive
-        * reversible (hypogonadism)
-            - steroid use most common
-            - kallmann's syndrome
-            - pituitary tumor/ surgery
-        * irreversible (testicular failure)
-            - mumps == permanent inflammatory destruction of the testis
-            - irradiation
-            - Klinefelter's syndrome
 
 # Management
 - correct reversible factors
-- keep trying
+- keep trying (especially if matenral aageage is not an issue)
 - laparoscopy
-- IUI (mild sperm issue == deliver the sperm deep into endometrium)
+- IUI (mild sperm issue == deliver the sperm deep into endometriu, without needing to take the egg out)
+    + usu only for mild male factor infertrility
 - IVC
-- ICSI. For severe male factor subfertility.
+- ICSI. For severe male factor subfertility or non patent fallopian tubes.
     + intracytoplasmic sperm injection
-    + 
-
 - Vasectomy
     + (microsurgery to reverse)
 - Donor sperm
+- cryopreservation
+    + @chemotherapy/ radiotherapy == testicular/ ovarian fa8ilure == can freeze efore == used later.
 
 
-# Fertility assessment
-    1/3 purely male problem
-    1/3 purely female issue (eg vulation, endometriosis)
-    1/3 combination
-- HEI   
-    + history
-        * female
-            - age, development, menstrual cycle, history of PCOS
-        * male
-    + examination
-        * very important @may miss obvious causes otherwise
-        * BMI (@++estrogen circulating)
-        * Male
-            - Klinefelter's syndrome (azoospermic)
-                + small testis
-                + gynaecomastia
-                + tall
-        * Female
-            - 
 
 # Anovulation
 - etiology
@@ -123,7 +183,7 @@
 # Terms
 - azoospermic
 - Fragile X (CAG repeat with expansion w/ anticipation. gets to a point where <50 copies == normal. 50-200 pre-mutation. >200 copies then full mutation == causes severe fertility issues.). more likely to spread from mother --> child. severe mental disability with typical features. can use pre-implantation diagnosis. 
-- ovarian hyperstimulation syndrome
+- ovarian hyperstimulation syndrome (use of bHCG during controlled ovarian hyperstimulation)
 
 
 # conditions affecting fertility
@@ -136,10 +196,12 @@
         * rates between thin and obese are simialr
     + mx: overexpress LH receptors in thecal cells in ovary == ++ovarian androgen. Insulin also decreases SHBG (++testerone in blood) == clinical feastures. @++testerone == failure to ovulate == anovulatory subfertility and -=progesterone == %HMB/ %cancer.
     + rx: weight loss (even @small == ++fertility, -=hirsutism, reduceed insulin resistance), PCOS (reduced endometrial hyperplasia in HMB, -=hirsutism), cyproterone (androgenism).
+- thyroid disease (hypothyroidism/ hyperthyroidism)
+- obesity/ metabolic syndrome
 
 
 # Polycystic ovarian syndrome
-    misnomer @ovaries are not cysts but rather polyfollicular
+    misnomer @ovaries are not cysts but rather polyfollicular 
     ovulatory dysfunction + androgen excess
     assoc with obesity and INS resistance.
     12% prevalence estimated, most common cause of subfertility
@@ -149,10 +211,10 @@
         * NOT elevated BMI (rates of PCOS similar -- however ++BMI exacrbates INS resistance)
     + assoc with multiple endocrine dysfunction (insulin, LH, elevated androgens from the ovaries).
     + mx
-        * @hyperINS AND @++LH secreted @pit == ++theca cells produce androstenedione which circulates and is converted in peripheral tissues to testosterone (adrenergic clinical features) and estrogen
+        * @hyperINS AND @++LH secreted @pit (due to more frequent GnRH pulsatile surges) == ++theca cells produce androstenedione which circulates and is converted in peripheral tissues to testosterone (adrenergic clinical features) and estrogen
         * also @hyperINS == less SHBG == more free DHT from any source
         * @++androgens == inhibition of ovulation == anovulatory subfertility
-        * @no progesterone == estrogne chronically unopposed == HMB, high ratees of endometrial hyperplasia and cancer
+        * @no progesterone == estrogne chronically unopposed == HMB, high ratees of endometrial hyperplasia and cancer, so therefore usualyl treated with progesterone only pills
 - clinical 
     + features
         * oligomenorrhoea (cycles >35 days or fewer than 9 periods per year), heavy menstrual bleeding
@@ -178,6 +240,11 @@
                 + ovarian volume >10mL on TVUS
         * Testing for anovulation
             - lack of LH surge or lack of progeseterone rise 
+        * progesterone tolerance test
+            - causes a withdrawal bleed
+        * mid-luteal progesterone level
+        * FSH vs. LH levels
+            - LH higher than FSH on day 3
         * Androgens
             - reduced SHBG (not diagnostic)
             - elevvated serum testosterone
@@ -198,6 +265,25 @@
     + Clomiphene
         * helps to allow ovulation @centrally acting estrogen receptor antagoninst == LH surge == ovulation. dont take @unexplainied uterine bleeding
 
+# Female factor infertility
+    multifactorial minor cause: multiple contributing factors to infertiltiy which each individually insufficient to cause infertility. 
+- anovulatory infertiltiy
+    + hypothalamic dysfunction
+        * stress, sudden weight changes, intercurrent illness, hyper or hypothyroidism
+        * PCOS is the most common, but LH higher than FSH on  day 3 of the cycle than by factor of 2:1 (usu FSH higher)
+    + pituitary dysfunction
+        * eexcess prolactin (prolactinoma of the atnerior pituitary)
+        * Sheehan's syndrome (damage to pit == cannot reeleaes FSH and LH)
+    + tubal factors 
+        * pelvic inflammaotry disease (eg PID usu @chlamydia trachomatis %%N gonorrhoeae)
+        * acute salpingitis/ %with blockage after scarring
+    + ovarian failure (raised LH/ FSH)
+    + endometriosis
+        * mx: adhesions obstruct tube, dyspareunia decreased sexual frequency, toxic environment for the oocyte
+    + coital
+        * @high frequency sperm density not decreased. timing importannt, @sperem last 5 days, oocyte 24 hours
+    + uterine factors:
+        * uterinee abnormalities eg seeptum, adhesions eg S@asherman syndrome, endometrialk  polyps/ fibroids. mullerian abnormalities (more commonly recurrent miscarraige) 
 
 
 # Male factor infertility
@@ -206,7 +292,20 @@
         primary testicular defects in spermatogenesis - 65-80% 
         sperm transport disorders - 5%
         idiopathic male infertility
-- endocrine/ systemic
+- differentials
+    + azoospermia/ oligospermia
+        * obstructive
+            - vas deferens, epididymis, ejaculatory ducts. 
+            - ++@epididymis @infection/trauma
+            - CF carrier status
+        * non-obstructive
+            - reversible (2ndary testicular failrue)
+                + Kallmann syndrome (hereditary anosmia) == low testosterone, fertility and no 2nd sexual chars'
+                + pituitary tumor/ surgery
+                + exogenous steroid use is the most common reverisble cuase ()
+            - irreversible (primary testicular failure)
+                + Klinefelter's syndrome (XXY)
+                + mumps: permanent inflammatory destruction of the testis
 - approach
     + HE: 
         * detailed female partner history (as with female). 

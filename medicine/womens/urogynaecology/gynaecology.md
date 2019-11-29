@@ -88,3 +88,10 @@
     + gold standard diagnose cause of abnormal uterine bleeding
     + indicated @AUB, endometrial thickening, submucosal fiibroids, mullerian anomalies, intrauterine adhesions, RPOC
     + CI @viable intrauterine pregnancy, active pelvic infection, known cervical/ uterine cancer
+- diagnostic laparoscopy
+    + lap and dye
+        * methylene blue is introduced into the tubes to determine patency as visualised until it spills out of the tubule ostia. may be used to determine female fertility.
+- hysterosalpingogram
+    + fluoroscopy with dye through uterus to determine shape of the tuerus and fallopoian tubes. can see tubal rupture, can be used to diagnose tubal patency issue and rupture
+- saline sonohysterography
+    + saline introduced into uterus to visualise endometrium more lcearly. easily see polyps/ postmenopasual endometrium

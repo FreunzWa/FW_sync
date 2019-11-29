@@ -70,7 +70,6 @@
 # HRT
 - When to treat?
     + @under 50 without medical contraindication == can use @just replacing normal ovarian e2
-    + 
 - estrogen + progestogen. progestogen added to prevent endometrium hyperstimulation. (post hysterectomy only need E)
 - is the most effective treatment for menopausal symptoms
 - risks

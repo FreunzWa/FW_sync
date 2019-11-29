@@ -18,8 +18,7 @@ Delirium tremens
     48 to 96 hours
 
 
---------------------------------------------------------------
-
+----------------------------------------------------------
 
 # Minor withdrawal
 - minor symptoms may still occur whilst there is an elevated BAC. these symptoms develop within 6-24 hours of last drink @alcohol dependedncee, but usu resolved within 24-48 hrs

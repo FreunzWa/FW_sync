@@ -1,6 +1,10 @@
 ###### Medications in pregnancy
 
 # Antihypertensives
+    most commonly used
+        labetalol
+        nifedipine
+        methyldopa
 [methyldopa; central a2 agonist autoreceptor == -=SANS tone]
 - !ACEis
     + safe T1, but need to change as soon as possible to another antiHTN

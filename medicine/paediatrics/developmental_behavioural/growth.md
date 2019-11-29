@@ -1,7 +1,21 @@
 ###### Growth 
     most children with slow weight gian/ growth do not have organic illness but must be ruled out.
+    growth velocity is the most imporant thing in determining pathological vs. non pathological
 
-    Causes
+    E PICNIC
+        endocrine
+        physocial
+        iatrogenic
+        chronic illness
+        nutrition
+        IUGR
+        chromosomal
+        skeletal dysplasia 
+
+    causes of FTT
+        non pathological causes
+            constitutional
+            familial short stature
         Inadequate intake
             Inadequate BF
             BF difficulties
@@ -17,11 +31,27 @@
         Psychosocial factors
 [failure to thrive; slow weight gain, dropped below 3% or dropped 2 lines]
 
+# Non pathological causes
+- constitutional and familial short stature
+    + constitutional    
+        * features
+            - short stature
+            - delayed
+            - growth rate slow
+            - height age and bone age concordant
+            - good prognosis 
+            - lack of breast development (lack of tanner stage 2) in girls 13 year old
+            - testicular volume <4 ml by age 14
+    + familial
+        * short
+        * not delayed bone growth
+        * growth rate normal in familial
+
 # Assessment of growth
 - growth charts reported @centiles @easier to communicate. 
 - tracking important @can see acceleration/ stunting over time. "following centile". even @following 3rd centile is normal. 
 - prepubertally girls and boys very similar, but post puberty boys end avg 13 cm taller than females
-- growth velocity curve:
+- growth velocity curve (most important thing)
     + height velocity (cm/yr) vs. age
     + most rapid phase of growth in first 2 years
     + growth velocity resurge @puberty (girls 1 yr before boys with lower maximum)
@@ -47,6 +77,7 @@
         *  growth hormone deficiency (growth hormone def)
         *  cushings syndrome (usu iatrogenic)
     +  function of bone receptors
+    +  
 - HEI
     + H
         * important psychosocial history (eg neglect)
@@ -103,3 +134,42 @@
 
 # Syndromatic causes
 - turner, down syndrome assoc with short stature. +other features. 
+
+# Endocrine causes
+- growth hormone deficiency
+    + usu acquired -- causes a proportional reduction in growth. (head circumfrence, height, weight)
+    + serum IGF used to screen
+
+
+# Concerning features
+- <1 percentile
+- abnormally short for family height
+- abnormal growth velocity
+- dysmorphic features (eg Turners)
+- signs of chronic illness (more weight loss than height)
+
+# Investigations
+- bone aging
+- TSH
+- IGF-1
+- GH/ FSH/ LH/ Testosterone
+- CD
+- karyotype female
+- insulin stimulation / glucagon  test
+- general medical issues FBE/ UEC/ ESR 
+
+# Treament
+- constitutional
+    + male: give T when get to 13-14 years
+    + for females, dont give estrogen
+- height <1 centile w/ growth velocity for 1 year under 25 centile. with growth hormone deficiency -- give growth hormone. 
+
+# Tall stature
+- differentials
+    + familial tall syndrome
+    + hyperthyroidism
+    + precocious 
+    + GH secreting tumor
+    + Klinefelter's syndrome
+    + Marfan's syndrome
+    + Beckwith-Widemann syndrome

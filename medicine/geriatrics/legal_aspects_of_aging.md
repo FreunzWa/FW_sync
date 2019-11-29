@@ -1,13 +1,11 @@
 ###### Legal aspects of aging
 
-# Fitness to drive
-- Assessing fitness to drive is publication of NTC and Austroads, details medical standards for driver licensing for use @health professionals and licencing authorities.
 
 # Capacity
 - clinicians role to assess capacity (eg consent for medical procedure, regarding fitness to drive, witness legal document)
 - refers to a level of cog ability required before the peson can lawfully do various things. when lack of capacity == then alternative decision making  arrangements are needed.
 - competence is the same -- in the US it is more a legal term.
-- law assumes that the person has gained capacity once they turn 18, and presumed to have capaqity unleses evidence to capacity. disproving capacity is on the onus of otheers. 
+- law assumes that the person has gained capacity once they turn 18, and presumed to have capaqity unleses evidence otherwise. disproving capacity is on the onus of otheers. 
 - difference between lacking capacity and having poor judgement (--importantly means that declining a treatemnt does not necessarily mean incapacity.)
 - lloss of capcity may prevent:
     + voting

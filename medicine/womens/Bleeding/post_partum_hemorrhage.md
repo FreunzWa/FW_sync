@@ -62,13 +62,27 @@
             - hysterectomy (last resort, but can be life saving @other measures insufficient)
 
 # Secondary post partum hemorrhage
-    almost always associated with infection + retained products of conception/ fragments of placenta.
+    almost always associated with infection OR retained products of conception/ fragments of placenta.
     also associated with similar cause to primary postpartum hemorrhage
     managmenet is the same, high risk with surgery
 [secondary PPH is any bleeding in excess of normal lochial loss between 24 hours until end of peurperium]
-- treatment
-    + investigate with Hb, vaginal swab for infection esp @discharge, USS to assess for RPOC
-    + oxytocics
-    + antibiotics
+- differentials
+    - normal lochia loss
+        + vaginal discharge after birth containing lbood, mucus, uterine tissue. continues 4-6 wks after childbirth
+    - infection
+    - RPOC
+    - gestational trophoblastic disease (choriocarcinoma)
+- clinical
+    + I
+        * FBE @Hgb levels
+        * vaginal swabs @present with febrile/ discharge
+        * USS @RPOC
+        * 
+    + M
+        * oxytocics like ergometrine/ misoprostol may control bleeding
+        * ultrasound 
+        * antibiotics for infection
+
+
 
 

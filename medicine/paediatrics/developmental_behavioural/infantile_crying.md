@@ -1,4 +1,5 @@
 ###### Infantile crying
+    >3 hours > 3 days > 3 weeks of crying
 
 # Colic
     Peak of crying (normal in first 6-8 weeks)
@@ -9,7 +10,7 @@
     Evening (more common in the evening, triggers?)
 - differentials
     + colic
-    + GORD 
+    + GOR
     + cows milk allergy (blood mucous in stools, vomiting, diarrhoea, eczema, rashes)
     + lactose overload 
 - clinical
@@ -19,6 +20,8 @@
         * lactose malabsorption + perianal excoriations
         * fever
         * picking at tear (AOM)
+        * important to screen for postnatal depression
+        * preterm baby (could have lactase deficiency)
     + E
     + I
 - management
@@ -55,11 +58,24 @@
 - clinical features
     + blood mucus in diarrhoea
     + poor weight gain
-    + family history in firtst degree relative or signs of atopy (eczema/ wheezing)
+    + ask for family history in firtst degree relative or signs of atopy (eczema/ wheezing)
 - investigations
     + diagnnosed @trial of eliminating cow milk by  modifying the mothers diet or changing to extensively hydrolysed formulae for 2 weeks.
+- treatment
+    + eliminate 
+    + can use extensive hydrlysed protein formulae for formula fed babies
 
-
+# Lactose intolerance
+    NOT made worse by the mother drinking cows milk. not caused by an allergy to milk (this is CMPA)
+    == stomach pain and explkosive diarrhoea
+    @insufficient lactase == malabsoprtive diarrhoea
+- clinical features
+    + perianal excoriation
+    + explosive diarrhoea
+- treatment
+    + formula fed
+        * lactose free and lactose alternate
+        * dont do completely lactose free
 
 
 # Acute onset crying

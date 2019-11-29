@@ -70,16 +70,26 @@
     + siilar to managemnet of preterm labor (STATIN)
 
 # Cervical insufficiency
-    painless dilatation of the cervical os == recurrent T2 pregnancy losses. 
+    painless dilatation of the cervical os == risk of recurrent T2 pregnancy losses. (13 weeks-26 weeks)
 - medical
     + causes:
-        * ED syndrome
+        * maternal ED syndrome
         * uterine abnormalities
-        * previous trauma to the cervix/ past biopsy of the cervix.
+        * previous trauma to the cervix/ past biopsy of the cervix.]
+- investigations
+    + US diagnosis with 'short cervix', the shorter and earlier in pregnancy, the highest the risk of detection
+    + beaking of cervix 'funnel cervix' (prolapse of amniotic membrane into open internal cervical os -- signifies weakness). a result of >5 mm should be considered a positive test
+    + cervical lenghts
+        * 4-5 cm in non-pregnant
+        * <2 cm is short cervical length
 - management
+    + cervical surveillance
+        * in some women, they receive serial cervical lengtth mesurements to see if the cerclage is needed at some point. 
     + cervical cerclage:
         * insertion of non absorbable suture encircles the cervix, provides resistance. 
-        * suture inserted 12-14 weeks, removed 36-37 weeks to allow spontaneous delivery
+        * suture inserted 12-14 weeks (after risk of miscarriage passed and after fetal aneuploidy testing completed), removed 36-37 weeks to allow SROM
+        * MUST remove @evidence of infection, ROM, preterm labor onset
     + progesterone treatment
-        * @short cervical length == use progesterone to suppress smooth muscle activity and reduces prostaglandin synthesis. 
+        * @short cervical length (1-2 cm) == use progesterone to suppress smooth muscle activity and reduces prostaglandin synthesis. this is used prior to 34-36 weeks and reduces risk of preterm labor by 50% 
     + Pessary
+        * further eval required

@@ -14,6 +14,8 @@
         * period of 6 weeks in which reproductive organs return to original function @childbirth
 
 # Other terms
+- Mittelschmerz pain: german for middle pain, mild pain in teh middle of menstrual cycle associated with ovulation, usu unilateeral loower abdominal pain. ~20% of women get this pain. subsides within hours, but may last longeer in some casees. 
+- primary ovarian failure: loss of ovarian fucntion prior to 40.
 - parturient (of a women, about to give birth - in labor.)
 - lochia (vaginal discharge after birth, vaginavaginacontainsvaginavagina blood, mucus and uterine tissue, continues 4-6 weeks after childhood, aka 'postpartum period')
 - 'let-down': complex. psychological elements?
@@ -42,6 +44,7 @@
 - macrosomia (large for gestational age >90th percentile at birth)
 
 # Acronyms
+- PTB: preterm birth
 - TOP: termination of pregnancy
     + MTOP: medical termination of pregnancy
     + STOP: surgical termination of pregnancy
@@ -95,6 +98,7 @@
 - S/C: shared care
 - DI
 - MAP: meconium aspiration pneumonia
+- SUDEP: sudden unexpected death in epilepsy
 - ECV: external cephalic version
 - FDIU: fetal death in utero
 - GTD: gestational trophoblastic disease
@@ -105,3 +109,5 @@
 - LNG: levonorgestrel
 - D&E: dilation and evacuation-
 - ACS: antenatal corticosteroids
+- PET: pre-eclampsia toxaemia-
+- PNM : perinatal mortlaity

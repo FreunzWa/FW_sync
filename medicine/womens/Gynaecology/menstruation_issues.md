@@ -38,7 +38,7 @@
 - primary Amenorrhoea: failure of spontaneous menstruation to occur by 16 yrs age, OR by age 15 @absence of secondary sex characteristics
     + incindence of 0.1-0.3%
 - secondary Amenorrhoea: absence of menstruation >6 months duration in woman who previously menstruated. 
-- oligomenorrhoea: reduced freq periods with cycles 6 weeks to 6 months
+- oligomenorrhoea: reduced freq periods with cycles 6 weeks to 6 months -- causes are similar. 
 - hypogonadotrophic hypogonadism: reduced ovarian function (hypogonadism) w/ low levels of stimulating hormones in the ovary. == -=estrogen / progesterone w/ low FSH and LH
 
 # Puberty
@@ -65,15 +65,17 @@
     + hyperprolactinaemia, PCOS (hyperandrogenism), estrogen producing tumors of teh ovary
 
 # Differentials
+    Head to toe approach: 
     PCOS - about 15%
-    POI
     High prolactin (== -=FSH/ LH production)
     Hypothalamic (HH) -- functional amenorrhoea (HPOA)
         Hypogonadotrophic hypogonadism
+    Ovarian dysfunction
+        POI (premature ovarian insufficiency)
         Hypergonadotrophic hypogonadism
     Anatomical
-        MRKH - uterine agenesis (mullerian deformity)
-        XY
+        MRKH - uterine agenesis (mullerian deformity) "Mayer–Rokitansky–Küster–Hauser syndrome". vaginal hypoplasia and failure of uterus to develop.
+        XY female (gonadal agenesis)
 - PCOS
     + 15% prevalence
 - Hypothalamic

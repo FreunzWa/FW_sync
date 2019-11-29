@@ -1,9 +1,35 @@
 ###### Intrapartum period
 - normal birth: between 37-42 weeks in vertex position, spontaneous in onset and low risk
-- 
+[labor; forceful contractions that birth the baby and placenta]
+[fern test; to test if fern pattern is present in cervical muscus to tell if labor has started]
+
+# How to know when labor is starting
+    starts in various orders:
+        water breaking (ROM)
+        back-ache evolving into contractions
+    distinguish from false labor
+ - loss of mucous plug
+     + predates labor by usu 1-2 weeks, %at the very start of labor. accumulates during the cervix during prengnacy so is distinct from rputure of membrranes. %blood stained -- this is called show. 
+- water breaking
+    + gush of fluid @SROM == small-large gush of fluid depending on amounnt of fluid in amniotic sa, and heaed blocks some fluid exit.
+- contractions
+    + vs. false contractions (Braxton Hicks)
+    + may commence as a back-ache that morphs into contractions
+    + contractions:
+        * labor may start w/ contractions lasting 45-60 seconds
+- distinguish from false labor
+    + BH contractions
+        * timing: dont get closer together and are irregular
+        * contractions might stop @walk/ rest or might stop @change position
+    + real contractions
+        * become closer in time and length and strength of contractions. last 30-70 seconds and are regular.
+        * assoc with water break, pain in back, thigh, cramping abdominal pain/ pelvis
 
 # Physiology of pregnancy
-- increased herat rate, cardiac output, BP, physiological anaemia of pregnancy, +++GE reflux
+- increased heart rate, cardiac output, BP, physiological anaemia of pregnancy, +++GE reflux
+- @head engages with cervix == PG production == cervical ripening == loosening and dislodging of the mucous plug "show" which may predate delivery by ~1-2 weeks. can let midwife know @<37 weeks
+- @ROM == production nof PGs AND less cushioning between uterus and the baby == increases the fequency and force of ocntractions. 
+
 
 
 # Assessment

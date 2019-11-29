@@ -1,4 +1,9 @@
 ###### Sound
+[fudamental frequency; defined as the lowest resonstant frequency of a vibrating obvject. most vibratin g objects have more than one resonsant frequency]
+[transverse standing wave; wave affecting string. must return to zero at each en  dof teh string in transverse standing wave == the number of half avelngths must be an integer. quantised number of half wavelengths. nodes - points at zero amplitude, antinodes are points with maximum amplitude. string stationary @nodes. more nodes == more energy]
+[harmonic; an integer multiple of teh fundamental frequency ]
+
+
 
 # Sound intensity
 - intensity is measure of amount of energy trasnported by a wave per time through a plane of unit area perpendicular to waves propagation direction

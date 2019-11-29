@@ -11,6 +11,7 @@
     + psychological changes (mood disturbance)
     + joint aches/ pain
     + sleep disturbance (esp @hot flashes)
+    + migraines
 - treatment with HRT is either through oral or local therapy, depedning on the symptom
 - classicaly was also used to treat CHD and OP, but actually may increase risk of CHD according to WHI
 
@@ -111,3 +112,14 @@
         * cons
             - however androgenic side effects == acne, hair loss. 
             - increased risk of breast cancer @Fhx (OR 1.5)
+
+
+
+# Non hormonal options
+- vasomotor symptoms
+    + clonidine 
+        * marginal efficacy
+    + SSRIs
+        * venlafaxine has the best evidence
+    + Gabapentin
+        * however has bad side effects

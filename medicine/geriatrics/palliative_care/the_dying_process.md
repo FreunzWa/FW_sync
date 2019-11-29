@@ -46,7 +46,6 @@
     + entering the terminal phase of an illness
     + certain medications (opioids, benzos, SSRIs, alcohol)
 
-
 # Confirmation of death
 - confirmation of Excpected death
     + ensure patient is DNR, that the death was expected from a known disease process

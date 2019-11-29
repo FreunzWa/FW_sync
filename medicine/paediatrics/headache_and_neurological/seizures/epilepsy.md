@@ -1,7 +1,7 @@
 ###### Epilepsy and seizures
     5% children will have a seizure, usu fairly benign (eg @fever -- febrile convulsions), most common @<6 months @developing brain
-    epilepsy prevalence is 0.5%, prevalance highest in infancy @CNS immaturity, actually then increases later iin life.
-[epilespy; recurrent 2+ unprovoked seizures @genettic predisposition]
+    epilepsy prevalence is 0.5%, prevalance highest in infancy @CNS immaturity, but actually then increases later iin life.
+[epilespy; definition: recurrent 2+ unprovoked seizures @genettic predisposition]
 [epileptic seizures; abnormal excessive hypersynchronous activity from neurons in the cerebral cortex. clinical, electrical and neurochemical manifestations]
 [non epileptic 'seizures']
 [focal seizures; can become generalised secondarily, categorised @complex partial/ simple partial seizures dependingn on whether consciousness is affectted.]
@@ -13,11 +13,11 @@
 - 2+ unprovoked recurrent siezures
 - causes   
     + genetic epilepsies (primary/ idiopathic) 
-        * age dependent onset, veryt characteristic patterns on EEG, very goodd prognosis 
+        * age dependent onset, very characteristic patterns on EEG, very good prognosis 
         * polygenic are the most common, esp Ca2+, Na+ channels.
     + structural/ metabolic epilepsies (symptomaic/ secondary)
-        * usu @structural problems underlyhing egb trauma, infectio, HIE
-        * variable EEG patterns on anormal backgrounds
+        * usu @structural problems underlyhing egb trauma, infection, HIE, tumor
+        * variable EEG patterns on abnormal backgrounds
         * usu diagnosed @MRI
 
 # Epilepsy, classification 
@@ -32,7 +32,7 @@
 - based on location in brain of seizure onset
     + generalised
     + focal seizure
-- generalised seizures
+- generalised seizures (may be secondary to a focal seizure)
     + tonic clonic
     + absence
     + myoclonic
@@ -47,18 +47,18 @@
         * autonomic
         * dysphasic
     + complex partial seizures
-        * dyscognitive (complex partial - where consciousness is impaired)
+        * dyscognitive (complex partial - where consciousness is impaired), may include other simple sensory modalities affected
 
 # Clinical manifestations of various types of seizures
 - jerking contractions
 - staring episodes, being unreposnive
 - collapsing episodes
 
-# Differential diagnosis (other than sie)
+# Differential diagnosis (other than seizure)
 + normal phenomenon
     * sleep jerks, tantrums, day dreaming and innattention
 + syncope
-    * vasovagal atttacks/ syncope eg @valsalva, breath holdiing spells, long QT syndrome, stretch syncope
+    * vasovagal atttacks/ syncope eg @valsalva, breath holdiing spells, long QT syndrome, stretch syncope, arrhythmia
 + parasomnias
     * confusional arousals, night terrors, sleep walking ,cataplexy
 + migraiine variants
@@ -79,7 +79,7 @@
 - E
     + 
 - I
-    + home video, EEG monitoring
+    + home video, EEG monitoring (done after 2nd afebrile seizure to confirm diagnosis of epilepsy)
     + @recurrent = MRI
 
 
@@ -144,10 +144,10 @@
 - medical
     + mx
     + assoc
-        * tiny increased risk of epilespy
+        * tiny increased risk of epilespy, not significant for a simple FC
         * increased risk of more febrile seizures (1/3 rate of recurrence.)
     + rf
-        * high fever (peak rather than rate of rise is likely the cuase.)
+        * high fever (peak rather than rate of rise is more of a risk)
         * hyponatremia
         * viral infections esp influenza and HHV (bac less frequent)
 - diagnosis
