@@ -46,7 +46,7 @@ def remove(data):
 		raise ValueError("There are no activities. Add some activities using -a as a command line argument.")
 	else:
 		for count, a in enumerate(data['activities']):
-			print str(count) + ": " + a['name']
+			print(str(count) + ": " + a['name'])
 		n = input("===> Please select the number of the activity you wish to remove: ")
 		del data['activities'][n]
 		with open(JSON_FILE_PATH, 'w') as json_file:
@@ -59,14 +59,14 @@ def list_activities(data):
 		raise ValueError("There are no activities. Add some activities using -a as a command line argument.")
 	else:
 		for count, a in enumerate(data['activities']):
-			print str(count) + ": " + a['name']
+			print(str(count) + ": " + a['name'])
 
 
 def add(data):
 	#add a new activity to the .json file
-	activity_name = raw_input("Enter the activity name: ")
-	activity_desc = raw_input("Enter a description: ")
-	activity_web  = raw_input("Enter the website URL: ")
+	activity_name = input("Enter the activity name: ")
+	activity_desc = input("Enter a description: ")
+	activity_web  = input("Enter the website URL: ")
 	data['activities'].append({
 		'name':activity_name,
 		'desc':activity_desc,
@@ -79,18 +79,18 @@ def choose(data):
 	#randomly choose an activity
 	a = data['activities']
 
-	print "Choosing activity..."
+	print("Choosing activity...")
 	time.sleep(1)
 	if len(a) == 0:
 		raise ValueError("There are no activities. Add some activities using -a as a command line argument.")
 	else:
 		n = random.choice(a)
-		print "\n"+n['name'] + "\n"+ 10*"-"
-		print n['desc']
+		print("\n"+n['name'] + "\n"+ 10*"-")
+		print(n['desc'])
 		if len(n['web']) > 0:
-			print "You will be taken to the webpage shortly."
+			print("You will be taken to the webpage shortly.")
 			time.sleep(2)
-			print n['web']
+			print(n['web'])
 			return webbrowser.open(n['web'])
 
 
@@ -110,15 +110,15 @@ def main():
 	elif len(sys.argv) > 2:
 		raise ValueError("Too many arguments given. Please provide only one command line argument.") 
 	elif sys.argv[1] == "-a":
-		print "Launched in ADD mode"
+		print("Launched in ADD mode")
 		time.sleep(1)
 		add(data)
 	elif sys.argv[1] == "-r":
-		print "Launched in REMOVE mode"
+		print("Launched in REMOVE mode")
 		time.sleep(1)
 		remove(data)
 	elif sys.argv[1] == "-l":
-		print "Launched in LIST mode"
+		print("Launched in LIST mode")
 		time.sleep(1)
 		list_activities(data)
 	else:

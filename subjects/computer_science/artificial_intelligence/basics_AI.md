@@ -15,13 +15,6 @@
 - @overtrained on one dataset eg @small dataset == not generalisable responses
 - regularization is a technique that can be used on an NN to make it more generalised if overfitting is a potential issue. an obvious example is enforcing a limit of the number of patterns that it can focus on, so that it prioritises only patterns that are most helpful in making the final prediction - in theory more prominent features hosuld be more generalisable.
 
-# Types of AI
-        Artificial NArrow intelligence (ANI)
-        Artificial General intelligence (AGI) - similar cognitive abilities to humans
-        Artificial Suuper intelligencer (ASI) - far exceed capabilities of 
-- narrow AI vs. General AI (similar to the distinction between strong and weaek AI)
-    + AI built for a focused set of tasks (eg chess playing algorithms, self driving cars, medical imaging diagnostic tools)
-    + General AI: Hal 9000
 
 # Data sets
 - training set
