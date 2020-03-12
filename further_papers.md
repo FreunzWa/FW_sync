@@ -1,0 +1,10 @@
+- R.V.Menon,P.Raha, S.Kothari, S.Chakraborty,I.Chakrabarti, and R. Karim, “Automated detection and classification ofmass from breast ultrasound images,” in Proceedings of the 5th National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics, NCVPRIPG 2015, ind, December 2015.
+- H.D.Cheng,J.Shan,W.Ju,Y.Guo,andL.Zhang,“Automated breast cancer detection and classification using ultrasound images: a survey,” Pattern Recognition,vol.43,no.1,pp.299– 317, 2010.
+- “Computeraided diagnosis of breast masses using quantified BI-RADS findings”
+- Title: “Image denoising using curvelet transform: An approach of edge preserving
+- Title: “Automated breast cancer detection and classification using ultrasound images: A survey” [22] Author: “H.D. Cheng, Juan Shan, WenJu, Yanhui Guo, Ling Zhang” Publication: “Elsevier (2010)”
+- 44 in Huang et al 2017 Zhang et al. blurry US images with watershed
+- 47 in huang et al 2017 huang et al. graph based segmentation
+- 7 in RDAU-NET viramni et al. 6 despeckling filter algorithmss
+- 11 in Cao et al. used a watershed segmentaion method.
+- 
