@@ -5,17 +5,26 @@ from gtts import gTTS
 from chatterbot.trainers import ChatterBotCorpusTrainer
 import chatterbot
 
-LANGUAGE = 'en'
+LANGUAGE = 'en-uk'
 OUTPUT_PATH = './audioData/speechOutput.mp3'
+
+
+def play_response(message):
+	responseText = chatbot.get_response(message).text
+	speechObject = gTTS(text=responseText, lang=LANGUAGE, slow=False)
+	speechObject.save(OUTPUT_PATH)
+	print('Echoing speech --> ')
+	os.system('mpg123 '+ OUTPUT_PATH)
+
 
 if __name__ == '__main__':
 
 	#train the chatterbot
 	chatbot = chatterbot.ChatBot('HAL 9001')
 	trainer = chatterbot.trainers.ChatterBotCorpusTrainer(chatbot)
-	trainer.train('chatterbot.corpus.english', 
-    "chatterbot.corpus.english.greetings",
-    "chatterbot.corpus.english.conversations")
+	trainer.train('chatterbot.corpus.english') 
+	trainer.train('chatterbot.corpus.english.greetings') 
+	trainer.train('chatterbot.corpus.english.conversations') 
 
 	#create a recognizer object
 	r = sr.Recognizer()
@@ -28,27 +37,30 @@ if __name__ == '__main__':
 	DEVICE_INDEX = 7
 	mic = sr.Microphone(device_index = DEVICE_INDEX)
 
+
+
+	play_response('Hello!')
+
+
 	while True:
+
+
 		print('Speak for the recording --> ')	
 		with mic as source:
 			audio = r.listen(source)
 
 		try:
 			recognizedText = r.recognize_google(audio)	
-			print('Heard: ', recognizedText)
 
-			responseText = chatbot.get_response(recognizedText).text
-
-			speechObject = gTTS(text=responseText, lang=LANGUAGE, slow=False)
-			speechObject.save(OUTPUT_PATH)
-			print('Echoing speech --> ')
-			os.system('mpg123 '+ OUTPUT_PATH)
 
 
 		except:
 			print('Unable to decode speech! Please try to speak more clearly.')
 
-		
+		print('Heard: ', recognizedText)
+		play_response(recognizedText)
+
+	
 
 	if client.logout():
 		print('Log out successful.')
