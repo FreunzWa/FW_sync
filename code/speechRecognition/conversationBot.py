@@ -6,7 +6,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 import chatterbot
 
 LANGUAGE = 'en-uk'
-OUTPUT_PATH = './audioData/speechOutput.mp3'
+OUTPUT_PATH = './audio/speechOutput.mp3'
 
 
 def play_response(message):
@@ -17,15 +17,9 @@ def play_response(message):
 	os.system('mpg123 '+ OUTPUT_PATH)
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':	
 
-	#train the chatterbot
-	chatbot = chatterbot.ChatBot('HAL 9001')
-	trainer = chatterbot.trainers.ChatterBotCorpusTrainer(chatbot)
-	trainer.train('chatterbot.corpus.english') 
-	trainer.train('chatterbot.corpus.english.greetings') 
-	trainer.train('chatterbot.corpus.english.conversations') 
-
+	print('update worked.')
 	#create a recognizer object
 	r = sr.Recognizer()
 
@@ -34,8 +28,17 @@ if __name__ == '__main__':
 	print('Available input devices: ', micList)
 
 	#select an input device for the Microphone object to use
-	DEVICE_INDEX = 7
+	DEVICE_INDEX = 8
 	mic = sr.Microphone(device_index = DEVICE_INDEX)
+
+
+
+	#train the chatterbot
+	chatbot = chatterbot.ChatBot('HAL 9001')
+	trainer = chatterbot.trainers.ChatterBotCorpusTrainer(chatbot)
+	trainer.train('chatterbot.corpus.english') 
+	trainer.train('chatterbot.corpus.english.greetings') 
+	trainer.train('chatterbot.corpus.english.conversations') 
 
 
 

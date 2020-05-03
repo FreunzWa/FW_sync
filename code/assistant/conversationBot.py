@@ -4,6 +4,9 @@ import time
 from gtts import gTTS
 from chatterbot.trainers import ChatterBotCorpusTrainer
 import chatterbot
+from playsound import playsound
+
+
 
 LANGUAGE = 'en-uk'
 OUTPUT_PATH = './audioData/speechOutput.mp3'
@@ -14,7 +17,7 @@ def play_response(message):
 	speechObject = gTTS(text=responseText, lang=LANGUAGE, slow=False)
 	speechObject.save(OUTPUT_PATH)
 	print('Echoing speech --> ')
-	os.system('mpg123 '+ OUTPUT_PATH)
+	playsound(OUTPUT_PATH)
 
 
 if __name__ == '__main__':
@@ -34,7 +37,7 @@ if __name__ == '__main__':
 	print('Available input devices: ', micList)
 
 	#select an input device for the Microphone object to use
-	DEVICE_INDEX = 7
+	DEVICE_INDEX = 5
 	mic = sr.Microphone(device_index = DEVICE_INDEX)
 
 
@@ -52,13 +55,13 @@ if __name__ == '__main__':
 		try:
 			recognizedText = r.recognize_google(audio)	
 
+			print('Heard: ', recognizedText)
+			play_response(recognizedText)
+
 
 
 		except:
 			print('Unable to decode speech! Please try to speak more clearly.')
-
-		print('Heard: ', recognizedText)
-		play_response(recognizedText)
 
 	
 
