@@ -14,11 +14,26 @@
     envenomation 
     %medication
 
+# Arterial insufficiency ulcer (ischaemic ulcer)
+- rf
+    + cardiovascular risk factors (smoking etc.), IHD
+- pres
+    + painful
+    + punched out, located @distal extremities
+    + assoc @poor peripheral perfusion features
 
 # Neuropathic ulcer
 - basics
-- presentation 
-    + totally painless/ occur @pressure points w/ punched out morpholoy, usu within thick callous
+- pres
+    + totally painless 
+    + occur @pressure points eg MTP w/ punched out morpholoy, usu within thick callous. well demarcated
+    + granulation base
+
+# Venous ulcer
+- rf
+    + varicose veins/ other causes venous insufficiency
+    + painful 
+    + irregular margins, granulation base, commonly @gaiter area over medical malleolus
 
 # Pyoderma gangrenosum
 - basics
