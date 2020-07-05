@@ -17,6 +17,7 @@
         * impaired pump function of heart
         * circulatory obstruction
         * pathological vasodilation
+    + @severe hyperkalaemia (>7)
 
 # Asystole
 - rx

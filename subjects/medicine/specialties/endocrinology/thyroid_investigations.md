@@ -19,7 +19,7 @@
     + common cause to take TFTs @TRT due to hypothyroidism.
     + must stop subclinical hyperthyroidism @this increases the risk of bone disese/ AF. thus should screen even @asymptomatic
     + T4 may be used in cases of central hypothyroidism (secondary) w/ impaired TSH release. monitor T4, maintain in upper 50% of normal range. 
-    + TSH is also taken for follow up for thyroid cancer (in patients with subtotal resection). 
+    + T4 is also taken for follow up for thyroid cancer (in patients with subtotal resection). 
 - monitoring
     + serum TSH is used, @high == the dose needs to be increased, if too low == lowered dose necessary. 
 
