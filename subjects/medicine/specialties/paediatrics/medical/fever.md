@@ -53,7 +53,7 @@
 - @stable generally complete investigataions bnefopre starting abx
 - management differs @<28, 28-3 months and >3monnths.
 - consultaion with local paediatric team (high risk patients, unwell child, sepetic shock, neonates corrected age, advice regarding empiric antibiotics)
-- transfer to tert care @exceedinng level of comfort
+- transfer to tert care @exceeding level of comfort
 - always arrange a follow up
 
 
@@ -61,4 +61,3 @@
 - what to do in a fever
     + frequent small drinks and extra 
 
-# 

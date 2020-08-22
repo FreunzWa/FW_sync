@@ -56,12 +56,12 @@
     + give eczema managment plan
     + of infected eczema
         * remove crusts
-        * after removal of crusts and weeping == cortisone applied
         * @bacterial:   
             - PO Abx (flucox or cephalexin for 7-10 days)
             - IV Abx @unwell
             - cool bath with added white king bleach
             - swabs %taken @unsure of organism
+            - after removal of crusts and weeping == cortisone applied
         * @viral HSV
             - start aciclovir ASAP <48 hrs of symptoms. otherwise little benefit. IV @severe.
             - get opthal review @infection near eyes.

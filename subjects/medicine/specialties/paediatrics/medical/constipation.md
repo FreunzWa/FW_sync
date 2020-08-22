@@ -64,9 +64,3 @@
         * outpatient: sachets movicol or osmolax scoops
         * inpatient: NGT macrogol/ electrolyte solutions
 
-
-Given that a raft is b = 4.2 m wide and l = 6.5 m long. When a horse is loaded onto the raft, it sinks 2.7 cm ie Δh=0.027m
-
-deeper...
-
-See full answer below.

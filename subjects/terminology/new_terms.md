@@ -30,3 +30,9 @@
 - hadal zone
     + named @hades, the deepest region of the ocean lying @oceanic trenches from 6-11km under the surface.
     + most hadal habitat in the pacific ocean - challenger deep is the deepest point
+- gyradius  
+    + root mean square of the distance of the objects parts from the objects axis of gyration
+- leading hemisphere: @tidally lcoked the sde of a satellite that faces the object taht it is orbiting.
+- meteortic impact gardening (lunar gardening): process @impact events == stirring of crusts on bodies w/ no atmospheres. no atmosphere results in fine impact debris 'regolith' gathering on the surface. subsequent impacts @micrometeorties stir the soil. 
+- azimuthal quantum number
+    + quantum number for an atomic orbital that determines its orbital angular momentum, describing the shape of ists orbital. second set of QN that describe the unique state of an electron. (suchg as magnetic, spin, principal QNs)

@@ -4,7 +4,7 @@
 - medical
     + complications
         * facial nerve palsy
-        * atelecatasis of tM/ choleasteatoma
+        * atelecatasis of TM/ choleasteatoma
         * intracranial spread of infection is rare @well treeated.
         * Acute mastoiditis
         * otitis media with effusion
@@ -19,6 +19,7 @@
         * cloudy appearance behind TM
         * bulging TM
         * erythematous TM
+        * @red TM alone does not always == AOM (@crying/ febrile also)
         * obliteration of landmarks, no light reflex
     + I 
         * no requieement for routine investigations
@@ -30,8 +31,14 @@
     + @not improving
         * augmentin
 
+# TM perforation
+    AOM with TM perforation common
+- H
+    + relief of pain
+    + otorrhoea
+
 # Acute mastoiditis
-    rare, suppurative complication of AOM, assoc with intracranial compclication
+    rare, suppurative complication of AOM, assoc with intracranial compclication - serious
 
 - clinical
     + E
@@ -40,5 +47,4 @@
         * signs of AOM
     + M
         * flucloxacillin+ceftriaxone (@intracranial involvement)
-        * %surgical referral
-
+        * %ENT surgical referral

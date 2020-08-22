@@ -32,6 +32,15 @@
 - basics
     + nodule/ macule/ patch containing no melanin.
 
+# Staging
+- breslow depth is absolute measure of how far melanoma has invaded. important @prognostic staging.
+    + thickness of melanoma measured in mm. 
+        * <1 mm is epidermis
+        * 1-4 is in the dermis
+        * @>4 is in the hypodermis
+- Clark staging
+    + 5 levels @what tissue the melanoma has invaded into
+
 ----------------------------------------
 
 ### Squamous cell carcinoma
@@ -129,7 +138,32 @@
 ------------------------------------
 
 # Basal cell carcinoma
+- locally invasive skin cancer ++requiring treatment @early treatment reduces the risk of recurrence
+- natural history
+    + complications
+        * advanced BCC  
+            - ++@neglected tumors. may be impossible to treat surgically.
+        * metastatic BCC
+            - %%%. v rare
+        * recurrence
+            - BCC may recur locally, rf for this are:
+                + @>10mm diam in M areas (thus head/ neck more likely to recur)
+                + @>20mm diam in L areas
+                + perineural invaasion
+                + nodular/ superficial histo pattern
+                + already recurred
+                + poorly defined clinial borders
+                + immunosuppressed
+                + hx of radiation therapy at the site
+                + morphoeic/ micronodular/ infiltrative subtypes
 - types
     + superficial BCC (macular lesion, often after trauma/ burn erythema region that doesnt resolve)
     + nodular BCC (the one with pearly ages)
     + sclerosing morphoiec basal cell carcinoma
+- treatment
+    + ++recommend surgical excision 
+
+
+
+
+

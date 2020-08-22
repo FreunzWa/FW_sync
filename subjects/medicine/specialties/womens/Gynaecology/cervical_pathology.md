@@ -28,8 +28,13 @@
 - colposcope used +5% ascetic acid (vinegar) == cause appearance of abnormal cells == white discoloration of abnormal cells.
 - iodine
 
-# Management of dysplasia  
+# Management of dysplasia / diagnosis
     either under LA or GA
+    +vasoconstrictor often used
 - lazer ablation
-- loop excision
+    + less done now @more expensive and technically difficult
+- surgical 
+    + loop electrosurgical excision procedure AKA loop excision of the transformation zone (LEEP or LLETZ)
+        * uses thin wire shape of loop
+        * performed in office setting
 - cone biospy
