@@ -11,12 +11,14 @@
 - supervised/ unsupervised both prominent but unsupervised used more @++data on internet to be used that is not annotated.
 - neural machine translation (deep learning approach that obviates need for language pre-modeling that is important in other approaches.)
 
-
 # Major research goals in NLP
 - Syntax goals
+    + tokenising
+        * separating a piece of text into smaller units, such as a paragraph into sentences or a sentence into words
     + grammar induction
         * generate formal grammar that describes language syntax
     + lemmatisation
+        * grouping together the inflected forms of a word so they can be analysed as a single item
     + morpholobical segmentation
     + part of speech tagging (noun, adj, verb etc.)
     + parsing (determine the parse tree of a given sentence)
@@ -47,3 +49,6 @@
     + extremly inefficient @huge number of vecctor elements are 0 'sparse vectors' (unlike the dense vectoors produced in word embeddings)
 - uniqe number
     + this is more efficient, however the encoding is arbitrary (again no relationhhip betweeen word)
+
+
+# NLP processing pipeline

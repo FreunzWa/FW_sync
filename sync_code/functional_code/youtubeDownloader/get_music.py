@@ -1,12 +1,14 @@
 import os
 
-
+PATH = './output/'
 
 while True:
-    outputPath = 'C:/Users/Jack/Music/'
+
+    outputPath = PATH
+    if not os.path.exists('./output/'):
+        os.system('mkdir output')
+
     URL = input('Enter YT video URL\n==> ')
-    try:
-        os.system('youtube-dl --extract-audio --audio-format mp3 -o "{p}%(title)s.%(ext)s" {u}'.format(p=outputPath, u=URL))
-    except:
-        print('Download failed')
-    
+
+    os.system('youtube-dl --extract-audio --audio-format mp3 -o "{p}%(title)s.%(ext)s" {u}'.format(p=outputPath, u=URL))
+
