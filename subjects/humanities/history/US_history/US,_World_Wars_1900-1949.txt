@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-11-23T15:38:44+11:00
-
-====== US, World Wars 1900-1949 ======
-
